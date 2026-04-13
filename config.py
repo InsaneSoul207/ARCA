@@ -1,5 +1,5 @@
 """
-Alpha 2.0 — Central Configuration
+ARCA — Central Configuration
 All paths, model hyper-parameters, speech settings, UI colours and fonts live here.
 Import with:  from config import *   (UI files)
               from config import X, Y  (specific files)
@@ -7,7 +7,7 @@ Import with:  from config import *   (UI files)
 import os
  
 # ── Identity ───────────────────────────────────────────────────────────────────
-APP_NAME = "Alpha 2.0"
+APP_NAME = "ARCA"
 VERSION  = "MVP-1.0  |  Windows"
  
 # ── Paths ──────────────────────────────────────────────────────────────────────
@@ -76,11 +76,4 @@ FONT_LOG    = ("Consolas",  8)           # log pane entries
 FONT_COMPACT= ("Consolas",  8)           # compact mode labels
 
 
-CONTACTS={"eshaan" : "+918920512631", "mom":"+919873007432","mum":"+919873007432","dad":"+919999757862","aadityasuri":"+919667762563","aakanshBaghel":"+918115198893",
-"aman":"+919899177921","amogh":"+916390134070","anshdixit":"+919311053949","anshgarg":"+919310057049","anushka":"+919411776110","anveshmishra":"+919457740019",
-"arush":"+918527282060","atharvashah":"+918005698214","chaitanyasharma":"+918287036781","bhoomichauhan":"+918920165398","dhruvtaliyan":"+916395251516",
-"divyanshi":"+918630670854","saurabhsir":"+919910364680","gitali":"+919234075485","harsh":"+919315507269","harshvardhansingh":"+917898182921","kunsh":"+919625218815",
-"mainak":"+918436986507","muditagrawal":"+917267898789","mystery":"+918287319613","omnegi":"+919266148718","ojasvats":"+919311156738","plainaditya":"+918054214889",
-"prachimam":"+917378715067","pratham":"+919310811749","priyanshu":"+918709077479","sahilveergauto":"+919643995769","sanchit":"+919084180090",
-"shreya":"+918144963396","snehasingh":"+919682327558","tanusomani":"+919335308115","tanvigoyal":"+918882214741","timonne":"+918287258567","utkarshhhwaliahos":"+917417393838",
-"vijendra":"+917878086942", "vivek": "+917579281667"}#insert your contacts here in the format "Name": "Phone Number"
+CONTACTS={} #insert your contacts here in the format "Name": "Phone Number"
