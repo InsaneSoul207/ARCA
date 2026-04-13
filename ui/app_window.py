@@ -525,7 +525,7 @@ class Alpha2App:
         self._log('[System] Say  "ALPHA"  to activate the session.', ACCENT2)
         from core.translator import status as translator_status
         self._log(f"[System] {translator_status()}", TEXT_DIM)
-        speak("Alpha 2.0 online. Say Alpha to activate.")
+        speak("ARCA online. Say Alpha to activate.")
         self._wave_full.set_active(False)
         self._wave_compact.set_active(False)
         self._listener.start()
