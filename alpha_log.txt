@@ -1,0 +1,2571 @@
+[22:19:17] [WARN] [Executor] Module unavailable: tasks.whatsapp_tasks ï¿½ No module named 'tasks.whatsapp_tasks'
+[22:19:17] [WARN] [Executor] Module unavailable: tasks.ai_email ï¿½ No module named 'tasks.ai_email'
+[22:19:18] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[22:19:18] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[22:19:18] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[22:19:19] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[22:19:19] [INFO] [TTS] Engine initialised (rate=172)
+[22:19:20] [INFO] Mic calibrated (energy=30)
+[22:19:27] [INFO] [Translator] Detected language: vi
+[22:19:27] [INFO] [TTS] "Session active. Ready for your commands."
+[22:19:35] [INFO] [Translator] Detected language: no
+[22:19:36] [INFO] [Spotify] Launched from: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[22:19:39] [INFO] [TTS] "Spotify launched."
+[22:19:49] [INFO] [Translator] Detected language: hr
+[22:19:52] [INFO] [TTS] "Searching Spotify for: garaj garaj on spotify"
+[22:20:24] [INFO] [Translator] Detected language: lt
+[22:20:25] [INFO] [TTS] "Spotify play/pause toggled."
+[22:20:45] [INFO] [Translator] Detected language: sk
+[22:20:48] [INFO] [TTS] "Searching Spotify for: spotify"
+[22:21:02] [INFO] [Translator] Detected language: tl
+[22:21:05] [INFO] [TTS] "Searching Spotify for: dagabaaz re on spotify"
+[22:21:37] [INFO] [Translator] Detected language: no
+[22:21:38] [INFO] [FileSearch] Opened: C:\Users\Eshaan Mishra\OneDrive\Desktop\College\resume.docx
+[22:21:38] [INFO] [TTS] "Opened: resume.docx Path: C:\Users\Eshaan Mishra\OneDrive\Deï¿½"
+[22:22:20] [INFO] [Translator] Detected language: en
+[22:22:20] [INFO] [Mic] Heard: "open my resume PDF from the college"
+[22:23:11] [INFO] [TTS] "Could not find a file matching 'resume from the college'."
+[22:23:26] [INFO] Listener stopped.
+[22:23:50] [WARN] [Executor] Module unavailable: tasks.whatsapp_tasks ï¿½ No module named 'tasks.whatsapp_tasks'
+[22:23:50] [WARN] [Executor] Module unavailable: tasks.ai_email ï¿½ No module named 'tasks.ai_email'
+[22:23:52] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[22:23:52] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[22:23:52] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[22:23:52] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[22:23:52] [INFO] [TTS] Engine initialised (rate=172)
+[22:23:53] [INFO] Mic calibrated (energy=30)
+[22:24:00] [INFO] [Translator] Detected language: vi
+[22:24:00] [INFO] [TTS] "Session active. Ready for your commands."
+[22:24:12] [INFO] [Translator] Detected language: en
+[22:24:12] [INFO] [Mic] Heard: "find the latest screenshot you take"
+[22:24:12] [INFO] [FileSearch] Searching for: 'latest screenshot you take' ext=None
+[22:24:54] [WARN] [Executor] Module unavailable: tasks.whatsapp_tasks ï¿½ No module named 'tasks.whatsapp_tasks'
+[22:24:54] [WARN] [Executor] Module unavailable: tasks.ai_email ï¿½ No module named 'tasks.ai_email'
+[22:24:55] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[22:24:56] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[22:24:56] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[22:24:56] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[22:24:56] [INFO] [TTS] Engine initialised (rate=172)
+[22:24:57] [INFO] Mic calibrated (energy=33)
+[22:25:05] [INFO] [Translator] Detected language: en
+[22:25:05] [INFO] [Mic] Heard: "open the documents folder"
+[22:25:10] [INFO] [Translator] Detected language: vi
+[22:25:10] [INFO] [TTS] "Session active. Ready for your commands."
+[22:25:18] [INFO] [Translator] Detected language: en
+[22:25:18] [INFO] [Mic] Heard: "open the documents folder"
+[22:25:19] [INFO] [TTS] "Found file but could not open it: [WinError 1155] No applicaï¿½"
+[22:25:40] [INFO] [Translator] Detected language: en
+[22:25:40] [INFO] [Mic] Heard: "what are what are the weather"
+[22:25:41] [INFO] [TTS] "Current Weather: Connaught Place, India Condition : Haze Temï¿½"
+[22:26:26] [INFO] Listener stopped.
+[22:26:31] [WARN] [Executor] Module unavailable: tasks.whatsapp_tasks ï¿½ No module named 'tasks.whatsapp_tasks'
+[22:26:31] [WARN] [Executor] Module unavailable: tasks.ai_email ï¿½ No module named 'tasks.ai_email'
+[22:26:32] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[22:26:32] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[22:26:32] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[22:26:32] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[22:26:32] [INFO] [TTS] Engine initialised (rate=172)
+[22:26:34] [INFO] Mic calibrated (energy=30)
+[22:26:41] [INFO] [Translator] Detected language: vi
+[22:26:41] [INFO] [TTS] "Session active. Ready for your commands."
+[22:26:56] [INFO] [Translator] Detected language: en
+[22:26:56] [INFO] [Mic] Heard: "send a WhatsApp to Mum I will be late"
+[22:26:56] [INFO] [TTS] "WhatsApp (pywhatkit) module unavailable ï¿½ check requirementsï¿½"
+[22:27:59] [INFO] Listener stopped.
+[22:28:02] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[22:28:03] [INFO] [Translator] Detected language: en
+[22:28:03] [INFO] [Mic] Heard: "wake me at chancellor"
+[22:28:04] [INFO] Mic calibrated (energy=30)
+[22:28:05] [INFO] [Translator] Detected language: vi
+[22:28:05] [INFO] [TTS] "Session active. Ready for your commands."
+[22:28:52] [INFO] [Translator] Detected language: en
+[22:28:52] [INFO] [Mic] Heard: "the mail for me for a sick leave"
+[22:28:52] [INFO] [TTS] "Note saved: 'the mail for me for a sick leave'"
+[22:29:01] [INFO] [Translator] Detected language: en
+[22:29:01] [INFO] [Mic] Heard: "draught a mail for a sick leave"
+[22:29:01] [INFO] [TTS] "Note saved: 'draught a mail for a sick leave'"
+[22:29:14] [INFO] [Translator] Detected language: en
+[22:29:14] [INFO] [Mic] Heard: "write a mail for a sick leave"
+[22:29:14] [INFO] [TTS] "Note saved: 'write a mail for a sick leave'"
+[22:29:49] [INFO] [Translator] Detected language: en
+[22:29:49] [INFO] [Mic] Heard: "show notes"
+[22:29:49] [INFO] [TTS] "Notes: [22:28] the mail for me for a sick leave [22:29] drauï¿½"
+[22:30:24] [INFO] [Translator] Detected language: en
+[22:30:24] [INFO] [Mic] Heard: "write a professional email for a sick leave for me"
+[22:30:24] [INFO] [TTS] "Note saved: 'write a professional email for a sick leave forï¿½"
+[22:30:34] [INFO] [Translator] Detected language: pt
+[22:30:34] [INFO] [TTS] "AI Email (Ollama) module unavailable ï¿½ check requirements.txï¿½"
+[22:33:33] [INFO] [Translator] Detected language: so
+[22:33:33] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[22:33:40] [INFO] [Translator] Detected language: vi
+[22:33:40] [INFO] [TTS] "Session active. Ready for your commands."
+[22:33:44] [INFO] Listener stopped.
+[08:51:26] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[08:51:26] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[08:51:26] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[08:51:27] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[08:51:27] [INFO] [TTS] Engine initialised (rate=172)
+[08:51:29] [INFO] Mic calibrated (energy=30)
+[09:01:51] [INFO] [Translator] Detected language: en
+[09:01:51] [INFO] [Mic] Heard: "any person first start wala kar"
+[09:06:08] [INFO] [Translator] Detected language: en
+[09:06:08] [INFO] [Mic] Heard: "Western coast road wala"
+[09:06:18] [INFO] Listener stopped.
+[19:39:47] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:39:47] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:39:48] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:39:48] [INFO] [TTS] Engine initialised (rate=172)
+[19:39:49] [INFO] Mic calibrated (energy=30)
+[19:40:11] [INFO] Listener stopped.
+[19:40:15] [INFO] Listener stopped.
+[19:40:24] [INFO] Listener stopped.
+[19:40:39] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:40:39] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:40:39] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:40:39] [INFO] [TTS] Engine initialised (rate=172)
+[19:40:41] [INFO] Mic calibrated (energy=30)
+[19:42:18] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:42:18] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:42:18] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[19:42:18] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:42:18] [INFO] [TTS] Engine initialised (rate=172)
+[19:42:45] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:42:45] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:42:45] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[19:42:46] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:42:46] [INFO] [TTS] Engine initialised (rate=172)
+[19:43:24] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:43:24] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:43:24] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[19:43:24] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:43:24] [INFO] [TTS] Engine initialised (rate=172)
+[19:44:31] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:44:31] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:44:31] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:44:32] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:44:32] [INFO] [TTS] Engine initialised (rate=172)
+[19:44:33] [INFO] Mic calibrated (energy=30)
+[19:44:53] [INFO] [Translator] Detected language: vi
+[19:44:53] [INFO] [TTS] "Session active. Ready for your commands."
+[19:45:19] [INFO] [Translator] Detected language: en
+[19:45:19] [INFO] [Mic] Heard: "write a mail for sick leave"
+[19:45:19] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[19:46:07] [INFO] [Translator] Detected language: en
+[19:46:07] [INFO] [Mic] Heard: "write a mail for sick leave"
+[19:46:07] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[19:51:52] [INFO] [Translator] Detected language: en
+[19:51:52] [INFO] [Mic] Heard: "tell me what all can you do"
+[19:51:54] [INFO] [TTS] "Current Weather: Connaught Place, India Condition : Clear Teï¿½"
+[19:59:34] [INFO] [Translator] Detected language: it
+[19:59:34] [INFO] [TTS] "Good evening. Running on full power. What do you need?"
+[20:18:16] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:18:16] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:18:16] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[20:18:17] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[20:18:17] [INFO] [TTS] Engine initialised (rate=172)
+[20:18:18] [INFO] Mic calibrated (energy=30)
+[20:18:37] [INFO] [Translator] Detected language: vi
+[20:18:37] [INFO] [TTS] "Session active. Ready for your commands."
+[20:18:47] [INFO] [Translator] Detected language: en
+[20:18:47] [INFO] [Mic] Heard: "draught me a mail for sick"
+[20:18:47] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[20:19:29] [INFO] [Translator] Detected language: en
+[20:19:29] [INFO] [Mic] Heard: "draught me a mail for sick leave"
+[20:19:29] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[20:20:18] [INFO] [Translator] Detected language: en
+[20:20:18] [INFO] [Mic] Heard: "play song on Spotify"
+[20:20:19] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[20:20:28] [INFO] [TTS] "Searching Spotify for: song on spotify"
+[20:20:33] [INFO] [Translator] Detected language: tl
+[20:20:36] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[20:20:48] [INFO] [Translator] Detected language: sk
+[20:20:51] [INFO] [TTS] "Searching Spotify for: spotify"
+[20:20:59] [INFO] [Translator] Detected language: tl
+[20:21:15] [INFO] [Translator] Detected language: tl
+[20:21:18] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[20:22:48] [INFO] [Translator] Detected language: sv
+[20:22:49] [INFO] [TTS] "Could not delete event: credentials.json not found at c:\Useï¿½"
+[20:23:49] [INFO] [Translator] Detected language: en
+[20:23:49] [INFO] [Mic] Heard: "play the next song on Spotify"
+[20:23:49] [INFO] [MultiTask] Split into 2 commands: ['play the', 'song on spotify']
+[20:23:49] [INFO] [MultiTask] Split into 2 commands: ['play the', 'song on spotify']
+[20:23:49] [INFO] [MultiTask] Split into 2 commands: ['play the', 'song on spotify']
+[20:23:49] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[20:23:51] [INFO] [Translator] Detected language: en
+[20:23:51] [INFO] [Mic] Heard: "go to next turn on Spotify"
+[20:23:53] [INFO] [TTS] "Spotify launched.. Spotify is already running."
+[20:23:53] [INFO] [MultiTask] Split into 2 commands: ['go to', 'turn on spotify']
+[20:23:53] [INFO] [MultiTask] Split into 2 commands: ['go to', 'turn on spotify']
+[20:23:53] [INFO] [MultiTask] Split into 2 commands: ['go to', 'turn on spotify']
+[20:23:54] [INFO] [TTS] "Opening GitHub.. Spotify is already running."
+[20:31:18] [INFO] Listener stopped.
+[21:29:06] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:29:06] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[21:29:06] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[21:29:06] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[21:29:06] [INFO] [TTS] Engine initialised (rate=172)
+[21:29:06] [INFO] [Clap] Audio stream open (threshold=3000)
+[17:29:25] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:29:25] [INFO] [TTS] "Good evening!"
+[17:29:25] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:29:25] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[17:29:35] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:29:35] [INFO] [TTS] Engine initialised (rate=172)
+[17:29:47] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:29:47] [INFO] [TTS] "Good evening!"
+[17:29:47] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:29:47] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[17:29:47] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:29:47] [INFO] [TTS] Engine initialised (rate=172)
+[17:29:48] [INFO] [Clap] Audio stream open (threshold=3000)
+[17:31:21] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:31:21] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:31:21] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:31:21] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:31:21] [INFO] [TTS] Engine initialised (rate=172)
+[17:31:23] [INFO] Mic calibrated (energy=98)
+[17:31:39] [INFO] [Translator] Detected language: vi
+[17:31:39] [INFO] [TTS] "Session active. Ready for your commands."
+[17:31:47] [INFO] [Translator] Detected language: tl
+[17:31:51] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[17:31:54] [INFO] [TTS] "Spotify launched."
+[17:32:03] [INFO] [TTS] "Searching Spotify for: dagabaaz on spotify"
+[17:32:03] [INFO] [TTS] "Searching Spotify for: dagabaaz on spotify"
+[17:32:21] [INFO] [Translator] Detected language: tl
+[17:32:29] [INFO] [TTS] "Searching Spotify for: dagabaaz re on spotify"
+[17:32:29] [INFO] [TTS] "Searching Spotify for: dagabaaz re on spotify"
+[17:32:30] [INFO] [Translator] Detected language: tl
+[17:32:37] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[17:32:37] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[17:32:45] [INFO] [Translator] Detected language: en
+[17:32:45] [INFO] [Mic] Heard: "Play Minecraft CR"
+[17:32:51] [INFO] [Translator] Detected language: en
+[17:32:51] [INFO] [Mic] Heard: "Play Minecraft"
+[17:32:58] [INFO] [TTS] "Searching Spotify for: minecraft"
+[17:32:58] [INFO] [TTS] "Searching Spotify for: minecraft"
+[17:33:10] [INFO] [Translator] Detected language: tl
+[17:33:16] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:33:16] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:33:37] [INFO] [Translator] Detected language: tl
+[17:33:44] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:33:44] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:33:52] [INFO] [Translator] Detected language: af
+[17:33:52] [INFO] [TTS] "Evening. What still needs to get done?"
+[17:34:09] [INFO] [Translator] Detected language: so
+[17:34:09] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[17:34:12] [INFO] Listener stopped.
+[17:39:45] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:39:46] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:39:46] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:39:46] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:39:46] [INFO] [TTS] Engine initialised (rate=172)
+[17:39:47] [INFO] Mic calibrated (energy=406)
+[17:40:00] [INFO] [Translator] Detected language: vi
+[17:40:00] [INFO] [TTS] "Session active. Ready for your commands."
+[17:40:13] [INFO] [Translator] Detected language: en
+[17:40:13] [INFO] [Mic] Heard: "play Chak De"
+[17:40:30] [INFO] [Translator] Detected language: tl
+[17:40:34] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[17:40:37] [INFO] [TTS] "Spotify launched."
+[17:40:46] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:40:46] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:40:46] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:41:10] [INFO] [Translator] Detected language: en
+[17:41:10] [INFO] [Mic] Heard: "pause the music"
+[17:41:10] [INFO] [TTS] "Volume muted."
+[17:41:17] [INFO] [Translator] Detected language: en
+[17:41:17] [INFO] [Mic] Heard: "increase volume to 50%"
+[17:41:17] [INFO] [TTS] "Volume increased to 10 percent."
+[17:41:24] [INFO] [Translator] Detected language: ro
+[17:41:24] [INFO] [TTS] "Volume increased to 20 percent."
+[17:41:26] [INFO] [Translator] Detected language: ro
+[17:41:26] [INFO] [TTS] "Volume increased to 30 percent."
+[17:41:28] [INFO] [Translator] Detected language: ro
+[17:41:28] [INFO] [TTS] "Volume increased to 40 percent."
+[17:41:30] [INFO] [Translator] Detected language: ro
+[17:41:30] [INFO] [TTS] "Volume increased to 50 percent."
+[17:41:34] [INFO] [Translator] Detected language: ro
+[17:41:34] [INFO] [TTS] "Volume increased to 60 percent."
+[17:41:42] [INFO] [Translator] Detected language: ro
+[17:41:42] [INFO] [TTS] "Volume increased to 70 percent."
+[17:41:49] [INFO] [Translator] Detected language: ro
+[17:41:49] [INFO] [TTS] "Volume decreased to 60 percent."
+[17:42:01] [INFO] [Translator] Detected language: en
+[17:42:01] [INFO] [Mic] Heard: "pause the song"
+[17:42:01] [INFO] [TTS] "Volume muted."
+[17:42:05] [INFO] [Translator] Detected language: en
+[17:42:05] [INFO] [Mic] Heard: "increase volume increase"
+[17:42:05] [INFO] [TTS] "Volume increased to 10 percent."
+[17:42:11] [INFO] [Translator] Detected language: ro
+[17:42:11] [INFO] [TTS] "Volume increased to 20 percent."
+[17:42:13] [INFO] [Translator] Detected language: ro
+[17:42:13] [INFO] [TTS] "Volume increased to 30 percent."
+[17:42:16] [INFO] [Translator] Detected language: ro
+[17:42:16] [INFO] [TTS] "Volume increased to 40 percent."
+[17:42:19] [INFO] [Translator] Detected language: ro
+[17:42:19] [INFO] [TTS] "Volume increased to 50 percent."
+[17:43:05] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:43:05] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:43:05] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:43:05] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:43:05] [INFO] [TTS] Engine initialised (rate=172)
+[17:43:06] [INFO] Mic calibrated (energy=170)
+[17:43:13] [INFO] [Translator] Detected language: vi
+[17:43:13] [INFO] [TTS] "Session active. Ready for your commands."
+[17:43:21] [INFO] [Translator] Detected language: tl
+[17:43:24] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[17:43:27] [INFO] [TTS] "Spotify launched."
+[17:43:36] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:43:36] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:43:36] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:43:45] [INFO] [Translator] Detected language: tl
+[17:43:48] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[17:43:51] [INFO] [TTS] "Spotify launched."
+[17:44:00] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:44:00] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:44:00] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:44:08] [INFO] [Translator] Detected language: en
+[17:44:08] [INFO] [Mic] Heard: "decrease the volume"
+[17:44:08] [INFO] [TTS] "Volume decreased to 40 percent."
+[17:44:13] [INFO] [Translator] Detected language: en
+[17:44:13] [INFO] [Mic] Heard: "decrease the"
+[17:44:13] [INFO] [TTS] "Volume decreased to 30 percent."
+[17:44:40] [INFO] [Translator] Detected language: en
+[17:44:40] [INFO] [Mic] Heard: "search on summarise on Alpha"
+[17:44:40] [INFO] [TTS] "Goodbye. Shutting down."
+[17:44:40] [INFO] [TTS] "System offline."
+[17:44:41] [INFO] Listener stopped.
+[17:45:10] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:45:10] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:45:10] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:45:10] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:45:10] [INFO] [TTS] Engine initialised (rate=172)
+[17:45:12] [INFO] Mic calibrated (energy=89)
+[17:45:18] [INFO] [Translator] Detected language: vi
+[17:45:18] [INFO] [TTS] "Session active. Ready for your commands."
+[17:45:32] [INFO] [Translator] Detected language: en
+[17:45:32] [INFO] [Mic] Heard: "what are the latest GitHub trends"
+[17:45:33] [INFO] [News] BBC: 10 headlines
+[17:45:33] [INFO] [TTS] "Fetched 10 headlines from BBC News."
+[17:45:33] [INFO] [TTS] "Here are the top headlines:"
+[17:45:33] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[17:45:33] [INFO] [TTS] "2. The five big sticking points in the talks"
+[17:45:33] [INFO] [TTS] "3. The most spectacular images of the Moon mission"
+[17:45:33] [INFO] [TTS] "4. Final push for votes as challenger to Hungary's Orbï¿½n senï¿½"
+[17:45:33] [INFO] [TTS] "5. Artemis crew home safely after completing historic missioï¿½"
+[17:45:33] [INFO] [TTS] "6. An inappropriate joke nearly ended his career. Now he's bï¿½"
+[17:45:33] [INFO] [TTS] "7. Gunmen kill at least four people at Afghanistan picnic spï¿½"
+[17:45:33] [INFO] [TTS] "8. South Korea deploys thermal imaging cameras in search forï¿½"
+[17:45:33] [INFO] [TTS] "9. Melania Trump's speech propels Epstein crisis back to forï¿½"
+[17:45:33] [INFO] [TTS] "10. Trump administration unveils 250-foot 'Triumphal Arch' dï¿½"
+[17:45:33] [INFO] [TTS] "Here are the top headlines from BBC News."
+[17:45:33] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[17:45:33] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[17:45:33] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[17:45:40] [INFO] [Translator] Detected language: en
+[17:45:40] [INFO] [Mic] Heard: "what are the latest trends"
+[17:45:41] [INFO] [News] BBC: 10 headlines
+[17:45:41] [INFO] [TTS] "Fetched 10 headlines from BBC News."
+[17:45:41] [INFO] [TTS] "Here are the top headlines:"
+[17:45:41] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[17:45:41] [INFO] [TTS] "2. The five big sticking points in the talks"
+[17:45:41] [INFO] [TTS] "3. The most spectacular images of the Moon mission"
+[17:45:41] [INFO] [TTS] "4. Melania Trump's speech propels Epstein crisis back to forï¿½"
+[17:45:41] [INFO] [TTS] "5. Artemis crew home safely after completing historic missioï¿½"
+[17:45:41] [INFO] [TTS] "6. An inappropriate joke nearly ended his career. Now he's bï¿½"
+[17:45:41] [INFO] [TTS] "7. Gunmen kill at least four people at Afghanistan picnic spï¿½"
+[17:45:41] [INFO] [TTS] "8. South Korea deploys thermal imaging cameras in search forï¿½"
+[17:45:41] [INFO] [TTS] "9. Trump administration unveils 250-foot 'Triumphal Arch' deï¿½"
+[17:45:41] [INFO] [TTS] "10. Final push for votes as challenger to Hungary's Orbï¿½n seï¿½"
+[17:45:41] [INFO] [TTS] "Here are the top headlines from BBC News."
+[17:45:41] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[17:45:41] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[17:45:41] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[17:45:45] [INFO] [Translator] Detected language: en
+[17:45:45] [INFO] [Mic] Heard: "tell me the latest trend"
+[17:45:45] [INFO] [News] BBC: 10 headlines
+[17:45:45] [INFO] [TTS] "Fetched 10 headlines from BBC News."
+[17:45:45] [INFO] [TTS] "Here are the top headlines:"
+[17:45:45] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[17:45:45] [INFO] [TTS] "2. The five big sticking points in the talks"
+[17:45:45] [INFO] [TTS] "3. The most spectacular images of the Moon mission"
+[17:45:45] [INFO] [TTS] "4. Melania Trump's speech propels Epstein crisis back to forï¿½"
+[17:45:45] [INFO] [TTS] "5. Artemis crew home safely after completing historic missioï¿½"
+[17:45:45] [INFO] [TTS] "6. An inappropriate joke nearly ended his career. Now he's bï¿½"
+[17:45:45] [INFO] [TTS] "7. Gunmen kill at least four people at Afghanistan picnic spï¿½"
+[17:45:45] [INFO] [TTS] "8. South Korea deploys thermal imaging cameras in search forï¿½"
+[17:45:45] [INFO] [TTS] "9. Trump administration unveils 250-foot 'Triumphal Arch' deï¿½"
+[17:45:45] [INFO] [TTS] "10. Final push for votes as challenger to Hungary's Orbï¿½n seï¿½"
+[17:45:45] [INFO] [TTS] "Here are the top headlines from BBC News."
+[17:45:45] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[17:45:45] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[17:45:45] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[17:45:49] [INFO] [Translator] Detected language: en
+[17:45:49] [INFO] [Mic] Heard: "let's see the trend"
+[17:48:28] [INFO] [Translator] Detected language: sv
+[17:48:37] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:48:37] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:48:37] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:48:38] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:48:38] [INFO] [TTS] Engine initialised (rate=172)
+[17:48:39] [INFO] Mic calibrated (energy=181)
+[17:48:42] [INFO] [Translator] Detected language: vi
+[17:48:42] [INFO] [TTS] "Session active. Ready for your commands."
+[17:48:43] [INFO] [Translator] Detected language: vi
+[17:48:50] [INFO] [Translator] Detected language: tl
+[17:48:55] [INFO] [Translator] Detected language: tl
+[17:48:55] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:48:58] [INFO] [Translator] Detected language: tl
+[17:48:58] [INFO] [Translator] Detected language: tl
+[17:49:02] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:02] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:02] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:03] [INFO] Listener stopped.
+[17:49:10] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:10] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:18] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:49:18] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:49:18] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:49:18] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:49:18] [INFO] [TTS] Engine initialised (rate=172)
+[17:49:20] [INFO] Mic calibrated (energy=107)
+[17:49:22] [INFO] [Translator] Detected language: vi
+[17:49:22] [INFO] [TTS] "Session active. Ready for your commands."
+[17:49:31] [INFO] [Translator] Detected language: tl
+[17:49:31] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:38] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:38] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:50] [INFO] [Translator] Detected language: tl
+[17:49:50] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:49:53] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[17:49:56] [INFO] [TTS] "Spotify launched."
+[17:50:07] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:50:07] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:50:18] [INFO] [Translator] Detected language: tl
+[17:50:18] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:50:26] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:50:26] [INFO] [TTS] "Searching Spotify for: mutation"
+[17:50:30] [INFO] Listener stopped.
+[17:55:35] [WARN] [Executor] Module unavailable: tasks.spotify_tasks ï¿½ No module named 'speaker'
+[17:55:35] [INFO] [TTS] "Some features may be unavailable: spotify tasks module faileï¿½"
+[17:55:36] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:55:36] [INFO] [TTS] Engine initialised (rate=172)
+[17:55:37] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:55:37] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:55:37] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:55:38] [INFO] Mic calibrated (energy=97)
+[17:55:53] [INFO] [Translator] Detected language: vi
+[17:55:53] [INFO] [TTS] "Session active. Ready for your commands."
+[17:55:57] [INFO] Listener stopped.
+[17:56:02] [WARN] [Executor] Module unavailable: tasks.spotify_tasks ï¿½ No module named 'speaker'
+[17:56:02] [INFO] [TTS] "Some features may be unavailable: spotify tasks module faileï¿½"
+[17:56:02] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:56:02] [INFO] [TTS] Engine initialised (rate=172)
+[17:56:03] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:56:03] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:56:03] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:56:04] [INFO] Mic calibrated (energy=108)
+[17:57:13] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[17:57:13] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[17:57:13] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[17:57:13] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[17:57:13] [INFO] [TTS] Engine initialised (rate=172)
+[17:57:14] [INFO] Mic calibrated (energy=131)
+[17:57:21] [INFO] [Translator] Detected language: vi
+[17:57:21] [INFO] [TTS] "Session active. Ready for your commands."
+[17:57:32] [INFO] [Translator] Detected language: nl
+[17:57:32] [INFO] [TTS] "Opening YouTube."
+[17:57:32] [INFO] [TTS] "Opening YouTube."
+[17:57:40] [INFO] [Translator] Detected language: en
+[17:57:40] [INFO] [Mic] Heard: "search for gamer"
+[17:57:40] [INFO] [FileSearch] Searching for: 'gamer' ext=None
+[17:58:30] [INFO] [TTS] "Found 5 files matching 'gamer'"
+[17:58:30] [INFO] [TTS] "Found 5 files xgameruntime.dll 4MB 21 Mar 2026 C:\Windows\Syï¿½"
+[17:58:30] [INFO] [TTS] "Found 5 files xgameruntime.dll 4MB 21 Mar 2026 C:\Windows\Syï¿½"
+[17:58:47] [INFO] [Translator] Detected language: en
+[17:58:47] [INFO] [Mic] Heard: "search Google for gamer"
+[17:58:47] [INFO] [FileSearch] Searching for: 'google for gamer' ext=None
+[17:59:17] [INFO] [TTS] "No files found matching 'google for gamer'"
+[17:59:17] [INFO] [TTS] "No files found matching 'google for gamer'"
+[17:59:17] [INFO] [TTS] "No files found matching 'google for gamer'"
+[18:00:02] [INFO] [Translator] Detected language: en
+[18:00:02] [INFO] [Mic] Heard: "search the web about"
+[18:00:02] [INFO] [Search+Summarize] Query: search the web about
+[18:00:03] [INFO] [Search] Found 0 URLs for: search the web about
+[18:00:03] [INFO] [TTS] "Could not find search results for: search the web about"
+[18:00:03] [INFO] [TTS] "Could not find search results for: search the web about"
+[18:00:17] [INFO] [Translator] Detected language: en
+[18:00:17] [INFO] [Mic] Heard: "search the web about harmful effects of"
+[18:00:17] [INFO] [Search+Summarize] Query: search the web about harmful effects of
+[18:00:19] [INFO] [Search] Found 0 URLs for: search the web about harmful effects of
+[18:00:19] [INFO] [TTS] "Could not find search results for: search the web about harmï¿½"
+[18:00:19] [INFO] [TTS] "Could not find search results for: search the web about harmï¿½"
+[18:00:25] [INFO] Listener stopped.
+[18:00:46] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:00:47] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:00:47] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:00:47] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:00:47] [INFO] [TTS] Engine initialised (rate=172)
+[18:00:57] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:00:57] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:00:57] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:00:57] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:00:57] [INFO] [TTS] Engine initialised (rate=172)
+[18:00:58] [INFO] Mic calibrated (energy=163)
+[18:01:04] [INFO] [Translator] Detected language: vi
+[18:01:04] [INFO] [TTS] "Session active. Ready for your commands."
+[18:01:15] [INFO] [Translator] Detected language: en
+[18:01:15] [INFO] [Mic] Heard: "search the web for harmful effects of AI"
+[18:01:15] [INFO] [Search+Summarize] Query: search the web for harmful effects of ai
+[18:01:16] [INFO] [Search] Found 0 URLs for: search the web for harmful effects of ai
+[18:01:16] [INFO] [TTS] "Could not find search results for: search the web for harmfuï¿½"
+[18:01:16] [INFO] [TTS] "Could not find search results for: search the web for harmfuï¿½"
+[18:02:38] [INFO] [Translator] Detected language: en
+[18:02:38] [INFO] [Mic] Heard: "search the web"
+[18:02:39] [INFO] [TTS] "Opening your default browser."
+[18:02:39] [INFO] [TTS] "Opening your default browser."
+[18:02:39] [INFO] [TTS] "Opening your default browser."
+[18:03:41] [INFO] [Translator] Detected language: en
+[18:03:41] [INFO] [Mic] Heard: "search the web for anthropic"
+[18:03:41] [INFO] [Search+Summarize] Query: search the web for anthropic
+[18:03:42] [INFO] [Search] Found 0 URLs for: search the web for anthropic
+[18:03:42] [INFO] [TTS] "Could not find search results for: search the web for anthroï¿½"
+[18:03:42] [INFO] [TTS] "Could not find search results for: search the web for anthroï¿½"
+[18:03:47] [INFO] Listener stopped.
+[18:06:38] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:06:38] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:06:38] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:06:38] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:06:38] [INFO] [TTS] Engine initialised (rate=172)
+[18:06:39] [INFO] Mic calibrated (energy=465)
+[18:06:53] [INFO] [Translator] Detected language: vi
+[18:06:53] [INFO] [TTS] "Session active. Ready for your commands."
+[18:06:54] [INFO] [Translator] Detected language: vi
+[18:06:55] [INFO] [TTS] "Goodbye. Shutting down."
+[18:06:55] [INFO] [TTS] "System offline."
+[18:06:55] [INFO] Listener stopped.
+[18:07:10] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:07:10] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:07:10] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:07:10] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:07:10] [INFO] [TTS] Engine initialised (rate=172)
+[18:07:11] [INFO] Mic calibrated (energy=162)
+[18:07:17] [INFO] [Translator] Detected language: vi
+[18:07:17] [INFO] [TTS] "Session active. Ready for your commands."
+[18:07:28] [INFO] [Translator] Detected language: en
+[18:07:28] [INFO] [Mic] Heard: "search the web for anthrop"
+[18:07:28] [INFO] [Search+Summarize] Query: anthrop
+[18:07:30] [INFO] [Search] Found 0 URLs for: anthrop
+[18:07:30] [INFO] [TTS] "Could not find search results for: anthrop"
+[18:07:30] [INFO] [TTS] "Could not find search results for: anthrop"
+[18:07:38] [INFO] [Translator] Detected language: en
+[18:07:38] [INFO] [Mic] Heard: "search the web for Google"
+[18:07:38] [INFO] [Search+Summarize] Query: google
+[18:07:39] [INFO] [Search] Found 0 URLs for: google
+[18:07:39] [INFO] [TTS] "Could not find search results for: google"
+[18:07:39] [INFO] [TTS] "Could not find search results for: google"
+[18:08:45] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:08:45] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:08:45] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:08:45] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:08:45] [INFO] [TTS] Engine initialised (rate=172)
+[18:08:46] [INFO] Mic calibrated (energy=193)
+[18:08:57] [INFO] [Translator] Detected language: vi
+[18:08:57] [INFO] [TTS] "Session active. Ready for your commands."
+[18:09:05] [INFO] [Translator] Detected language: en
+[18:09:05] [INFO] [Mic] Heard: "search the web for anthropic"
+[18:09:05] [INFO] [Search+Summarize] Query: anthropic
+[18:09:06] [INFO] [Search] Found 0 URLs for: anthropic
+[18:09:06] [INFO] [TTS] "Could not find search results for: anthropic"
+[18:09:06] [INFO] [TTS] "Could not find search results for: anthropic"
+[18:09:14] [INFO] [Translator] Detected language: en
+[18:09:14] [INFO] [Mic] Heard: "search the web for Google"
+[18:09:14] [INFO] [Search+Summarize] Query: google
+[18:09:15] [INFO] [Search] Found 0 URLs for: google
+[18:09:15] [INFO] [TTS] "Could not find search results for: google"
+[18:09:15] [INFO] [TTS] "Could not find search results for: google"
+[18:10:28] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:10:29] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:10:29] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:10:29] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:10:29] [INFO] [TTS] Engine initialised (rate=172)
+[18:10:30] [INFO] Mic calibrated (energy=301)
+[18:10:36] [INFO] [Translator] Detected language: vi
+[18:10:36] [INFO] [TTS] "Session active. Ready for your commands."
+[18:10:44] [INFO] [Translator] Detected language: en
+[18:10:44] [INFO] [Mic] Heard: "search the web for Google"
+[18:10:44] [INFO] [Search+Summarize] Query: google
+[18:10:45] [INFO] [Search] Found 0 URLs for: google
+[18:10:45] [INFO] [TTS] "Could not find search results for: google"
+[18:10:45] [INFO] [TTS] "Could not find search results for: google"
+[18:12:07] [ERROR] STT (en) error: recognition connection failed: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+[18:12:12] [ERROR] STT (en) error: recognition connection failed: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+[18:12:25] [INFO] Listener stopped.
+[18:12:48] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:12:48] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:12:48] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:12:48] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:12:48] [INFO] [TTS] Engine initialised (rate=172)
+[18:12:50] [INFO] Mic calibrated (energy=210)
+[18:12:56] [INFO] [Translator] Detected language: vi
+[18:12:57] [INFO] [TTS] "Session active. Ready for your commands."
+[18:13:04] [INFO] [Translator] Detected language: en
+[18:13:04] [INFO] [Mic] Heard: "search the web for Google"
+[18:13:04] [INFO] [Search+Summarize] Query: google
+[18:13:06] [INFO] [Search] Found 0 URLs for: google
+[18:13:06] [INFO] [TTS] "Could not find search results for: google"
+[18:13:06] [INFO] [TTS] "Could not find search results for: google"
+[18:13:11] [INFO] Listener stopped.
+[18:14:34] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:14:34] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:14:34] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:14:34] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:14:34] [INFO] [TTS] Engine initialised (rate=172)
+[18:14:35] [INFO] Mic calibrated (energy=270)
+[18:14:43] [INFO] [Translator] Detected language: vi
+[18:14:43] [INFO] [TTS] "Session active. Ready for your commands."
+[18:14:52] [INFO] [Translator] Detected language: en
+[18:14:52] [INFO] [Mic] Heard: "search the web for Google"
+[18:14:52] [INFO] [Search+Summarize] Query: google
+[18:14:53] [INFO] [DDG Search] Found 5 URLs for: google
+[18:15:04] [INFO] [Ollama] Summary generated (373 chars)
+[18:15:04] [INFO] [TTS] "Here's a summary of what I found:"
+[18:15:04] [INFO] [TTS] "Here's what I found: Google is a search engine and more! It ï¿½"
+[18:15:04] [INFO] [TTS] "Here's what I found: Google is a search engine and more! It ï¿½"
+[18:15:04] [INFO] [TTS] "Here's what I found: Google is a search engine and more! It ï¿½"
+[18:15:13] [INFO] Listener stopped.
+[18:15:33] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:15:33] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:15:33] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:15:33] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:15:33] [INFO] [TTS] Engine initialised (rate=172)
+[18:15:34] [INFO] Mic calibrated (energy=139)
+[18:15:58] [INFO] [Translator] Detected language: vi
+[18:15:58] [INFO] [TTS] "Session active. Ready for your commands."
+[18:16:07] [INFO] [Translator] Detected language: en
+[18:16:07] [INFO] [Mic] Heard: "write a mail for"
+[18:16:07] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:16:07] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:16:28] [WARN] [AIEmail] JSON parse failed ï¿½ using raw response as body
+[18:16:28] [INFO] [TTS] "Ollama responded but I couldn't parse the email. Using the rï¿½"
+[18:16:39] [INFO] [Email] Sent to eshaanmisra12@gmail.com ï¿½ Re: write a mail for
+[18:16:39] [INFO] [TTS] "Email sent to eshaanmisra12@gmail.com."
+[18:17:11] [INFO] [Translator] Detected language: en
+[18:17:11] [INFO] [Mic] Heard: "what all can you do"
+[18:17:12] [INFO] [TTS] "Tesseract not found. Install from: Then run: pip install pytï¿½"
+[18:17:12] [INFO] [TTS] "Tesseract not found. Install from: Then run: pip install pytï¿½"
+[18:17:12] [INFO] [TTS] "Tesseract not found. Install from: Then run: pip install pytï¿½"
+[18:17:40] [INFO] [Translator] Detected language: en
+[18:17:40] [INFO] [Mic] Heard: "WhatsApp mum"
+[18:17:40] [INFO] Launching app: 'whatsapp'
+[18:18:16] [INFO] [TTS] "Sent 'whatsapp' to shell ï¿½ check if it opened."
+[18:18:16] [INFO] [TTS] "Sent 'whatsapp' to shell ï¿½ check if it opened."
+[18:18:32] [INFO] [Translator] Detected language: en
+[18:18:32] [INFO] [Mic] Heard: "send a WhatsApp message to mum that I will"
+[18:18:32] [INFO] Opening browser to WhatsApp mum (+919873007432)...
+[18:18:50] [INFO] Message successfully sent to mum.
+[18:18:50] [INFO] [TTS] "Message successfully sent to mum."
+[18:18:50] [INFO] [TTS] "Message successfully sent to mum."
+[18:18:50] [INFO] [TTS] "Message successfully sent to mum."
+[18:19:01] [INFO] [Translator] Detected language: en
+[18:19:01] [INFO] [Mic] Heard: "send a WhatsApp message to mum I will be late today"
+[18:19:01] [INFO] [TTS] "Could not parse WhatsApp command. Try: 'send whatsapp messagï¿½"
+[18:19:01] [INFO] [TTS] "Could not parse WhatsApp command. Try: 'send whatsapp messagï¿½"
+[18:19:19] [INFO] [Translator] Detected language: en
+[18:19:19] [INFO] [Mic] Heard: "send a WhatsApp message to mum says I will"
+[18:19:19] [INFO] Opening browser to WhatsApp mum (+919873007432)...
+[18:19:37] [INFO] Message successfully sent to mum.
+[18:19:37] [INFO] [TTS] "Message successfully sent to mum."
+[18:19:37] [INFO] [TTS] "Message successfully sent to mum."
+[18:19:37] [INFO] [TTS] "Message successfully sent to mum."
+[18:19:51] [INFO] [Translator] Detected language: so
+[18:19:51] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[18:20:04] [INFO] [Translator] Detected language: et
+[18:20:08] [INFO] [Translator] Detected language: id
+[18:21:56] [INFO] [Translator] Detected language: so
+[18:22:25] [INFO] [Translator] Detected language: en
+[18:22:25] [INFO] [Mic] Heard: "good morning Alpha"
+[18:22:25] [INFO] [TTS] "Session active. Ready for your commands."
+[18:22:29] [INFO] [Translator] Detected language: hr
+[18:22:29] [INFO] [TTS] "Evening. What still needs to get done?"
+[18:22:29] [INFO] [TTS] "Evening. What still needs to get done?"
+[18:22:41] [INFO] [Translator] Detected language: en
+[18:22:41] [INFO] [Mic] Heard: "show me the notes"
+[18:22:41] [INFO] [TTS] "No notes yet."
+[18:22:41] [INFO] [TTS] "No notes yet."
+[18:22:41] [INFO] [TTS] "No notes yet."
+[18:22:47] [INFO] [Translator] Detected language: en
+[18:22:47] [INFO] [Mic] Heard: "what are the reminder for"
+[18:22:47] [INFO] [News] BBC: 10 headlines
+[18:22:47] [INFO] [TTS] "Fetched 10 headlines from BBC News."
+[18:22:47] [INFO] [TTS] "Here are the top headlines:"
+[18:22:47] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[18:22:47] [INFO] [TTS] "2. Trump has handed JD Vance his most difficult mission yet"
+[18:22:47] [INFO] [TTS] "3. The most spectacular images of the Moon mission"
+[18:22:47] [INFO] [TTS] "4. Melania Trump's speech propels Epstein crisis back to forï¿½"
+[18:22:47] [INFO] [TTS] "5. Artemis crew home safely after completing historic missioï¿½"
+[18:22:47] [INFO] [TTS] "6. An inappropriate joke nearly ended his career. Now he's bï¿½"
+[18:22:47] [INFO] [TTS] "7. Gunmen kill at least four people at Afghanistan picnic spï¿½"
+[18:22:47] [INFO] [TTS] "8. South Korea deploys thermal imaging cameras in search forï¿½"
+[18:22:47] [INFO] [TTS] "9. Trump administration unveils 250-foot 'Triumphal Arch' deï¿½"
+[18:22:47] [INFO] [TTS] "10. Final push for votes as challenger to Hungary's Orbï¿½n seï¿½"
+[18:22:47] [INFO] [TTS] "Here are the top headlines from BBC News."
+[18:22:47] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[18:22:47] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[18:22:47] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[18:22:58] [INFO] [Translator] Detected language: en
+[18:22:58] [INFO] [Mic] Heard: "what all tasks do I have"
+[18:23:29] [INFO] [Translator] Detected language: fi
+[18:23:32] [INFO] [Translator] Detected language: sw
+[18:23:35] [INFO] [Translator] Detected language: tl
+[18:27:22] [INFO] [TTS] "You have no events scheduled for today."
+[18:27:22] [INFO] [TTS] "You have no events scheduled for today."
+[18:27:23] [INFO] [TTS] "No upcoming events found matching 'kaun se'."
+[18:27:23] [INFO] [TTS] "No upcoming events found matching 'kaun se'."
+[18:27:23] [INFO] [TTS] "No upcoming events found matching 'kaun se'."
+[18:27:23] [INFO] [TTS] "No upcoming events found matching 'ho hi nahin sakta'."
+[18:27:23] [INFO] [TTS] "No upcoming events found matching 'ho hi nahin sakta'."
+[18:27:23] [INFO] [TTS] "No upcoming events found matching 'ho hi nahin sakta'."
+[18:27:23] [INFO] [FileSearch] Searching for: 'main gaya tha' ext=None
+[18:28:05] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:28:05] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:28:05] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:28:05] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:28:05] [INFO] [TTS] Engine initialised (rate=172)
+[18:28:06] [INFO] Mic calibrated (energy=173)
+[18:28:14] [INFO] [Translator] Detected language: vi
+[18:28:14] [INFO] [TTS] "Session active. Ready for your commands."
+[18:28:24] [INFO] [Translator] Detected language: en
+[18:28:24] [INFO] [Mic] Heard: "what are the meeting schedule for today"
+[18:28:25] [INFO] [TTS] "You have no events scheduled for today."
+[18:28:25] [INFO] [TTS] "You have no events scheduled for today."
+[18:28:33] [INFO] [Translator] Detected language: en
+[18:28:33] [INFO] [Mic] Heard: "what are timings"
+[18:28:34] [INFO] [News] BBC: 10 headlines
+[18:28:34] [INFO] [TTS] "Fetched 10 headlines from BBC News."
+[18:28:34] [INFO] [TTS] "Here are the top headlines:"
+[18:28:34] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[18:28:34] [INFO] [TTS] "2. Trump has handed JD Vance his most difficult mission yet"
+[18:28:34] [INFO] [TTS] "3. The most spectacular images of the Moon mission"
+[18:28:34] [INFO] [TTS] "4. Melania Trump's speech propels Epstein crisis back to forï¿½"
+[18:28:34] [INFO] [TTS] "5. Artemis crew home safely after completing historic missioï¿½"
+[18:28:34] [INFO] [TTS] "6. An inappropriate joke nearly ended his career. Now he's bï¿½"
+[18:28:34] [INFO] [TTS] "7. Gunmen kill at least four people at Afghanistan picnic spï¿½"
+[18:28:34] [INFO] [TTS] "8. South Korea deploys thermal imaging cameras in search forï¿½"
+[18:28:34] [INFO] [TTS] "9. Trump administration unveils 250-foot 'Triumphal Arch' deï¿½"
+[18:28:34] [INFO] [TTS] "10. Final push for votes as challenger to Hungary's Orbï¿½n seï¿½"
+[18:28:34] [INFO] [TTS] "Here are the top headlines from BBC News."
+[18:28:34] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[18:28:34] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[18:28:34] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[18:28:49] [INFO] [Translator] Detected language: en
+[18:28:49] [INFO] [Mic] Heard: "when am"
+[18:28:49] [INFO] [TTS] "You have 1 free slot today."
+[18:28:49] [INFO] [TTS] "Free slots today 08:00 AM ï¿½ 10:00 PM (14h 0m free)"
+[18:28:49] [INFO] [TTS] "Free slots today 08:00 AM ï¿½ 10:00 PM (14h 0m free)"
+[18:29:03] [INFO] [Translator] Detected language: en
+[18:29:03] [INFO] [Mic] Heard: "tell me the latest news"
+[18:29:03] [INFO] [News] BBC: 10 headlines
+[18:29:03] [INFO] [TTS] "Fetched 10 headlines from BBC News."
+[18:29:03] [INFO] [TTS] "Here are the top headlines:"
+[18:29:03] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[18:29:03] [INFO] [TTS] "2. Trump has handed JD Vance his most difficult mission yet"
+[18:29:03] [INFO] [TTS] "3. The most spectacular images of the Moon mission"
+[18:29:03] [INFO] [TTS] "4. Melania Trump's speech propels Epstein crisis back to forï¿½"
+[18:29:03] [INFO] [TTS] "5. Artemis crew home safely after completing historic missioï¿½"
+[18:29:03] [INFO] [TTS] "6. An inappropriate joke nearly ended his career. Now he's bï¿½"
+[18:29:03] [INFO] [TTS] "7. Gunmen kill at least four people at Afghanistan picnic spï¿½"
+[18:29:03] [INFO] [TTS] "8. South Korea deploys thermal imaging cameras in search forï¿½"
+[18:29:03] [INFO] [TTS] "9. Trump administration unveils 250-foot 'Triumphal Arch' deï¿½"
+[18:29:03] [INFO] [TTS] "10. Final push for votes as challenger to Hungary's Orbï¿½n seï¿½"
+[18:29:03] [INFO] [TTS] "Here are the top headlines from BBC News."
+[18:29:03] [INFO] [TTS] "1. US and Iranian officials meet Pakistani PM in separate taï¿½"
+[18:29:03] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[18:29:03] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US and Iranian officials meet Paï¿½"
+[18:29:26] [INFO] [Translator] Detected language: tl
+[18:29:26] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:29:30] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[18:29:33] [INFO] [TTS] "Spotify launched."
+[18:29:44] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:29:44] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:29:52] [INFO] [Translator] Detected language: tl
+[18:29:52] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:30:00] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:30:00] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:30:09] [INFO] [Translator] Detected language: hr
+[18:30:09] [INFO] [TTS] "Volume increased to 70 percent."
+[18:30:13] [INFO] [Translator] Detected language: en
+[18:30:13] [INFO] [Mic] Heard: "increase the volume"
+[18:30:13] [INFO] [TTS] "Volume increased to 80 percent."
+[18:30:17] [INFO] [Translator] Detected language: en
+[18:30:17] [INFO] [Mic] Heard: "increase the volume"
+[18:30:17] [INFO] [TTS] "Volume increased to 90 percent."
+[18:30:21] [INFO] [Translator] Detected language: ro
+[18:30:21] [INFO] [TTS] "Volume increased to 100 percent."
+[18:30:31] [INFO] [Translator] Detected language: en
+[18:30:31] [INFO] [Mic] Heard: "write a mail"
+[18:30:31] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:30:31] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:30:38] [INFO] [Translator] Detected language: en
+[18:30:38] [INFO] [Mic] Heard: "by me cause of not coming to be not able to come to the office actually I"
+[18:30:38] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:30:38] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:31:07] [INFO] [TTS] "Sorry, I couldn't understand the AI's response. Please try aï¿½"
+[18:31:21] [INFO] [Translator] Detected language: en
+[18:31:21] [INFO] [Mic] Heard: "write a mail for me for"
+[18:31:21] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:31:21] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:31:35] [INFO] [Translator] Detected language: en
+[18:31:35] [INFO] [Mic] Heard: "write a mail for a set"
+[18:31:35] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:31:35] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Revï¿½"
+[18:31:47] [INFO] [TTS] "Sorry, I couldn't understand the AI's response. Please try aï¿½"
+[18:32:23] [INFO] [Translator] Detected language: en
+[18:32:23] [INFO] [Mic] Heard: "tell me something about Google"
+[18:32:23] [INFO] [TTS] "Here's a fact: A neutron star is so dense that a teaspoon ofï¿½"
+[18:32:23] [INFO] [TTS] "A neutron star is so dense that a teaspoon of its material wï¿½"
+[18:32:23] [INFO] [TTS] "A neutron star is so dense that a teaspoon of its material wï¿½"
+[18:33:33] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:33:33] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:33:33] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:33:34] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:33:34] [INFO] [TTS] Engine initialised (rate=172)
+[18:33:35] [INFO] Mic calibrated (energy=215)
+[18:33:45] [INFO] [Translator] Detected language: vi
+[18:33:45] [INFO] [TTS] "Session active. Ready for your commands."
+[18:33:56] [INFO] [Translator] Detected language: en
+[18:33:56] [INFO] [Mic] Heard: "write a mail for me for a sick leave as I have"
+[18:33:56] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Cheï¿½"
+[18:33:56] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Cheï¿½"
+[18:34:16] [INFO] [AIEmail] Response received (723 chars)
+[18:34:16] [INFO] [AIEmail] Subject: Request for Sick Leave | Body: 654 chars
+[18:35:50] [INFO] [Translator] Detected language: en
+[18:35:50] [INFO] [Mic] Heard: "send a message to mum say that I will"
+[18:35:50] [INFO] Opening browser to WhatsApp mum (+919873007432)...
+[18:36:09] [INFO] Message successfully sent to mum.
+[18:36:09] [INFO] [TTS] "Message successfully sent to mum."
+[18:36:09] [INFO] [TTS] "Message successfully sent to mum."
+[18:36:09] [INFO] [TTS] "Message successfully sent to mum."
+[18:36:09] [INFO] Listener stopped.
+[18:36:35] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:36:35] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:36:35] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:36:35] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:36:35] [INFO] [TTS] Engine initialised (rate=172)
+[18:36:36] [INFO] Mic calibrated (energy=117)
+[18:36:43] [INFO] [Translator] Detected language: vi
+[18:36:43] [INFO] [TTS] "Session active. Ready for your commands."
+[18:36:56] [INFO] [Translator] Detected language: en
+[18:36:56] [INFO] [Mic] Heard: "write a mail for me for a sick leave as I have high fever and a sore"
+[18:36:56] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Cheï¿½"
+[18:36:56] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Cheï¿½"
+[18:37:13] [INFO] [AIEmail] Response received (791 chars)
+[18:37:13] [INFO] [AIEmail] Subject: Request for Sick Leave due to Illness | Body: 707 chars
+[18:37:17] [INFO] [Translator] Detected language: en
+[18:37:17] [INFO] [Mic] Heard: "until then send a WhatsApp message to Mum saying that I will be late today"
+[18:37:17] [INFO] Opening browser to WhatsApp mum (+919873007432)...
+[18:37:36] [INFO] Message successfully sent to mum.
+[18:37:36] [INFO] [TTS] "Message successfully sent to mum."
+[18:37:36] [INFO] [TTS] "Message successfully sent to mum."
+[18:37:36] [INFO] [TTS] "Message successfully sent to mum."
+[18:37:54] [INFO] [Translator] Detected language: en
+[18:37:54] [INFO] [Mic] Heard: "what are the today's weather upda"
+[18:37:56] [INFO] [TTS] "Here's the current weather for Delhi:"
+[18:37:56] [INFO] [TTS] "Current Weather: Dehli, India Condition : Partly cloudy Tempï¿½"
+[18:37:56] [INFO] [TTS] "Current Weather: Dehli, India Condition : Partly cloudy Tempï¿½"
+[18:37:56] [INFO] [TTS] "Current Weather: Dehli, India Condition : Partly cloudy Tempï¿½"
+[18:38:07] [INFO] [Translator] Detected language: en
+[18:38:07] [INFO] [Mic] Heard: "how will the weather be for the next"
+[18:38:07] [INFO] [Translator] Detected language: nl
+[18:38:08] [INFO] [TTS] "Here's the current weather for the next:"
+[18:38:08] [INFO] [TTS] "Current Weather: Miranda De Ebro, Spain Condition : Light raï¿½"
+[18:38:08] [INFO] [TTS] "Current Weather: Miranda De Ebro, Spain Condition : Light raï¿½"
+[18:38:08] [INFO] [TTS] "Current Weather: Miranda De Ebro, Spain Condition : Light raï¿½"
+[18:38:09] [INFO] [TTS] "You have 1 free slot today."
+[18:38:09] [INFO] [TTS] "Free slots today 08:00 AM ï¿½ 10:00 PM (14h 0m free)"
+[18:38:09] [INFO] [TTS] "Free slots today 08:00 AM ï¿½ 10:00 PM (14h 0m free)"
+[18:38:19] [INFO] [Translator] Detected language: en
+[18:38:19] [INFO] [Mic] Heard: "tell me the weekly weather updates from now"
+[18:38:21] [INFO] [TTS] "Here's the weekly forecast for Delhi:"
+[18:38:21] [INFO] [TTS] "Current Weather: Dehli, India Condition : Partly cloudy Tempï¿½"
+[18:38:21] [INFO] [TTS] "Current Weather: Dehli, India Condition : Partly cloudy Tempï¿½"
+[18:38:21] [INFO] [TTS] "Current Weather: Dehli, India Condition : Partly cloudy Tempï¿½"
+[18:38:46] [INFO] [Translator] Detected language: tl
+[18:38:46] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:38:50] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[18:38:53] [INFO] [TTS] "Spotify launched."
+[18:39:04] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:39:04] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:39:11] [INFO] [Translator] Detected language: tl
+[18:39:13] [INFO] [TTS] "Spotify is already running."
+[18:39:18] [INFO] [TTS] "Spotify is already running."
+[18:39:18] [INFO] [TTS] "Spotify is already running."
+[18:39:27] [INFO] [Translator] Detected language: tl
+[18:39:27] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:39:35] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:39:35] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:39:46] [INFO] [Translator] Detected language: tl
+[18:39:46] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[18:39:54] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[18:39:54] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[18:40:07] [INFO] [Translator] Detected language: tl
+[18:40:09] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[18:40:12] [INFO] [TTS] "Spotify launched."
+[18:40:14] [INFO] [TTS] "Spotify launched."
+[18:40:14] [INFO] [TTS] "Spotify launched."
+[18:40:24] [INFO] [Translator] Detected language: tl
+[18:40:25] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[18:40:33] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[18:40:33] [INFO] [TTS] "Searching Spotify for: dagabaaz"
+[18:40:47] [INFO] [Translator] Detected language: lt
+[18:40:47] [INFO] [TTS] "No image found on the clipboard."
+[18:40:47] [INFO] [TTS] "No image on clipboard. Copy an image first (e.g. screenshot ï¿½"
+[18:40:47] [INFO] [TTS] "No image on clipboard. Copy an image first (e.g. screenshot ï¿½"
+[18:41:28] [INFO] [Translator] Detected language: en
+[18:41:28] [INFO] [Mic] Heard: "read clipboard image for me"
+[18:41:28] [INFO] [TTS] "Tesseract not found. Install from: Then run: pip install pytï¿½"
+[18:41:28] [INFO] [TTS] "Tesseract not found. Install from: Then run: pip install pytï¿½"
+[18:46:04] [INFO] [Translator] Detected language: nl
+[18:46:04] [INFO] [TTS] "Opening YouTube."
+[18:46:04] [INFO] [TTS] "Opening YouTube."
+[18:46:28] [INFO] Listener stopped.
+[18:56:09] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:56:09] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:56:10] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:56:10] [INFO] [TTS] Engine initialised (rate=172)
+[18:56:15] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:56:16] [INFO] Mic calibrated (energy=214)
+[18:56:20] [INFO] [Translator] Detected language: vi
+[18:56:20] [INFO] [TTS] "Session active. Ready for your commands."
+[18:56:33] [INFO] [Translator] Detected language: en
+[18:56:33] [INFO] [Mic] Heard: "play Dhurandhar theme"
+[18:56:40] [INFO] [Translator] Detected language: tl
+[18:56:42] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[18:56:45] [INFO] [TTS] "Spotify launched."
+[18:56:50] [INFO] [TTS] "Spotify launched."
+[18:56:52] [INFO] [TTS] "Spotify launched."
+[18:57:05] [INFO] [Translator] Detected language: tl
+[18:57:05] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:57:13] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[18:57:16] [INFO] [TTS] "Spotify launched."
+[18:57:29] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:57:32] [INFO] [TTS] "Searching Spotify for: mutation"
+[18:58:13] [INFO] [Translator] Detected language: en
+[18:58:13] [INFO] [Mic] Heard: "search the web for Google"
+[18:58:13] [INFO] [Search+Summarize] Query: google
+[18:58:13] [INFO] [DDG Search] Found 0 URLs for: google
+[18:58:13] [INFO] [TTS] "Could not find search results for: google"
+[18:58:17] [INFO] [TTS] "Could not find search results for: google"
+[18:58:23] [INFO] Listener stopped.
+[18:59:44] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[18:59:44] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[18:59:44] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[18:59:44] [INFO] [TTS] Engine initialised (rate=172)
+[18:59:49] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[18:59:50] [INFO] Mic calibrated (energy=628)
+[18:59:57] [INFO] [Translator] Detected language: vi
+[18:59:57] [INFO] [TTS] "Session active. Ready for your commands."
+[19:01:15] [INFO] [Translator] Detected language: cy
+[19:01:16] [INFO] [TTS] "Opening your default browser."
+[19:01:18] [INFO] [TTS] "Opening your default browser."
+[19:04:20] [INFO] [Translator] Detected language: en
+[19:04:20] [INFO] [Mic] Heard: "good morning Alpha"
+[19:04:20] [INFO] [TTS] "Good evening. Long day? Let me handle whatever's left."
+[19:10:06] [INFO] [Translator] Detected language: en
+[19:10:06] [INFO] [Mic] Heard: "tell me something about Google"
+[19:10:06] [INFO] [TTS] "Here's a fact: Bananas are slightly radioactive due to theirï¿½"
+[19:10:12] [INFO] [TTS] "Bananas are slightly radioactive due to their potassium-40 cï¿½"
+[19:10:29] [INFO] [Translator] Detected language: en
+[19:10:29] [INFO] [Mic] Heard: "search the web for Google"
+[19:10:29] [INFO] [Search+Summarize] Query: google
+[19:10:29] [INFO] [DDG Search] Found 5 URLs for: google
+[19:10:40] [INFO] [Ollama] Summary generated (429 chars)
+[19:10:40] [INFO] [TTS] "Here's a summary of what I found:"
+[19:10:43] [INFO] [TTS] "Here's what I found: Google is a popular search engine and tï¿½"
+[19:11:03] [INFO] [TTS] "Here's what I found: Google is a popular search engine and tï¿½"
+[19:13:26] [INFO] [Translator] Detected language: en
+[19:13:26] [INFO] [Mic] Heard: "show me my GitHub repos"
+[19:13:26] [INFO] [TTS] "Opening GitHub."
+[19:16:23] [INFO] [Translator] Detected language: ro
+[19:16:23] [INFO] [TTS] "Volume increased to 100 percent."
+[19:16:29] [INFO] [Translator] Detected language: ro
+[19:16:29] [INFO] [TTS] "Volume decreased to 90 percent."
+[19:16:38] [INFO] [Translator] Detected language: ro
+[19:16:38] [INFO] [TTS] "Volume decreased to 80 percent."
+[19:16:48] [INFO] [Translator] Detected language: en
+[19:16:48] [INFO] [Mic] Heard: "take a screenshot"
+[19:16:48] [INFO] [TTS] "Screenshot taken and saved to Desktop."
+[19:16:52] [INFO] [TTS] "Screenshot saved to Desktop as alpha_shot_191648.png"
+[19:18:45] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:18:45] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:18:45] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:18:45] [INFO] [TTS] Engine initialised (rate=172)
+[19:18:51] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:18:52] [INFO] Mic calibrated (energy=320)
+[19:19:03] [INFO] [Translator] Detected language: vi
+[19:19:03] [INFO] [TTS] "Session active. Ready for your commands."
+[19:19:05] [INFO] [Translator] Detected language: vi
+[19:19:08] [INFO] Listener stopped.
+[19:19:18] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:19:18] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:19:18] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:19:18] [INFO] [TTS] Engine initialised (rate=172)
+[19:19:23] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:19:24] [INFO] Mic calibrated (energy=164)
+[19:19:26] [INFO] [Translator] Detected language: vi
+[19:19:26] [INFO] [TTS] "Session active. Ready for your commands."
+[19:19:34] [INFO] [Translator] Detected language: en
+[19:19:34] [INFO] [Mic] Heard: "take a screenshot"
+[19:19:34] [INFO] [TTS] "Screenshot saved to Desktop as alpha_shot_191934.png"
+[19:20:00] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:20:00] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:20:00] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:20:00] [INFO] [TTS] Engine initialised (rate=172)
+[19:20:31] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:20:31] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:20:31] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:20:31] [INFO] [TTS] Engine initialised (rate=172)
+[19:20:37] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:20:38] [INFO] Mic calibrated (energy=307)
+[19:20:44] [INFO] [Translator] Detected language: vi
+[19:20:44] [INFO] [TTS] "Session active. Ready for your commands."
+[19:20:51] [INFO] [Translator] Detected language: en
+[19:20:51] [INFO] [Mic] Heard: "take a screenshot"
+[19:20:52] [INFO] [TTS] "Screenshot saved to Desktop as alpha_shot_192051.png"
+[19:23:08] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:23:09] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:23:09] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:23:09] [INFO] [TTS] Engine initialised (rate=172)
+[19:23:30] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:23:30] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:23:31] [INFO] [TTS] Voice: Microsoft Zira Desktop - English (United States)
+[19:23:31] [INFO] [TTS] Engine initialised (rate=172)
+[19:23:36] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:23:37] [INFO] Mic calibrated (energy=97)
+[19:23:39] [INFO] [Translator] Detected language: vi
+[19:23:39] [INFO] [TTS] "Session active. Ready for your commands."
+[19:23:47] [INFO] [Translator] Detected language: en
+[19:23:47] [INFO] [Mic] Heard: "take a screenshot"
+[19:23:47] [INFO] [TTS] "Screenshot saved to Desktop as alpha_shot_192347.png"
+[19:26:19] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:26:19] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:26:19] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:26:19] [INFO] [TTS] Engine initialised (rate=160)
+[19:26:29] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:26:30] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:26:30] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:26:30] [INFO] [TTS] Engine initialised (rate=160)
+[19:26:36] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:26:37] [INFO] Mic calibrated (energy=154)
+[19:26:39] [INFO] [Translator] Detected language: vi
+[19:26:39] [INFO] [TTS] "Session active. Ready for your commands."
+[19:27:19] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:27:19] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:27:19] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:27:19] [INFO] [TTS] Engine initialised (rate=160)
+[19:27:25] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:27:26] [INFO] Mic calibrated (energy=595)
+[19:27:37] [INFO] [Translator] Detected language: af
+[19:27:37] [INFO] [TTS] "Session active. Ready for your commands."
+[19:27:37] [INFO] [Translator] Detected language: vi
+[19:27:43] [INFO] Listener stopped.
+[19:27:55] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:27:55] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:27:55] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:27:55] [INFO] [TTS] Engine initialised (rate=160)
+[19:28:01] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:28:02] [INFO] Mic calibrated (energy=887)
+[19:28:13] [INFO] [Translator] Detected language: vi
+[19:28:13] [INFO] [TTS] "Session active. Ready for your commands."
+[19:28:25] [INFO] [Translator] Detected language: en
+[19:28:25] [INFO] [Mic] Heard: "tell me the latest news"
+[19:28:25] [INFO] [News] BBC: 10 headlines
+[19:28:25] [INFO] [TTS] "BBC News ï¿½ Top Headlines 1. US-Iran peace talks begin in Islï¿½"
+[19:29:26] [INFO] [Translator] Detected language: en
+[19:29:26] [INFO] [Mic] Heard: "what is trending today"
+[19:29:27] [WARN] [Trends] Google Trends failed: 404 Client Error: Not Found for url: https://trends.google.com/trends/trendingsearches/daily/rss?geo=US
+[19:29:27] [INFO] [TTS] "Could not fetch trending topics right now. Check your internï¿½"
+[19:30:03] [INFO] [Translator] Detected language: en
+[19:30:03] [INFO] [Mic] Heard: "early weather"
+[19:30:04] [WARN] [Weather] wttr JSON failed: 500 Server Error: Internal Server Error for url: https://wttr.in/Delhi?format=j1
+[19:30:05] [INFO] [TTS] "Could not fetch weather for Delhi."
+[19:30:18] [INFO] [Translator] Detected language: en
+[19:30:18] [INFO] [Mic] Heard: "today's weather"
+[19:30:19] [INFO] [TTS] "Current Weather: Dehli, India Condition : Partly cloudy Tempï¿½"
+[19:30:49] [INFO] [Translator] Detected language: nl
+[19:30:49] [INFO] [TTS] "Good evening. Running on full power. What do you need?"
+[19:33:06] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:33:06] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:33:06] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:33:06] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:33:06] [INFO] [TTS] Engine initialised (rate=160)
+[19:33:08] [INFO] Mic calibrated (energy=100)
+[19:33:17] [INFO] [Translator] Detected language: vi
+[19:33:17] [INFO] [TTS] "Session active. Ready for your commands."
+[19:33:27] [INFO] [Translator] Detected language: sw
+[19:33:27] [INFO] [TTS] "Good evening. Running on full power. What do you need?"
+[19:33:36] [INFO] Listener stopped.
+[19:34:37] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:34:38] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:34:38] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:34:38] [INFO] [TTS] Engine initialised (rate=160)
+[19:34:44] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:34:45] [INFO] Mic calibrated (energy=699)
+[19:34:52] [INFO] Listener stopped.
+[19:35:27] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:35:27] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:35:28] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:35:28] [INFO] [TTS] Engine initialised (rate=160)
+[19:35:34] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:35:35] [INFO] Mic calibrated (energy=152)
+[19:35:39] [INFO] [Translator] Detected language: id
+[19:35:41] [INFO] Listener stopped.
+[19:35:49] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:35:49] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:35:49] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:35:49] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:35:49] [INFO] [TTS] Engine initialised (rate=160)
+[19:35:50] [INFO] Mic calibrated (energy=96)
+[19:35:55] [INFO] Listener stopped.
+[19:37:23] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:37:23] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:37:23] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:37:23] [INFO] [TTS] Engine initialised (rate=160)
+[19:37:29] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:37:30] [INFO] Mic calibrated (energy=136)
+[19:37:33] [INFO] [Translator] Detected language: vi
+[19:37:33] [INFO] [TTS] "Session active. Ready for your commands."
+[19:38:26] [INFO] [Translator] Detected language: en
+[19:38:26] [INFO] [Mic] Heard: "start a timer for 50 seconds"
+[19:38:26] [INFO] [TTS] "Timer started for 50 seconds."
+[19:38:39] [INFO] [Translator] Detected language: en
+[19:38:39] [INFO] [Mic] Heard: "stop the timer"
+[19:38:39] [INFO] [TTS] "Timer stopped."
+[19:39:04] [INFO] [Translator] Detected language: en
+[19:39:04] [INFO] [Mic] Heard: "note that I have to make a YouTube video"
+[19:39:04] [INFO] [TTS] "Opening YouTube."
+[19:39:05] [INFO] [Translator] Detected language: en
+[19:39:05] [INFO] [Mic] Heard: "note that I have to make a YouTube video for today"
+[19:39:07] [INFO] [TTS] "Opening YouTube."
+[19:39:17] [INFO] [Translator] Detected language: en
+[19:39:17] [INFO] [Mic] Heard: "note that I have to make a"
+[19:39:17] [INFO] [TTS] "Note saved: 'that i have to make a'"
+[19:39:27] [INFO] [Translator] Detected language: it
+[19:39:27] [INFO] [TTS] "All notes cleared."
+[19:39:37] [INFO] [Translator] Detected language: en
+[19:39:37] [INFO] [Mic] Heard: "note that I have to make a video for my project"
+[19:39:37] [INFO] [TTS] "Note saved: 'that i have to make a video for my project'"
+[19:39:54] [INFO] [Translator] Detected language: da
+[19:39:56] [INFO] [TTS] "No upcoming events found matching 'models'."
+[19:40:04] [INFO] [Translator] Detected language: en
+[19:40:04] [INFO] [Mic] Heard: "note I have to classify the"
+[19:40:04] [INFO] [TTS] "Note saved: 'i have to classify the'"
+[19:40:19] [INFO] [Translator] Detected language: it
+[19:40:19] [INFO] [TTS] "All notes cleared."
+[19:40:38] [INFO] [Translator] Detected language: no
+[19:40:38] [INFO] [TTS] "Note saved: 'i have to save and make a video'"
+[19:40:54] [INFO] [Translator] Detected language: ro
+[19:41:03] [INFO] [Translator] Detected language: ro
+[19:41:08] [INFO] [Translator] Detected language: ro
+[19:41:13] [INFO] [Translator] Detected language: ro
+[19:41:19] [INFO] [Translator] Detected language: ro
+[19:41:25] [INFO] [Translator] Detected language: ro
+[19:41:30] [INFO] [Translator] Detected language: ro
+[19:41:35] [INFO] [Translator] Detected language: ro
+[19:41:46] [INFO] [Translator] Detected language: en
+[19:41:46] [INFO] [Mic] Heard: "not I have to add clap"
+[19:41:46] [INFO] [FileSearch] Searching for: 'not i have to add clap' ext=None
+[19:42:39] [INFO] [TTS] "No files found matching 'not i have to add clap'"
+[19:42:50] [INFO] [Translator] Detected language: en
+[19:42:50] [INFO] [Mic] Heard: "note I have to add clap"
+[19:42:50] [INFO] [TTS] "Note saved: 'i have to add clap'"
+[19:43:02] [INFO] [Translator] Detected language: so
+[19:43:02] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[19:43:20] [INFO] Listener stopped.
+[19:59:45] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[19:59:45] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[19:59:46] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[19:59:46] [INFO] [TTS] Engine initialised (rate=160)
+[19:59:52] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[19:59:53] [INFO] Mic calibrated (energy=757)
+[20:00:02] [INFO] [Translator] Detected language: vi
+[20:00:02] [INFO] [TTS] "Session active. Ready for your commands."
+[20:00:26] [INFO] [Translator] Detected language: tl
+[20:00:30] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[20:00:30] [INFO] [TTS] "Spotify launched."
+[20:00:48] [INFO] [Translator] Detected language: tl
+[20:00:58] [INFO] [TTS] "Playing mutation"
+[20:01:03] [INFO] [Translator] Detected language: tl
+[20:01:13] [INFO] [TTS] "Playing mutation"
+[20:02:34] [INFO] [Translator] Detected language: en
+[20:02:34] [INFO] [Mic] Heard: "read the image in my"
+[20:02:34] [INFO] [TTS] "No image on clipboard. Copy an image first (e.g. screenshot ï¿½"
+[20:02:49] [INFO] [Translator] Detected language: en
+[20:02:49] [INFO] [Mic] Heard: "read clipboard image"
+[20:02:52] [INFO] [TTS] "Text from Clipboard Image ALPHA 2.0 @ ACTIVE + LISTENING 20:ï¿½"
+[20:03:36] [INFO] [Translator] Detected language: it
+[20:03:36] [INFO] [TTS] "Good evening. Running on full power. What do you need?"
+[20:03:49] [INFO] [Translator] Detected language: tl
+[20:03:50] [INFO] [TTS] "No upcoming events found matching 'hindi kahaniyan'."
+[20:04:13] [INFO] [Translator] Detected language: so
+[20:04:13] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[20:04:38] [INFO] [Translator] Detected language: tl
+[20:04:48] [INFO] [Translator] Detected language: et
+[20:05:10] [INFO] [Translator] Detected language: id
+[20:05:17] [INFO] [Translator] Detected language: id
+[20:05:21] [INFO] [Translator] Detected language: so
+[20:05:41] [INFO] [Translator] Detected language: id
+[20:05:52] [INFO] [Translator] Detected language: id
+[20:05:57] [INFO] [Translator] Detected language: id
+[20:06:05] [INFO] [Translator] Detected language: tr
+[20:06:28] [INFO] [Translator] Detected language: hr
+[20:06:38] [INFO] [Translator] Detected language: sw
+[20:06:56] [INFO] [Translator] Detected language: et
+[20:07:05] [INFO] [Translator] Detected language: sl
+[20:07:07] [INFO] [Translator] Detected language: id
+[20:07:13] [INFO] [Translator] Detected language: so
+[20:07:48] [INFO] [Translator] Detected language: so
+[20:08:08] [INFO] [Translator] Detected language: id
+[20:08:17] [INFO] [Translator] Detected language: de
+[20:08:25] [INFO] [Translator] Detected language: vi
+[20:08:29] [INFO] [Translator] Detected language: en
+[20:08:29] [INFO] [Mic] Heard: "Mithun Chakraborty"
+[20:08:47] [INFO] [Translator] Detected language: en
+[20:08:47] [INFO] [Mic] Heard: "this"
+[20:08:50] [INFO] [Translator] Detected language: en
+[20:08:50] [INFO] [Mic] Heard: "this"
+[20:09:05] [INFO] [Translator] Detected language: tl
+[20:09:14] [INFO] [Translator] Detected language: id
+[20:09:49] [INFO] [Translator] Detected language: id
+[20:09:58] [INFO] [Translator] Detected language: tr
+[20:10:03] [INFO] [Translator] Detected language: id
+[20:10:52] [INFO] [Translator] Detected language: so
+[20:11:00] [INFO] [Translator] Detected language: id
+[20:11:20] [INFO] [Translator] Detected language: cy
+[20:11:28] [INFO] [Translator] Detected language: en
+[20:11:28] [INFO] [Mic] Heard: "world most you know"
+[20:11:36] [INFO] [Translator] Detected language: de
+[20:11:45] [INFO] [Translator] Detected language: id
+[20:11:46] [INFO] [Translator] Detected language: id
+[20:11:49] [INFO] [Translator] Detected language: en
+[20:11:49] [INFO] [Mic] Heard: "why don't"
+[20:12:03] [INFO] [Translator] Detected language: tl
+[20:12:07] [INFO] [Translator] Detected language: id
+[20:12:14] [INFO] [Translator] Detected language: so
+[20:12:16] [INFO] [Translator] Detected language: id
+[20:12:21] [INFO] [Translator] Detected language: sk
+[20:12:50] [INFO] [Translator] Detected language: tl
+[20:14:15] [INFO] [Translator] Detected language: fi
+[20:15:05] [INFO] [Translator] Detected language: so
+[20:15:11] [INFO] [Translator] Detected language: id
+[20:15:24] [INFO] [Translator] Detected language: vi
+[20:15:24] [INFO] [TTS] "Session active. Ready for your commands."
+[20:15:24] [INFO] [Translator] Detected language: vi
+[20:15:27] [INFO] [Translator] Detected language: en
+[20:15:27] [INFO] [Mic] Heard: "session active"
+[20:15:30] [INFO] [Translator] Detected language: en
+[20:15:30] [INFO] [Mic] Heard: "waiting for your command"
+[20:15:30] [INFO] Listener stopped.
+[20:15:49] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:15:49] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:15:49] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:15:49] [INFO] [TTS] Engine initialised (rate=160)
+[20:16:12] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[20:16:13] [INFO] Mic calibrated (energy=107)
+[20:16:15] [INFO] [Translator] Detected language: vi
+[20:16:15] [INFO] [TTS] "Session active. Ready for your commands."
+[20:16:21] [INFO] [Translator] Detected language: en
+[20:16:21] [INFO] [Mic] Heard: "waiting for your command"
+[20:16:22] [INFO] [TTS] "No upcoming events found matching 'waiting for your command'ï¿½"
+[20:16:29] [INFO] [Translator] Detected language: en
+[20:16:29] [INFO] [Mic] Heard: "play Dagabaaz song waiting for your command"
+[20:16:29] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Cheï¿½"
+[20:19:11] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:19:11] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[20:19:12] [INFO] Mic calibrated (energy=103)
+[20:19:25] [INFO] [Translator] Detected language: vi
+[20:19:25] [INFO] Listener stopped.
+[20:19:25] [INFO] [TTS] "Session active. Ready for your commands."
+[20:19:25] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:19:25] [INFO] [TTS] Engine initialised (rate=160)
+[20:19:29] [INFO] [Translator] Detected language: en
+[20:19:29] [INFO] [Mic] Heard: "session active"
+[20:19:31] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[20:19:32] [INFO] Mic calibrated (energy=110)
+[20:19:36] [INFO] [Translator] Detected language: tl
+[20:19:58] [INFO] [Translator] Detected language: vi
+[20:19:58] [INFO] Listener stopped.
+[20:19:58] [INFO] [TTS] "Session active. Ready for your commands."
+[20:20:12] [INFO] [Translator] Detected language: hi
+[20:20:15] [INFO] Listener stopped.
+[20:22:23] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:22:24] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:22:24] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:22:24] [INFO] [TTS] Engine initialised (rate=160)
+[20:22:30] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[20:22:32] [INFO] Mic calibrated (energy=181)
+[20:22:33] [INFO] [Translator] Detected language: vi
+[20:22:33] [INFO] [Listener] Wake word detected.
+[20:22:34] [INFO] [TTS] "Session active. Ready for your commands."
+[20:22:40] [INFO] [Translator] Detected language: en
+[20:22:40] [INFO] [Mic] Heard: "waiting for your command"
+[20:22:41] [INFO] [TTS] "No upcoming events found matching 'waiting for your command'ï¿½"
+[20:22:48] [INFO] [Translator] Detected language: en
+[20:22:48] [INFO] [Mic] Heard: "new upcoming events found matching waiting for your command"
+[20:22:48] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow atï¿½"
+[20:23:01] [INFO] [Translator] Detected language: en
+[20:23:01] [INFO] [Mic] Heard: "turn on Friday at 5:00 p.m."
+[20:23:01] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow atï¿½"
+[20:24:52] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:24:52] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:24:53] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:24:53] [INFO] [TTS] Engine initialised (rate=160)
+[20:24:59] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[20:25:01] [INFO] Mic calibrated (energy=111)
+[20:25:03] [INFO] [Translator] Detected language: vi
+[20:25:03] [INFO] [Listener] Wake word detected.
+[20:25:03] [INFO] [TTS] "Session active. Ready for your commands."
+[20:25:11] [INFO] [Translator] Detected language: en
+[20:25:11] [INFO] [Mic] Heard: "waiting for your command"
+[20:25:12] [INFO] [TTS] "No upcoming events found matching 'waiting for your command'ï¿½"
+[20:25:18] [INFO] Listener stopped.
+[20:27:37] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:27:37] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:27:37] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:27:37] [INFO] [TTS] Engine initialised (rate=160)
+[20:27:44] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[20:27:45] [INFO] Mic calibrated (energy=107)
+[20:27:48] [INFO] [Translator] Detected language: vi
+[20:27:48] [INFO] [TTS] "Session active. Ready for your commands."
+[20:27:51] [INFO] [Translator] Detected language: en
+[20:27:51] [INFO] [Mic] Heard: "fashion update"
+[20:27:54] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Cheï¿½"
+[20:27:54] [INFO] [Translator] Detected language: en
+[20:27:54] [INFO] [Mic] Heard: "waiting for your command"
+[20:27:59] [INFO] [Translator] Detected language: fi
+[20:28:03] [INFO] Listener stopped.
+[20:39:52] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:39:52] [INFO] Session listener started.
+[20:39:53] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:39:53] [INFO] [TTS] Engine initialised (rate=160)
+[20:39:55] [INFO] Mic calibrated (energy=481)
+[20:39:55] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[20:39:55] [INFO] [Clap] Audio stream open (threshold=3000)
+[20:40:15] [INFO] [Clap] Clap #1 detected (energy=1140, dur=20ms)
+[20:40:16] [INFO] [Clap] Clap #2 detected (energy=1018, dur=89ms)
+[20:40:16] [INFO] [Listener] Externally activated (clap)
+[20:40:21] [INFO] [Translator] Detected language: en
+[20:40:21] [INFO] [Listener] Heard: 'WhatsApp'
+[20:40:22] [INFO] Launching app: 'whatsapp'
+[20:40:59] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:40:59] [INFO] Session listener started.
+[20:41:00] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:41:00] [INFO] [TTS] Engine initialised (rate=160)
+[20:41:02] [INFO] Mic calibrated (energy=454)
+[20:41:02] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[20:41:02] [INFO] [Clap] Audio stream open (threshold=3000)
+[20:41:16] [INFO] [Clap] Clap #1 detected (energy=1138, dur=70ms)
+[20:41:19] [INFO] [Clap] Clap #1 detected (energy=717, dur=49ms)
+[20:41:20] [INFO] [Clap] Clap #2 detected (energy=852, dur=51ms)
+[20:41:20] [INFO] [Listener] Externally activated (clap)
+[20:41:25] [INFO] [Translator] Detected language: en
+[20:41:25] [INFO] [Listener] Heard: 'what can I'
+[20:41:25] [INFO] [TTS] "I missed that. What are you trying to do? (I was 37% confideï¿½"
+[20:42:07] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:42:07] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:42:07] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:42:07] [INFO] [TTS] Engine initialised (rate=160)
+[20:42:14] [INFO] Session listener started.
+[20:42:15] [INFO] Mic calibrated (energy=502)
+[20:42:29] [INFO] [Listener] Wake word in: 'hi alpha'
+[20:42:29] [INFO] [TTS] "Session active. Ready for your commands."
+[20:42:35] [INFO] [Translator] Detected language: en
+[20:42:35] [INFO] [Listener] Heard: 'ready for your command'
+[20:42:35] [INFO] [TTS] "10 Most Recent Files 11 Apr 2026 19:20 alpha_shot_192051.pngï¿½"
+[20:48:35] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:48:35] [INFO] Session listener started.
+[20:48:36] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:48:36] [INFO] [TTS] Engine initialised (rate=160)
+[20:48:38] [INFO] Mic calibrated (energy=449)
+[20:48:38] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[20:48:38] [INFO] [Clap] Audio stream open (threshold=3000)
+[20:48:51] [INFO] [Listener] Wake word in: 'alpha'
+[20:49:03] [INFO] [Clap] Clap #1 detected (energy=700, dur=190ms)
+[20:49:05] [INFO] [Translator] Detected language: tl
+[20:49:05] [INFO] [TTS] "That one's on me ï¿½ I didn't get it. Say it again? (I was 13%ï¿½"
+[20:50:29] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:50:29] [INFO] Session listener started.
+[20:50:29] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:50:29] [INFO] [TTS] Engine initialised (rate=160)
+[20:50:31] [INFO] Mic calibrated (energy=459)
+[20:50:32] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[20:50:32] [INFO] [Clap] Audio stream open (threshold=3000)
+[20:50:39] [INFO] [Clap] Clap #1 detected (energy=864, dur=49ms)
+[20:50:43] [INFO] [Clap] Clap #1 detected (energy=859, dur=90ms)
+[20:50:46] [INFO] [Clap] Clap #1 detected (energy=575, dur=50ms)
+[20:50:46] [INFO] [Clap] Clap #2 detected (energy=1000, dur=20ms)
+[20:50:46] [INFO] [Listener] Externally activated (clap)
+[20:50:58] [INFO] [Translator] Detected language: en
+[20:50:58] [INFO] [Listener] Heard: 'open Chrome'
+[20:50:58] [INFO] [TTS] "Opening your default browser."
+[20:55:16] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:55:16] [INFO] Session listener started.
+[20:55:16] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:55:16] [INFO] [TTS] Engine initialised (rate=160)
+[20:55:18] [INFO] Mic calibrated (energy=410)
+[20:55:19] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[20:55:19] [INFO] [Clap] Audio stream open (threshold=3000)
+[20:55:26] [INFO] [Clap] Clap #1 detected (energy=765, dur=21ms)
+[20:55:26] [INFO] [Clap] Clap #2 detected (energy=1066, dur=40ms)
+[20:55:26] [INFO] [Listener] Externally activated (clap)
+[20:55:35] [INFO] [Translator] Detected language: en
+[20:55:35] [INFO] [Listener] Heard: 'open Chrome'
+[20:55:36] [INFO] [TTS] "Opening your default browser."
+[20:56:31] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:56:31] [INFO] Session listener started.
+[20:56:31] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:56:31] [INFO] [TTS] Engine initialised (rate=160)
+[20:56:33] [INFO] Mic calibrated (energy=465)
+[20:56:34] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[20:56:34] [INFO] [Clap] Audio stream open (threshold=3000)
+[20:57:03] [INFO] [Clap] Clap #1 detected (energy=828, dur=100ms)
+[20:57:04] [INFO] [Listener] Wake word in: 'alpha'
+[20:57:16] [INFO] [Clap] Clap #1 detected (energy=663, dur=50ms)
+[20:57:16] [INFO] [Clap] Clap #2 detected (energy=1042, dur=20ms)
+[20:57:16] [INFO] [Listener] Externally activated (clap)
+[20:57:22] [INFO] [Clap] Clap #1 detected (energy=972, dur=69ms)
+[20:57:22] [INFO] [Clap] Clap #2 detected (energy=654, dur=50ms)
+[20:57:22] [INFO] [Listener] Externally activated (clap)
+[20:57:27] [INFO] [Clap] Clap #1 detected (energy=1015, dur=110ms)
+[20:57:31] [INFO] Session listener stopped.
+[20:57:31] [INFO] [Clap] Detector stopped.
+[20:57:31] [INFO] [Clap] Audio stream closed.
+[20:57:52] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:57:52] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:57:52] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:57:52] [INFO] [TTS] Engine initialised (rate=160)
+[20:57:59] [INFO] Session listener started.
+[20:58:00] [INFO] Mic calibrated (energy=114)
+[20:58:09] [INFO] [Listener] Wake word in: 'alpha'
+[20:58:09] [INFO] [TTS] "Session active. Ready for your commands."
+[20:58:15] [INFO] [Translator] Detected language: en
+[20:58:15] [INFO] [Listener] Heard: 'ready for your command'
+[20:58:15] [INFO] [TTS] "10 Most Recent Files 11 Apr 2026 19:20 alpha_shot_192051.pngï¿½"
+[20:58:45] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:58:45] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:58:45] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:58:45] [INFO] [TTS] Engine initialised (rate=160)
+[20:59:01] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[20:59:01] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[20:59:01] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[20:59:01] [INFO] [TTS] Engine initialised (rate=160)
+[20:59:08] [INFO] Session listener started.
+[20:59:09] [INFO] Mic calibrated (energy=577)
+[20:59:20] [INFO] [Listener] Wake word in: 'alpha'
+[20:59:20] [INFO] [TTS] "Session active. Ready for your commands."
+[20:59:36] [INFO] [Translator] Detected language: sw
+[20:59:36] [INFO] [TTS] "Good evening. Running on full power. What do you need?"
+[20:59:42] [INFO] [Translator] Detected language: sw
+[20:59:45] [INFO] [TTS] "No upcoming events found matching 'nani morni'."
+[20:59:49] [INFO] [Translator] Detected language: en
+[20:59:49] [INFO] [Listener] Heard: 'upcoming events'
+[20:59:50] [INFO] [TTS] "No events in the next 7 days."
+[20:59:54] [INFO] Session listener stopped.
+[21:04:43] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:04:43] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:04:43] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:04:43] [INFO] [TTS] Engine initialised (rate=160)
+[21:04:50] [INFO] Session listener started.
+[21:04:51] [INFO] Mic calibrated (energy=1073)
+[21:04:59] [INFO] [Listener] Wake word in: 'alpha'
+[21:04:59] [INFO] [TTS] "Session active. Ready for your commands."
+[21:05:15] [INFO] [Translator] Detected language: fi
+[21:05:15] [INFO] [TTS] "Late night session. What are we working on?"
+[21:05:29] [INFO] [Translator] Detected language: en
+[21:05:29] [INFO] [Listener] Heard: 'open Google Chrome'
+[21:05:29] [INFO] [Translator] Detected language: hi
+[21:05:29] [INFO] [TTS] "Opening your default browser."
+[21:05:33] [INFO] [Translator] Detected language: en
+[21:05:33] [INFO] [Listener] Heard: 'I am feeling beautiful'
+[21:05:33] [INFO] Session listener stopped.
+[21:05:45] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:05:45] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:05:45] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:05:45] [INFO] [TTS] Engine initialised (rate=160)
+[21:05:52] [INFO] Session listener started.
+[21:05:53] [INFO] Mic calibrated (energy=377)
+[21:06:17] [INFO] [Listener] Wake word in: 'alpha'
+[21:06:17] [INFO] [TTS] "Session active. Ready for your commands."
+[21:06:23] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[21:06:31] [INFO] [Listener] Wake word in: 'alpha'
+[21:06:31] [INFO] [TTS] "Session active. Ready for your commands."
+[21:06:36] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[21:06:42] [INFO] Session listener stopped.
+[21:06:52] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:06:52] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:06:53] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:06:53] [INFO] [TTS] Engine initialised (rate=160)
+[21:06:59] [INFO] Session listener started.
+[21:07:00] [INFO] Mic calibrated (energy=160)
+[21:07:02] [INFO] [Listener] Wake word in: 'alpha'
+[21:07:02] [INFO] [TTS] "Session active. Ready for your commands."
+[21:07:19] [INFO] [Translator] Detected language: nl
+[21:07:19] [INFO] Launching app: 'whatsapp'
+[21:07:54] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[21:08:00] [INFO] [TTS] "Sent 'whatsapp' to shell ï¿½ check if it opened."
+[21:09:22] [INFO] Session listener stopped.
+[21:11:35] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:11:35] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:11:35] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:11:35] [INFO] [TTS] Engine initialised (rate=160)
+[21:11:42] [INFO] Session listener started.
+[21:11:43] [INFO] Mic calibrated (energy=929)
+[21:11:49] [INFO] [Listener] Wake word in: 'alpha'
+[21:11:49] [INFO] [TTS] "Session active. Ready for your commands."
+[21:12:04] [INFO] [Translator] Detected language: en
+[21:12:04] [INFO] [Listener] Heard: 'how are you Alpha'
+[21:12:05] [INFO] [TTS] "Still going? Alright. What do you need from me?"
+[21:12:15] [INFO] [Translator] Detected language: en
+[21:12:15] [INFO] [Listener] Heard: 'open Google Chrome'
+[21:12:16] [INFO] [TTS] "Opening your default browser."
+[21:12:33] [INFO] [Translator] Detected language: tl
+[21:12:54] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[21:13:05] [INFO] [TTS] "Playing dagabaaz"
+[21:13:24] [INFO] [Listener] Wake word in: 'alpha'
+[21:13:24] [INFO] [TTS] "Session active. Ready for your commands."
+[21:13:59] [INFO] [Listener] Wake word in: 'alpha'
+[21:13:59] [INFO] [TTS] "Session active. Ready for your commands."
+[21:14:08] [INFO] Session listener stopped.
+[21:14:18] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:14:18] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:14:18] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:14:18] [INFO] [TTS] Engine initialised (rate=160)
+[21:14:25] [INFO] Session listener started.
+[21:14:26] [INFO] Mic calibrated (energy=129)
+[21:15:29] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:15:30] [INFO] Session listener started.
+[21:15:30] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:15:30] [INFO] [TTS] Engine initialised (rate=160)
+[21:15:32] [INFO] Mic calibrated (energy=257)
+[21:15:33] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[21:15:33] [INFO] [Clap] Audio stream open (threshold=3000)
+[21:15:39] [INFO] [Clap] Clap #1 detected (energy=829, dur=20ms)
+[21:15:39] [INFO] [Clap] Clap #2 detected (energy=946, dur=49ms)
+[21:15:39] [INFO] [Listener] Externally activated (clap)
+[21:16:01] [INFO] [Clap] Clap #1 detected (energy=1073, dur=120ms)
+[21:16:03] [INFO] [Translator] Detected language: vi
+[21:16:03] [INFO] Session listener stopped.
+[21:16:03] [INFO] [Clap] Detector stopped.
+[21:16:04] [INFO] [Clap] Audio stream closed.
+[21:16:15] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:16:15] [INFO] Session listener started.
+[21:16:15] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:16:15] [INFO] [TTS] Engine initialised (rate=160)
+[21:16:17] [INFO] Mic calibrated (energy=267)
+[21:16:18] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[21:16:18] [INFO] [Clap] Audio stream open (threshold=3000)
+[21:16:28] [INFO] [Listener] Wake word in: 'alpha'
+[21:16:33] [INFO] [Translator] Detected language: en
+[21:16:33] [INFO] [Listener] Heard: 'what do you mean'
+[21:16:33] [INFO] [TTS] "I'm not sure what you're asking. Try again? (I was 11% confiï¿½"
+[21:19:28] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:19:28] [INFO] Session listener started.
+[21:19:28] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:19:28] [INFO] [TTS] Engine initialised (rate=160)
+[21:19:30] [INFO] Mic calibrated (energy=251)
+[21:19:31] [INFO] [Clap] Detector started ï¿½ waiting for double-clap.
+[21:19:31] [INFO] [Clap] Audio stream open (threshold=3000)
+[21:19:38] [INFO] [Clap] Clap #1 detected (energy=776, dur=31ms)
+[21:19:39] [INFO] [Clap] Clap #2 detected (energy=912, dur=31ms)
+[21:19:39] [INFO] [Listener] Externally activated (clap)
+[21:19:57] [INFO] [Translator] Detected language: en
+[21:19:57] [INFO] [Listener] Heard: 'open Google Chrome'
+[21:19:57] [INFO] [TTS] "Opening your default browser."
+[21:30:01] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:30:01] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:30:01] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:30:01] [INFO] [TTS] Engine initialised (rate=160)
+[21:30:07] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[21:30:08] [INFO] Mic calibrated (energy=30)
+[21:30:15] [INFO] Listener stopped.
+[21:31:14] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:31:14] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:31:14] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:31:14] [INFO] [TTS] Engine initialised (rate=160)
+[21:31:21] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[21:31:22] [INFO] Mic calibrated (energy=850)
+[21:31:28] [INFO] [Translator] Detected language: vi
+[21:31:28] [INFO] [TTS] "Session active. Ready for your commands."
+[21:31:31] [INFO] [Translator] Detected language: fr
+[21:31:34] [INFO] Listener stopped.
+[21:31:55] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:31:55] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:31:55] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:31:55] [INFO] [TTS] Engine initialised (rate=160)
+[21:32:02] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[21:32:04] [INFO] Mic calibrated (energy=181)
+[21:32:22] [INFO] [Translator] Detected language: vi
+[21:32:22] [INFO] [TTS] "Session active. Ready for your commands."
+[21:32:26] [INFO] [Translator] Detected language: en
+[21:32:26] [INFO] [Mic] Heard: "fashion"
+[21:32:29] [INFO] [TTS] "No upcoming events found matching 'fashion'."
+[21:32:40] [INFO] [Translator] Detected language: en
+[21:32:40] [INFO] [Mic] Heard: "open Google Chrome"
+[21:32:40] [INFO] [TTS] "Opening your default browser."
+[21:32:50] [INFO] [Translator] Detected language: vi
+[21:32:50] [INFO] [TTS] "Working late? I've got you. What do you need?"
+[21:33:20] [INFO] [Translator] Detected language: tl
+[21:33:38] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[21:33:49] [INFO] [TTS] "Playing dagabaaz"
+[21:34:06] [INFO] [Translator] Detected language: en
+[21:34:06] [INFO] [Mic] Heard: "search the web for Google"
+[21:34:06] [INFO] [Search+Summarize] Query: google
+[21:34:06] [INFO] [DDG Search] Found 0 URLs for: google
+[21:34:07] [INFO] [TTS] "Could not find search results for: google"
+[21:35:26] [INFO] [Translator] Detected language: so
+[21:35:26] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[21:36:31] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:36:31] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:36:31] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:36:31] [INFO] [TTS] Engine initialised (rate=160)
+[21:36:38] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[21:36:40] [INFO] Mic calibrated (energy=30)
+[21:36:47] [INFO] [Translator] Detected language: vi
+[21:36:47] [INFO] [TTS] "Session active. Ready for your commands."
+[21:37:01] [INFO] [Translator] Detected language: vi
+[21:37:02] [INFO] [TTS] "Working late? I've got you. What do you need?"
+[21:37:05] [INFO] [Translator] Detected language: af
+[21:37:09] [INFO] Listener stopped.
+[21:42:38] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:42:38] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:42:38] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:42:38] [INFO] [TTS] Engine initialised (rate=160)
+[21:42:45] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[21:42:47] [INFO] Mic calibrated (energy=1273)
+[21:42:56] [INFO] [Mic] Heard: "Alpha"
+[21:42:56] [INFO] [TTS] "Session active. Ready for your commands."
+[21:42:59] [INFO] [Mic] Heard: "fashion"
+[21:43:03] [INFO] [TTS] "No upcoming events found matching 'fashion'."
+[21:43:13] [INFO] [Mic] Heard: "open Google Chrome"
+[21:43:14] [INFO] [TTS] "Opening your default browser."
+[21:43:19] [INFO] [Mic] Heard: "open YouTube"
+[21:43:19] [INFO] [TTS] "Opening YouTube."
+[21:43:24] [INFO] [Mic] Heard: "how is the weather today"
+[21:43:25] [INFO] [TTS] "Current Weather: Karol Bagh, India Condition : Haze Temperatï¿½"
+[21:44:27] [INFO] [Mic] Heard: "what am I meetings today"
+[21:44:27] [INFO] [TTS] "Free slots today 08:00 AM ï¿½ 10:00 PM (14h 0m free)"
+[21:44:41] [INFO] [Mic] Heard: "what's my schedule for today"
+[21:44:42] [INFO] [TTS] "Opened Google Calendar."
+[21:44:59] [INFO] [Mic] Heard: "search and summarise Quantum computing"
+[21:45:40] [INFO] [TTS] "Could not find a file or folder matching 'and summarise quanï¿½"
+[21:45:51] [INFO] [Mic] Heard: "Banaunga pahle test karna"
+[21:45:56] [INFO] [Mic] Heard: "search the web for Quantum computing"
+[21:45:56] [INFO] [FileSearch] Searching for: 'web for quantum computing' ext=None
+[21:46:39] [INFO] [Mic] Heard: "search the web for Donald Trump"
+[21:47:12] [INFO] [Mic] Heard: "search the web for Donald Trump"
+[21:47:49] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:47:49] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:47:49] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:47:49] [INFO] [TTS] Engine initialised (rate=160)
+[21:47:56] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[21:47:58] [INFO] Mic calibrated (energy=30)
+[21:48:06] [INFO] [Mic] Heard: "Alpha"
+[21:48:06] [INFO] [TTS] "Session active. Ready for your commands."
+[21:48:12] [INFO] [Mic] Heard: "Alpha"
+[21:48:13] [INFO] Listener stopped.
+[21:48:22] [INFO] BiLSTM+Attention classifier loaded ï¿½ 56 intents
+[21:48:22] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[21:48:22] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[21:48:22] [INFO] [TTS] Engine initialised (rate=160)
+[21:48:29] [INFO] Listener started ï¿½ waiting for wake word 'alpha'.
+[21:48:31] [INFO] Mic calibrated (energy=31)
+[21:48:47] [INFO] [Mic] Heard: "Alpha"
+[21:48:47] [INFO] [TTS] "Session active. Ready for your commands."
+[21:49:20] [INFO] [Mic] Heard: "open WhatsApp"
+[21:49:20] [INFO] Launching app: 'whatsapp'
+[21:49:55] [INFO] [TTS] "Sent 'whatsapp' to shell ï¿½ check if it opened."
+[21:53:43] [INFO] [Mic] Heard: "open my calendar"
+[21:53:43] [INFO] [TTS] "Opened Google Calendar."
+[21:53:53] [INFO] [Mic] Heard: "what's my schedule for today"
+[21:53:54] [INFO] [TTS] "Opened Google Calendar."
+[21:54:09] [INFO] [Mic] Heard: "when am I free today"
+[21:54:11] [INFO] [TTS] "Free slots today 08:00 AM ï¿½ 10:00 PM (14h 0m free)"
+[21:55:11] [INFO] [Mic] Heard: "what meetings do I have today"
+[21:55:11] [INFO] [TTS] "Today's Calendar (2 events) 03:45 PM DTI meeting 06:00 PM Miï¿½"
+[21:55:59] [INFO] [Mic] Heard: "play"
+[21:56:17] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[21:56:17] [INFO] [TTS] "Spotify launched."
+[21:56:31] [INFO] [Mic] Heard: "play mutation"
+[21:56:49] [INFO] [TTS] "Playing mutation"
+[21:57:22] [INFO] [Mic] Heard: "increase the volume"
+[11:58:50] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[11:58:50] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[11:58:50] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[11:58:50] [INFO] [TTS] Engine initialised (rate=160)
+[11:58:57] [INFO] Listener started — waiting for wake word 'alpha'.
+[11:58:59] [INFO] Mic calibrated (energy=31)
+[11:59:00] [INFO] [Clap] Detector started — waiting for double-clap.
+[11:59:00] [INFO] [Clap] Audio stream open (threshold=3000)
+[11:59:24] [INFO] [Clap] Clap #1 detected (energy=406, dur=110ms)
+[11:59:25] [INFO] [Mic] Heard: "Alpha"
+[11:59:25] [INFO] [TTS] "Session active. Ready for your commands."
+[11:59:34] [INFO] [Clap] Clap #1 detected (energy=299, dur=270ms)
+[11:59:34] [INFO] [Clap] Clap #2 detected (energy=530, dur=69ms)
+[11:59:34] [INFO] [TTS] "Here."
+[11:59:36] [INFO] [Mic] Heard: "hello alpha cast"
+[11:59:36] [INFO] [TTS] "Morning. FRIDAY online. What shall we tackle first?"
+[11:59:48] [INFO] [Clap] Clap #1 detected (energy=829, dur=50ms)
+[11:59:48] [INFO] [Clap] Clap #2 detected (energy=328, dur=230ms)
+[11:59:48] [INFO] [TTS] "Here."
+[11:59:50] [INFO] [Mic] Heard: "goodbye"
+[11:59:50] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[12:01:50] [INFO] [Clap] Clap #1 detected (energy=559, dur=70ms)
+[12:01:52] [INFO] [Mic] Heard: "Alpha"
+[12:01:52] [INFO] [TTS] "Session active. Ready for your commands."
+[12:02:12] [INFO] Listener stopped.
+[12:02:12] [INFO] [Clap] Detector stopped.
+[12:02:12] [INFO] [Clap] Audio stream closed.
+[12:05:44] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[12:05:44] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[12:05:44] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[12:05:44] [INFO] [TTS] Engine initialised (rate=160)
+[12:05:51] [INFO] Listener started — waiting for wake word 'alpha'.
+[12:05:52] [INFO] Mic calibrated (energy=31)
+[12:05:54] [INFO] [Clap] Detector started — waiting for double-clap.
+[12:05:54] [INFO] [Clap] Audio stream open (threshold=3000)
+[12:05:57] [INFO] [Clap] Clap #1 detected (energy=762, dur=90ms)
+[12:05:58] [INFO] [Clap] Clap #2 detected (energy=878, dur=161ms)
+[12:05:58] [INFO] [TTS] "Session active. Ready for your commands."
+[12:06:09] [INFO] [Clap] Clap #1 detected (energy=595, dur=100ms)
+[12:06:10] [INFO] [Mic] Heard: "hello alpha"
+[12:06:10] [INFO] [TTS] "Session active. Ready for your commands."
+[12:06:11] [INFO] [Clap] Clap #1 detected (energy=1043, dur=60ms)
+[12:06:12] [INFO] [Clap] Clap #2 detected (energy=1008, dur=140ms)
+[12:06:16] [INFO] [TTS] "Here."
+[12:06:17] [INFO] [Clap] Clap #1 detected (energy=1110, dur=100ms)
+[12:06:19] [INFO] [Mic] Heard: "hello alpha"
+[12:06:19] [INFO] [TTS] "Good afternoon. Ready and waiting. What's next?"
+[12:06:28] [INFO] [Clap] Clap #1 detected (energy=534, dur=140ms)
+[12:06:28] [INFO] [Clap] Clap #2 detected (energy=1127, dur=140ms)
+[12:06:28] [INFO] [TTS] "Here."
+[12:06:31] [INFO] [Mic] Heard: "open Google Chrome"
+[12:06:32] [INFO] [TTS] "Opening your default browser."
+[12:06:35] [INFO] [Mic] Heard: "beautiful browser"
+[12:06:36] [INFO] [TTS] "Opening your default browser."
+[12:06:45] [INFO] [Clap] Clap #1 detected (energy=1105, dur=110ms)
+[12:06:46] [INFO] [Clap] Clap #2 detected (energy=1049, dur=170ms)
+[12:06:46] [INFO] [TTS] "Here."
+[12:06:48] [INFO] [Mic] Heard: "open Google Chrome"
+[12:06:48] [INFO] [TTS] "Opening your default browser."
+[12:06:56] [INFO] [Clap] Clap #1 detected (energy=360, dur=100ms)
+[12:06:56] [INFO] [Clap] Clap #2 detected (energy=840, dur=140ms)
+[12:06:56] [INFO] [TTS] "Here."
+[12:06:58] [INFO] [Mic] Heard: "what's my schedule"
+[12:06:59] [INFO] [TTS] "Opened Google Calendar."
+[12:07:06] [INFO] [Clap] Clap #1 detected (energy=452, dur=140ms)
+[12:07:06] [INFO] [Clap] Clap #2 detected (energy=934, dur=140ms)
+[12:07:06] [INFO] [TTS] "Here."
+[12:07:07] [INFO] [Clap] Clap #1 detected (energy=409, dur=262ms)
+[12:07:08] [INFO] [Mic] Heard: "what meeting"
+[12:07:10] [INFO] [TTS] "You have no events scheduled for today."
+[12:07:14] [INFO] [Mic] Heard: "schedule"
+[12:07:14] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow at…"
+[12:07:19] [INFO] [Mic] Heard: "flashlight"
+[12:07:26] [INFO] [TTS] "No upcoming events found matching 'flashlight'."
+[12:07:38] [INFO] [Clap] Clap #1 detected (energy=171, dur=160ms)
+[12:07:39] [INFO] [Clap] Clap #2 detected (energy=518, dur=139ms)
+[12:07:39] [INFO] [TTS] "Here."
+[12:07:41] [INFO] [Mic] Heard: "are meeting today at"
+[12:07:42] [INFO] [TTS] "You have no events scheduled for today."
+[12:07:49] [INFO] [Clap] Clap #1 detected (energy=982, dur=299ms)
+[12:07:49] [INFO] [Clap] Clap #2 detected (energy=494, dur=161ms)
+[12:07:49] [INFO] [TTS] "Here."
+[12:07:50] [INFO] [Clap] Clap #1 detected (energy=619, dur=200ms)
+[12:07:52] [INFO] [Mic] Heard: "add a meeting to add 3:00 p.m."
+[12:07:52] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow at…"
+[12:08:06] [INFO] [Clap] Clap #1 detected (energy=545, dur=161ms)
+[12:08:08] [INFO] [Clap] Clap #2 detected (energy=621, dur=251ms)
+[12:08:08] [INFO] [TTS] "Here."
+[12:08:08] [INFO] [Clap] Clap #1 detected (energy=418, dur=199ms)
+[12:08:11] [INFO] [Mic] Heard: "add a meeting today at 3:00 p.m."
+[12:08:11] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow at…"
+[12:08:28] [INFO] [Clap] Clap #1 detected (energy=589, dur=110ms)
+[12:08:30] [INFO] [Mic] Heard: "goodbye Alpha"
+[12:08:30] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[12:08:36] [INFO] [Clap] Clap #1 detected (energy=921, dur=160ms)
+[12:08:36] [INFO] [Clap] Clap #2 detected (energy=1195, dur=140ms)
+[12:08:36] [INFO] [TTS] "Session active. Ready for your commands."
+[12:08:38] [INFO] [Mic] Heard: "Alpha"
+[12:08:41] [INFO] [TTS] "Session active. Ready for your commands."
+[12:08:51] [INFO] [Clap] Clap #1 detected (energy=927, dur=90ms)
+[12:08:51] [INFO] [Clap] Clap #2 detected (energy=854, dur=140ms)
+[12:08:51] [INFO] [TTS] "Here."
+[12:08:59] [INFO] [Clap] Clap #1 detected (energy=835, dur=139ms)
+[12:08:59] [INFO] [Clap] Clap #2 detected (energy=1152, dur=70ms)
+[12:08:59] [INFO] [TTS] "Here."
+[12:09:07] [INFO] [Clap] Clap #1 detected (energy=577, dur=139ms)
+[12:09:07] [INFO] [Clap] Clap #2 detected (energy=902, dur=231ms)
+[12:09:07] [INFO] [TTS] "Here."
+[12:09:09] [INFO] [Mic] Heard: "what is a"
+[12:09:10] [INFO] [TTS] "Current Weather: Dehli, India Condition : Haze Temperature: …"
+[12:09:24] [INFO] [Clap] Clap #1 detected (energy=197, dur=271ms)
+[12:09:25] [INFO] [Mic] Heard: "Alpha word meetings do I have today"
+[12:09:34] [INFO] [TTS] "You have no events scheduled for today."
+[12:09:46] [INFO] [Mic] Heard: "play Garaj Garaj"
+[12:09:55] [INFO] [Mic] Heard: "play dagabaj"
+[12:09:55] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[12:10:05] [INFO] [TTS] "Playing dagabaj"
+[12:10:11] [INFO] [Mic] Heard: "play Dagabaaz"
+[12:10:19] [INFO] [TTS] "Playing dagabaaz"
+[12:10:25] [INFO] [Mic] Heard: "play Dagabaaz"
+[12:10:26] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[12:10:36] [INFO] [TTS] "Playing dagabaaz"
+[12:10:43] [INFO] [Clap] Clap #1 detected (energy=957, dur=141ms)
+[12:10:43] [INFO] [Clap] Clap #2 detected (energy=559, dur=250ms)
+[12:10:43] [INFO] [TTS] "Here."
+[12:10:46] [INFO] [Mic] Heard: "close spotify"
+[12:10:46] [INFO] [TTS] "Spotify is already running."
+[12:10:59] [INFO] [Clap] Clap #1 detected (energy=374, dur=190ms)
+[12:11:00] [INFO] [Clap] Clap #2 detected (energy=314, dur=260ms)
+[12:11:00] [INFO] [TTS] "Here."
+[12:11:02] [INFO] [Mic] Heard: "what will the weather be like today"
+[12:11:03] [INFO] [TTS] "Current Weather: Dehli, India Condition : Haze Temperature: …"
+[12:11:40] [INFO] [Clap] Clap #1 detected (energy=727, dur=170ms)
+[12:11:40] [INFO] [Clap] Clap #2 detected (energy=793, dur=69ms)
+[12:11:40] [INFO] [TTS] "Here."
+[12:11:44] [INFO] [Mic] Heard: "write a perfect deadline extension"
+[12:11:44] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Che…"
+[12:12:08] [INFO] [AIEmail] Response received (1159 chars)
+[12:12:08] [INFO] [AIEmail] Subject: Request for Deadline Extension on Project Submissi | Body: 1069 chars
+[12:12:29] [INFO] [Email] Sent to eshaanmisra12@gmail.com
+[12:12:38] [INFO] [Clap] Clap #1 detected (energy=1091, dur=189ms)
+[12:12:39] [INFO] [Clap] Clap #2 detected (energy=739, dur=111ms)
+[12:12:39] [INFO] [TTS] "Here."
+[12:12:41] [INFO] [Mic] Heard: "what's my RAM usage right now"
+[12:12:42] [INFO] [TTS] "RAM: 13.7 GB used of 16.9 GB (81.4%)."
+[12:12:52] [INFO] [Clap] Clap #1 detected (energy=945, dur=70ms)
+[12:12:53] [INFO] [Clap] Clap #2 detected (energy=925, dur=280ms)
+[12:12:53] [INFO] [TTS] "Here."
+[12:12:55] [INFO] [Mic] Heard: "what's my battery test"
+[12:12:55] [INFO] [TTS] "Battery: 100% — Charging."
+[12:14:14] [INFO] [Clap] Clap #1 detected (energy=573, dur=70ms)
+[12:14:16] [INFO] [Mic] Heard: "turn on system alerts"
+[12:14:16] [INFO] [Proactive] Background monitoring started.
+[12:14:16] [INFO] [TTS] "Proactive monitoring started — I will alert you about batter…"
+[12:14:37] [INFO] [Clap] Clap #1 detected (energy=1188, dur=270ms)
+[12:14:38] [INFO] [Clap] Clap #2 detected (energy=774, dur=252ms)
+[12:14:38] [INFO] [TTS] "Here."
+[12:14:40] [INFO] [Mic] Heard: "monitoring"
+[12:14:40] [INFO] [TTS] "Proactive monitoring: ACTIVE Battery warn: 20% / critical: 1…"
+[12:15:03] [INFO] [Clap] Clap #1 detected (energy=804, dur=70ms)
+[12:15:04] [INFO] [Mic] Heard: "disable monitoring"
+[12:15:04] [INFO] [Proactive] Monitoring stopped.
+[12:15:05] [INFO] [TTS] "Proactive monitoring stopped."
+[12:15:38] [INFO] [Clap] Clap #1 detected (energy=975, dur=70ms)
+[12:15:40] [INFO] [Mic] Heard: "read clipboard image"
+[12:15:43] [INFO] [TTS] "Text from Clipboard Image Thank you for your time and consid…"
+[12:16:20] [INFO] [Clap] Clap #1 detected (energy=1014, dur=230ms)
+[12:16:21] [INFO] [Clap] Clap #2 detected (energy=1125, dur=211ms)
+[12:16:21] [INFO] [TTS] "Here."
+[12:16:22] [INFO] [Clap] Clap #1 detected (energy=1161, dur=190ms)
+[12:16:24] [INFO] [Mic] Heard: "search the web for Donald Trump"
+[12:16:24] [INFO] [FileSearch] Searching for: 'web for donald trump' ext=None
+[12:17:35] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[12:17:35] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[12:17:36] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[12:17:36] [INFO] [TTS] Engine initialised (rate=160)
+[12:17:43] [INFO] Listener started — waiting for wake word 'alpha'.
+[12:17:44] [INFO] Mic calibrated (energy=76)
+[12:17:46] [INFO] [Clap] Detector started — waiting for double-clap.
+[12:17:46] [INFO] [Clap] Audio stream open (threshold=3000)
+[12:17:47] [INFO] [Clap] Clap #1 detected (energy=985, dur=91ms)
+[12:17:47] [INFO] [Clap] Clap #2 detected (energy=702, dur=140ms)
+[12:17:48] [INFO] [TTS] "Session active. Ready for your commands."
+[12:18:03] [INFO] [Clap] Clap #1 detected (energy=235, dur=230ms)
+[12:18:04] [INFO] [Mic] Heard: "search the web for Donald Trump"
+[12:18:22] [INFO] [Clap] Clap #1 detected (energy=1020, dur=190ms)
+[12:18:22] [INFO] [Clap] Clap #2 detected (energy=663, dur=130ms)
+[12:18:22] [INFO] [TTS] "Here."
+[12:18:25] [INFO] [Mic] Heard: "Alpha"
+[12:18:25] [INFO] [TTS] "Session active. Ready for your commands."
+[12:18:33] [INFO] [Clap] Clap #1 detected (energy=1045, dur=211ms)
+[12:18:34] [INFO] [Mic] Heard: "search the web for Don"
+[12:18:34] [INFO] [Search+Summarize] Query: don
+[12:18:35] [INFO] [DDG Search] Found 5 URLs for: don
+[12:18:48] [INFO] [Ollama] Summary generated (443 chars)
+[12:18:48] [INFO] [TTS] "Here's what I've got on "Don": There are two notable individ…"
+[12:19:17] [INFO] [Clap] Clap #1 detected (energy=1167, dur=279ms)
+[12:19:18] [INFO] [Clap] Clap #2 detected (energy=1172, dur=100ms)
+[12:19:18] [INFO] [TTS] "Here."
+[12:19:20] [INFO] [Mic] Heard: "search the web on Jeffrey ab"
+[12:19:20] [INFO] [Search+Summarize] Query: search the web on jeffrey ab
+[12:19:21] [INFO] [DDG Search] Found 5 URLs for: search the web on jeffrey ab
+[12:19:37] [INFO] [Ollama] Summary generated (497 chars)
+[12:19:38] [INFO] [TTS] "Jeffrey Epstein was a financier and convicted sex offender w…"
+[12:20:11] [INFO] [Clap] Clap #1 detected (energy=1072, dur=130ms)
+[12:20:13] [INFO] [Clap] Clap #1 detected (energy=514, dur=230ms)
+[12:20:13] [INFO] [Clap] Clap #2 detected (energy=619, dur=260ms)
+[12:20:13] [INFO] [TTS] "Here."
+[12:20:14] [INFO] [Clap] Clap #1 detected (energy=787, dur=173ms)
+[12:20:16] [INFO] [Mic] Heard: "schedule a meeting at 3:00 p.m."
+[12:20:16] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow at…"
+[12:20:24] [INFO] [Clap] Clap #1 detected (energy=390, dur=170ms)
+[12:20:24] [INFO] [Clap] Clap #2 detected (energy=575, dur=210ms)
+[12:20:25] [INFO] [Clap] Clap #1 detected (energy=918, dur=280ms)
+[12:20:26] [INFO] [Mic] Heard: "add meeting tomorrow at"
+[12:20:28] [INFO] [TTS] "Here."
+[12:20:29] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow at…"
+[12:20:33] [INFO] [Clap] Clap #1 detected (energy=773, dur=179ms)
+[12:20:34] [INFO] [Clap] Clap #2 detected (energy=304, dur=262ms)
+[12:20:36] [INFO] [Mic] Heard: "add a meeting tomorrow at 3:00 p.m."
+[12:20:41] [INFO] [TTS] "Here."
+[12:20:42] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow at…"
+[12:21:32] [INFO] [Clap] Clap #1 detected (energy=893, dur=69ms)
+[12:21:35] [INFO] [Mic] Heard: "Play Jaane Nahin Denge"
+[12:21:48] [INFO] [Clap] Clap #1 detected (energy=1135, dur=229ms)
+[12:21:51] [INFO] [Mic] Heard: "play give me some sun"
+[12:21:51] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[12:22:01] [INFO] [TTS] "Playing give me some sun"
+[12:23:09] [INFO] [Mic] Heard: "goodbye"
+[12:23:09] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[12:23:35] [INFO] [Clap] Clap #1 detected (energy=914, dur=90ms)
+[12:23:35] [INFO] [Clap] Clap #2 detected (energy=1160, dur=90ms)
+[12:23:35] [INFO] [TTS] "Session active. Ready for your commands."
+[12:23:46] [INFO] [Clap] Clap #1 detected (energy=1109, dur=119ms)
+[12:23:53] [INFO] [Clap] Clap #1 detected (energy=1104, dur=140ms)
+[12:23:58] [INFO] [Clap] Clap #1 detected (energy=429, dur=160ms)
+[12:23:58] [INFO] [Clap] Clap #2 detected (energy=631, dur=91ms)
+[12:23:58] [INFO] [TTS] "Here."
+[12:24:00] [INFO] [Mic] Heard: "Alpha"
+[12:24:00] [INFO] [TTS] "Session active. Ready for your commands."
+[12:24:07] [INFO] [Clap] Clap #1 detected (energy=695, dur=71ms)
+[12:24:09] [INFO] [Mic] Heard: "how are you Alpha"
+[12:24:09] [INFO] [TTS] "Good afternoon. Ready and waiting. What's next?"
+[12:24:48] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[12:24:48] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[12:24:48] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[12:24:48] [INFO] [TTS] Engine initialised (rate=160)
+[12:24:55] [INFO] Listener started — waiting for wake word 'alpha'.
+[12:24:56] [INFO] Mic calibrated (energy=455)
+[12:24:58] [INFO] [Clap] Detector started — waiting for double-clap.
+[12:24:58] [INFO] [Clap] Audio stream open (threshold=3000)
+[12:24:58] [INFO] [Mic] Heard: "Alpha"
+[12:24:58] [INFO] [TTS] "Session active. Ready for your commands."
+[12:25:09] [INFO] [Clap] Clap #1 detected (energy=363, dur=169ms)
+[12:25:10] [INFO] [Clap] Clap #2 detected (energy=776, dur=180ms)
+[12:25:10] [INFO] [TTS] "Here."
+[12:25:12] [INFO] [Mic] Heard: "schedule a meeting today at 3:00 p.m."
+[12:25:14] [INFO] [TTS] "Event created: 'Today' Date: Sunday, 12 Apr 2026 Time: 03:00…"
+[12:25:25] [INFO] [Clap] Clap #1 detected (energy=718, dur=140ms)
+[12:25:25] [INFO] [Clap] Clap #2 detected (energy=583, dur=131ms)
+[12:25:25] [INFO] [TTS] "Here."
+[12:25:29] [INFO] [Mic] Heard: "open"
+[12:25:29] [INFO] Launching app: 'open'
+[12:25:29] [WARN] Start Menu launch failed: [WinError 1223] The operation was canceled by the user: 'C:\\Users\\Eshaan Mishra\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\openjfx-24_windows-x64_bin-sdk.lnk'
+[12:25:29] [INFO] [TTS] "Sent 'open' to shell — check if it opened."
+[12:25:36] [INFO] [Clap] Clap #1 detected (energy=535, dur=209ms)
+[12:25:36] [INFO] [Clap] Clap #2 detected (energy=406, dur=189ms)
+[12:25:36] [INFO] [TTS] "Here."
+[12:25:37] [INFO] [Clap] Clap #1 detected (energy=138, dur=40ms)
+[12:25:38] [INFO] [Mic] Heard: "what am I meetings"
+[12:25:39] [INFO] [TTS] "Could not check free slots: can't compare offset-naive and o…"
+[12:25:52] [INFO] [Clap] Clap #1 detected (energy=709, dur=191ms)
+[12:25:54] [INFO] [Mic] Heard: "show calendar"
+[12:25:54] [INFO] [TTS] "Today's Calendar (1 event) 03:00 PM Today"
+[12:26:08] [INFO] [Mic] Heard: "show me my calendar"
+[12:26:09] [INFO] [TTS] "Opened Google Calendar."
+[12:27:18] [INFO] [Clap] Clap #1 detected (energy=1082, dur=160ms)
+[12:27:18] [INFO] [Clap] Clap #2 detected (energy=993, dur=140ms)
+[12:27:18] [INFO] [TTS] "Here."
+[12:27:20] [INFO] [Mic] Heard: "Erica"
+[12:27:21] [INFO] [TTS] "No upcoming events found matching 'erica'."
+[12:27:27] [INFO] [Clap] Clap #1 detected (energy=415, dur=170ms)
+[12:27:27] [INFO] [Clap] Clap #2 detected (energy=291, dur=179ms)
+[12:27:27] [INFO] [TTS] "Here."
+[12:27:28] [INFO] [Clap] Clap #1 detected (energy=194, dur=49ms)
+[12:27:29] [INFO] [Mic] Heard: "what are my meetings to"
+[12:27:30] [INFO] [TTS] "Today's Calendar (2 events) 01:00 PM Hatchery- ARCA 03:00 PM…"
+[12:27:37] [INFO] [Clap] Clap #1 detected (energy=605, dur=189ms)
+[12:27:38] [INFO] [Clap] Clap #2 detected (energy=477, dur=140ms)
+[12:27:38] [INFO] [TTS] "Here."
+[12:27:40] [INFO] [Mic] Heard: "Arka"
+[12:27:40] [INFO] [TTS] "No upcoming events found matching 'arka'."
+[12:27:52] [INFO] [Mic] Heard: "hello how are you"
+[12:27:52] [INFO] [TTS] "Good afternoon. What can I do for you?"
+[12:28:00] [INFO] [Clap] Clap #1 detected (energy=389, dur=141ms)
+[12:28:01] [INFO] [Clap] Clap #2 detected (energy=1075, dur=182ms)
+[12:28:01] [INFO] [TTS] "Here."
+[12:28:03] [INFO] [Mic] Heard: "delete the Singapore client meeting"
+[12:28:04] [INFO] [TTS] "Deleted event: 'Singapore Client'"
+[12:28:14] [INFO] [Clap] Clap #1 detected (energy=949, dur=160ms)
+[12:28:15] [INFO] [Clap] Clap #2 detected (energy=300, dur=250ms)
+[12:28:15] [INFO] [TTS] "Here."
+[12:28:16] [INFO] [Clap] Clap #1 detected (energy=561, dur=20ms)
+[12:28:16] [INFO] [Clap] Clap #2 detected (energy=1172, dur=260ms)
+[12:28:16] [INFO] [Clap] Clap #1 detected (energy=841, dur=259ms)
+[12:28:17] [INFO] [Clap] Clap #2 detected (energy=183, dur=280ms)
+[12:28:17] [INFO] [TTS] "Here."
+[12:28:20] [INFO] [Mic] Heard: "add a meeting today with single client at 3:00 p.m. to 4:00 p.m."
+[12:28:21] [INFO] [TTS] "Event created: 'Today' Date: Monday, 13 Apr 2026 Time: 04:00…"
+[12:29:22] [INFO] [Clap] Clap #1 detected (energy=999, dur=180ms)
+[12:29:23] [INFO] [Clap] Clap #2 detected (energy=297, dur=250ms)
+[12:29:23] [INFO] [TTS] "Here."
+[12:29:24] [INFO] [Clap] Clap #1 detected (energy=620, dur=184ms)
+[12:29:25] [INFO] [Mic] Heard: "add a meeting today at"
+[12:29:26] [INFO] [TTS] "Event created: 'Today' Date: Monday, 13 Apr 2026 Time: 12:00…"
+[12:29:42] [INFO] [Clap] Clap #1 detected (energy=870, dur=160ms)
+[12:29:43] [INFO] [Clap] Clap #2 detected (energy=544, dur=210ms)
+[12:29:43] [INFO] [TTS] "Here."
+[12:29:45] [INFO] [Mic] Heard: "add a meeting today at 3:00 p.m."
+[12:29:46] [INFO] [TTS] "Event created: 'Today' Date: Sunday, 12 Apr 2026 Time: 03:00…"
+[12:29:52] [INFO] [Clap] Clap #1 detected (energy=289, dur=190ms)
+[12:29:53] [INFO] [Clap] Clap #2 detected (energy=1060, dur=230ms)
+[12:29:56] [INFO] [Mic] Heard: "add a meeting today at 5:00 p.m."
+[12:29:58] [INFO] [TTS] "Here."
+[12:29:59] [INFO] [TTS] "Event created: 'Today' Date: Sunday, 12 Apr 2026 Time: 05:00…"
+[12:30:11] [INFO] [Clap] Clap #1 detected (energy=810, dur=230ms)
+[12:30:11] [INFO] [Clap] Clap #2 detected (energy=658, dur=300ms)
+[12:30:11] [INFO] [TTS] "Here."
+[12:30:12] [INFO] [Clap] Clap #1 detected (energy=153, dur=70ms)
+[12:30:12] [INFO] [Clap] Clap #2 detected (energy=568, dur=260ms)
+[12:30:14] [INFO] [Mic] Heard: "what are my fridge today"
+[12:30:14] [INFO] [TTS] "Today's Calendar (3 events) 01:00 PM Hatchery- ARCA 03:00 PM…"
+[12:31:01] [INFO] [Clap] Clap #1 detected (energy=1039, dur=211ms)
+[12:31:02] [INFO] [Clap] Clap #2 detected (energy=426, dur=209ms)
+[12:31:02] [INFO] [TTS] "Here."
+[12:31:03] [INFO] [Clap] Clap #1 detected (energy=12, dur=35ms)
+[12:31:04] [INFO] [Mic] Heard: "what are my free slot"
+[12:31:05] [INFO] [TTS] "Could not check free slots: can't compare offset-naive and o…"
+[12:31:13] [INFO] [Clap] Clap #1 detected (energy=376, dur=179ms)
+[12:31:13] [INFO] [Clap] Clap #2 detected (energy=209, dur=249ms)
+[12:31:13] [INFO] [TTS] "Here."
+[12:31:15] [INFO] [Mic] Heard: "when am I free today"
+[12:31:15] [INFO] [TTS] "Could not check free slots: can't compare offset-naive and o…"
+[12:31:47] [INFO] [Clap] Clap #1 detected (energy=1194, dur=140ms)
+[12:31:49] [INFO] [Mic] Heard: "check for free time"
+[12:31:50] [INFO] [TTS] "Could not check free slots: can't compare offset-naive and o…"
+[12:31:54] [INFO] [Clap] Clap #1 detected (energy=661, dur=30ms)
+[12:31:54] [INFO] [Clap] Clap #2 detected (energy=624, dur=90ms)
+[12:31:56] [INFO] [Clap] Clap #1 detected (energy=815, dur=90ms)
+[12:31:57] [INFO] [TTS] "Here."
+[12:33:41] [INFO] [Clap] Clap #1 detected (energy=697, dur=199ms)
+[12:33:42] [INFO] [Clap] Clap #2 detected (energy=1128, dur=140ms)
+[12:33:42] [INFO] [TTS] "Here."
+[12:33:44] [INFO] [Clap] Clap #1 detected (energy=346, dur=38ms)
+[12:33:44] [INFO] [Clap] Clap #2 detected (energy=690, dur=160ms)
+[12:33:44] [INFO] [TTS] "Here."
+[12:33:45] [INFO] [Clap] Clap #1 detected (energy=771, dur=70ms)
+[12:33:45] [INFO] [Clap] Clap #2 detected (energy=585, dur=89ms)
+[12:33:47] [INFO] [Mic] Heard: "write a email to one of my friend won't be able to come to other party"
+[12:33:47] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Che…"
+[12:34:14] [INFO] [AIEmail] Response received (637 chars)
+[12:34:14] [INFO] [AIEmail] Subject: Unable to Attend Upcoming Party | Body: 568 chars
+[12:34:27] [INFO] [Email] Sent to eshaanmisra12@gmail.com
+[12:34:32] [INFO] Listener stopped.
+[12:34:32] [INFO] [Clap] Detector stopped.
+[12:34:32] [INFO] [Clap] Audio stream closed.
+[13:08:08] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:08:08] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:08:09] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:08:09] [INFO] [TTS] Engine initialised (rate=160)
+[13:08:15] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:08:17] [INFO] Mic calibrated (energy=31)
+[13:08:18] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:08:18] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:09:41] [INFO] [Clap] Clap #1 detected (energy=860, dur=180ms)
+[13:09:42] [INFO] [Clap] Clap #2 detected (energy=585, dur=190ms)
+[13:09:42] [INFO] [TTS] "Session active. Ready for your commands."
+[13:09:44] [INFO] [Mic] Heard: "han han"
+[13:09:54] [INFO] [Clap] Clap #1 detected (energy=726, dur=69ms)
+[13:09:55] [INFO] [Clap] Clap #2 detected (energy=935, dur=240ms)
+[13:09:55] [INFO] [TTS] "Here."
+[13:09:56] [INFO] [Mic] Heard: "goodbye"
+[13:10:00] [INFO] [Clap] Clap #1 detected (energy=386, dur=231ms)
+[13:10:02] [INFO] [Mic] Heard: "goodbye"
+[13:10:07] [INFO] [Clap] Clap #1 detected (energy=839, dur=230ms)
+[13:10:08] [INFO] [Mic] Heard: "goodbye"
+[13:10:16] [INFO] Listener stopped.
+[13:10:16] [INFO] [Clap] Detector stopped.
+[13:10:16] [INFO] [Clap] Audio stream closed.
+[13:12:04] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:12:04] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:12:04] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:12:04] [INFO] [TTS] Engine initialised (rate=160)
+[13:12:11] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:12:13] [INFO] Mic calibrated (energy=1641)
+[13:12:14] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:12:14] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:12:21] [INFO] Listener stopped.
+[13:12:21] [INFO] [Clap] Detector stopped.
+[13:12:21] [INFO] [Clap] Audio stream closed.
+[13:12:46] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:12:46] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:12:46] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:12:46] [INFO] [TTS] Engine initialised (rate=160)
+[13:12:53] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:12:55] [INFO] Mic calibrated (energy=31)
+[13:12:56] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:12:56] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:12:59] [INFO] Listener stopped.
+[13:12:59] [INFO] [Clap] Detector stopped.
+[13:12:59] [INFO] [Clap] Audio stream closed.
+[13:13:09] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:13:09] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:13:09] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:13:09] [INFO] [TTS] Engine initialised (rate=160)
+[13:13:16] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:13:18] [INFO] Mic calibrated (energy=31)
+[13:13:19] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:13:19] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:13:23] [INFO] [Clap] Clap #1 detected (energy=594, dur=140ms)
+[13:13:23] [INFO] [Clap] Clap #2 detected (energy=551, dur=89ms)
+[13:13:23] [INFO] [TTS] "Session active. Ready for your commands."
+[13:13:30] [INFO] [Mic] Heard: "Alpha"
+[13:13:30] [INFO] [TTS] "Session active. Ready for your commands."
+[13:13:32] [INFO] [Mic] Heard: "how are you Alpha"
+[13:13:35] [INFO] [TTS] "Afternoon. Still sharp, still here. What do you need?"
+[13:13:44] [INFO] [Clap] Clap #1 detected (energy=447, dur=110ms)
+[13:13:45] [INFO] [Clap] Clap #2 detected (energy=529, dur=140ms)
+[13:13:45] [INFO] [TTS] "Here."
+[13:13:46] [INFO] [Mic] Heard: "what are my meeting"
+[13:13:47] [INFO] [TTS] "Today's Calendar (3 events) 01:00 PM Hatchery- ARCA 03:00 PM…"
+[13:14:01] [INFO] [Clap] Clap #1 detected (energy=541, dur=90ms)
+[13:14:10] [INFO] [Clap] Clap #1 detected (energy=919, dur=160ms)
+[13:14:10] [INFO] [Clap] Clap #2 detected (energy=921, dur=230ms)
+[13:14:10] [INFO] [TTS] "Here."
+[13:14:11] [INFO] [Mic] Heard: "what's the weather today like"
+[13:14:12] [INFO] [Mic] Heard: "how is the weather"
+[13:14:22] [INFO] [TTS] "Current Weather: Dehli, India Condition : Haze Temperature: …"
+[13:14:45] [INFO] [TTS] "Current Weather: Dehli, India Condition : Haze Temperature: …"
+[13:15:08] [INFO] Listener stopped.
+[13:15:08] [INFO] [Clap] Detector stopped.
+[13:15:08] [INFO] [Clap] Audio stream closed.
+[13:15:23] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:15:24] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:15:24] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:15:24] [INFO] [TTS] Engine initialised (rate=160)
+[13:15:30] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:15:32] [INFO] Mic calibrated (energy=124)
+[13:15:33] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:15:33] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:15:34] [INFO] [Mic] Heard: "Alpha"
+[13:15:34] [INFO] [TTS] "Session active. Ready for your commands."
+[13:15:43] [INFO] [Clap] Clap #1 detected (energy=390, dur=90ms)
+[13:15:44] [INFO] [Mic] Heard: "how are you Alpha"
+[13:15:44] [INFO] [TTS] "Afternoon. Still sharp, still here. What do you need?"
+[13:15:54] [INFO] [Clap] Clap #1 detected (energy=693, dur=140ms)
+[13:15:54] [INFO] [Clap] Clap #2 detected (energy=620, dur=40ms)
+[13:15:54] [INFO] [TTS] "Here."
+[13:15:54] [INFO] [Clap] Clap #1 detected (energy=584, dur=41ms)
+[13:15:55] [INFO] [Clap] Clap #2 detected (energy=795, dur=90ms)
+[13:15:56] [INFO] [Mic] Heard: "what meat do I have"
+[13:15:57] [INFO] [TTS] "Today's Calendar (3 events) 01:00 PM Hatchery- ARCA 03:00 PM…"
+[13:16:22] [INFO] [Clap] Clap #1 detected (energy=480, dur=119ms)
+[13:16:22] [INFO] [Clap] Clap #2 detected (energy=942, dur=70ms)
+[13:16:22] [INFO] [TTS] "Here."
+[13:16:23] [INFO] [Clap] Clap #1 detected (energy=13, dur=201ms)
+[13:16:23] [INFO] [Clap] Clap #2 detected (energy=908, dur=160ms)
+[13:16:25] [INFO] [Mic] Heard: "add meeting today p.m."
+[13:16:26] [INFO] [TTS] "Event created: 'Meeting' Date: Monday, 13 Apr 2026 Time: 12:…"
+[13:16:40] [INFO] [Clap] Clap #1 detected (energy=419, dur=180ms)
+[13:16:40] [INFO] [Clap] Clap #2 detected (energy=901, dur=210ms)
+[13:16:40] [INFO] [TTS] "Here."
+[13:16:41] [INFO] [Clap] Clap #1 detected (energy=853, dur=70ms)
+[13:16:41] [INFO] [Clap] Clap #2 detected (energy=136, dur=139ms)
+[13:16:41] [INFO] [Clap] Clap #1 detected (energy=689, dur=41ms)
+[13:16:42] [INFO] [Clap] Clap #2 detected (energy=920, dur=139ms)
+[13:16:44] [INFO] [Mic] Heard: "create a meeting at 2:00 p.m."
+[13:16:44] [INFO] [TTS] "Event created: 'Meeting' Date: Sunday, 12 Apr 2026 Time: 02:…"
+[13:16:58] [INFO] [Clap] Clap #1 detected (energy=791, dur=140ms)
+[13:16:59] [INFO] [Clap] Clap #2 detected (energy=214, dur=180ms)
+[13:16:59] [INFO] [TTS] "Here."
+[13:17:00] [INFO] [Clap] Clap #1 detected (energy=44, dur=30ms)
+[13:17:00] [INFO] [Mic] Heard: "play Dagabaaz on"
+[13:17:01] [INFO] [TTS] "Opening your default browser."
+[13:17:08] [INFO] [Clap] Clap #1 detected (energy=844, dur=51ms)
+[13:17:09] [INFO] [Clap] Clap #2 detected (energy=835, dur=230ms)
+[13:17:09] [INFO] [TTS] "Here."
+[13:17:10] [INFO] [Mic] Heard: "play Dagabaaz"
+[13:17:11] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[13:17:21] [INFO] [TTS] "Playing dagabaaz"
+[13:17:28] [INFO] [Clap] Clap #1 detected (energy=318, dur=170ms)
+[13:17:29] [INFO] [Clap] Clap #2 detected (energy=797, dur=170ms)
+[13:17:29] [INFO] [TTS] "Here."
+[13:17:31] [INFO] [Mic] Heard: "can you increase"
+[13:17:31] [INFO] [TTS] "Afternoon. Still sharp, still here. What do you need?"
+[13:17:38] [INFO] Listener stopped.
+[13:17:38] [INFO] [Clap] Detector stopped.
+[13:18:01] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:18:01] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:18:01] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:18:01] [INFO] [TTS] Engine initialised (rate=160)
+[13:18:08] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:18:10] [INFO] Mic calibrated (energy=33)
+[13:18:11] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:18:11] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:18:15] [INFO] Listener stopped.
+[13:18:15] [INFO] [Clap] Detector stopped.
+[13:18:15] [INFO] [Clap] Audio stream closed.
+[13:19:32] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:19:32] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:19:33] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:19:33] [INFO] [TTS] Engine initialised (rate=160)
+[13:19:39] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:19:41] [INFO] Mic calibrated (energy=127)
+[13:19:42] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:19:42] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:19:44] [INFO] [Clap] Clap #1 detected (energy=539, dur=90ms)
+[13:19:44] [INFO] [Clap] Clap #2 detected (energy=581, dur=71ms)
+[13:19:44] [INFO] [TTS] "Session active. Ready for your commands."
+[13:19:48] [INFO] [Mic] Heard: "Alpha"
+[13:19:49] [INFO] [TTS] "Session active. Ready for your commands."
+[13:19:57] [INFO] [Clap] Clap #1 detected (energy=600, dur=140ms)
+[13:19:57] [INFO] [Clap] Clap #2 detected (energy=759, dur=60ms)
+[13:19:57] [INFO] [TTS] "Here."
+[13:19:58] [INFO] [Clap] Clap #1 detected (energy=613, dur=15ms)
+[13:19:59] [INFO] [Mic] Heard: "hi alphabet"
+[13:19:59] [INFO] [TTS] "Good afternoon. What can I do for you?"
+[13:20:05] [INFO] [Clap] Clap #1 detected (energy=770, dur=90ms)
+[13:20:07] [INFO] [Mic] Heard: "Kota Mein meeting"
+[13:20:08] [INFO] [TTS] "No upcoming events found matching 'kota mein meeting'."
+[13:20:22] [INFO] Listener stopped.
+[13:20:22] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:20:24] [INFO] Mic calibrated (energy=31)
+[13:20:26] [INFO] [Clap] Clap #1 detected (energy=727, dur=99ms)
+[13:20:26] [INFO] [Clap] Clap #2 detected (energy=591, dur=89ms)
+[13:20:26] [INFO] [TTS] "Here."
+[13:20:28] [INFO] [Mic] Heard: "Alpha"
+[13:20:28] [INFO] [Mic] Heard: "Alpha"
+[13:20:28] [INFO] [TTS] "Session active. Ready for your commands."
+[13:20:34] [INFO] Listener stopped.
+[13:20:38] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:20:39] [INFO] Mic calibrated (energy=31)
+[13:20:40] [INFO] [Clap] Clap #1 detected (energy=705, dur=140ms)
+[13:20:41] [INFO] [Clap] Clap #2 detected (energy=778, dur=70ms)
+[13:20:41] [INFO] [TTS] "Here."
+[13:20:42] [INFO] [Mic] Heard: "Alpha"
+[13:20:42] [INFO] [Mic] Heard: "Alpha"
+[13:20:42] [INFO] [TTS] "Session active. Ready for your commands."
+[13:20:49] [INFO] [Clap] Clap #1 detected (energy=466, dur=70ms)
+[13:20:49] [INFO] [Clap] Clap #2 detected (energy=882, dur=69ms)
+[13:20:49] [INFO] [TTS] "Here."
+[13:20:55] [INFO] [Mic] Heard: "what are"
+[13:20:55] [INFO] [TTS] "Proactive monitoring: stopped. Say 'start monitoring' to act…"
+[13:21:02] [INFO] Listener stopped.
+[13:21:02] [INFO] [Clap] Detector stopped.
+[13:21:02] [INFO] [Clap] Audio stream closed.
+[13:21:16] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:21:16] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:21:16] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:21:16] [INFO] [TTS] Engine initialised (rate=160)
+[13:21:23] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:21:24] [INFO] Mic calibrated (energy=391)
+[13:21:26] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:21:26] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:21:35] [INFO] Listener stopped.
+[13:21:35] [INFO] [Clap] Detector stopped.
+[13:21:35] [INFO] [Clap] Audio stream closed.
+[13:21:43] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:21:44] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:21:44] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:21:44] [INFO] [TTS] Engine initialised (rate=160)
+[13:22:01] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:22:01] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:22:01] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:22:01] [INFO] [TTS] Engine initialised (rate=160)
+[13:22:07] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:22:09] [INFO] Mic calibrated (energy=1456)
+[13:22:10] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:22:10] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:22:28] [INFO] [Clap] Clap #1 detected (energy=881, dur=90ms)
+[13:22:28] [INFO] [Clap] Clap #2 detected (energy=491, dur=90ms)
+[13:22:28] [INFO] [TTS] "Session active. Ready for your commands."
+[13:22:30] [INFO] [Mic] Heard: "Alpha"
+[13:22:33] [INFO] Listener stopped.
+[13:22:33] [INFO] [Clap] Detector stopped.
+[13:22:33] [INFO] [Clap] Audio stream closed.
+[13:22:43] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:22:43] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:22:44] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:22:44] [INFO] [TTS] Engine initialised (rate=160)
+[13:22:50] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:22:52] [INFO] Mic calibrated (energy=31)
+[13:22:53] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:22:53] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:22:55] [INFO] [Clap] Clap #1 detected (energy=808, dur=120ms)
+[13:22:55] [INFO] [Clap] Clap #2 detected (energy=461, dur=101ms)
+[13:22:55] [INFO] [TTS] "Session active. Ready for your commands."
+[13:22:57] [INFO] [Mic] Heard: "Alpha"
+[13:23:00] [INFO] [TTS] "Session active. Ready for your commands."
+[13:23:11] [INFO] [Clap] Clap #1 detected (energy=725, dur=100ms)
+[13:23:12] [INFO] [Clap] Clap #2 detected (energy=343, dur=70ms)
+[13:23:12] [INFO] [TTS] "Here."
+[13:23:12] [INFO] [Mic] Heard: "tell me about the"
+[13:23:14] [INFO] [TTS] "The human eye can distinguish approximately 10 million diffe…"
+[13:23:20] [INFO] Listener stopped.
+[13:23:20] [INFO] [Clap] Detector stopped.
+[13:23:20] [INFO] [Clap] Audio stream closed.
+[13:23:34] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:23:34] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:23:34] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:23:34] [INFO] [TTS] Engine initialised (rate=160)
+[13:23:41] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:23:43] [INFO] Mic calibrated (energy=31)
+[13:23:44] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:23:44] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:23:45] [INFO] [Clap] Clap #1 detected (energy=654, dur=120ms)
+[13:23:45] [INFO] [Clap] Clap #2 detected (energy=495, dur=111ms)
+[13:23:45] [INFO] [TTS] "Session active. Ready for your commands."
+[13:23:47] [INFO] [Mic] Heard: "Alpha"
+[13:23:50] [INFO] [TTS] "Session active. Ready for your commands."
+[13:24:01] [INFO] [Clap] Clap #1 detected (energy=921, dur=230ms)
+[13:24:01] [INFO] [Clap] Clap #2 detected (energy=887, dur=90ms)
+[13:24:01] [INFO] [TTS] "Here."
+[13:24:03] [INFO] [Mic] Heard: "hello alpha"
+[13:24:04] [INFO] [TTS] "Afternoon. Still sharp, still here. What do you need?"
+[13:24:14] [INFO] [Clap] Clap #1 detected (energy=829, dur=70ms)
+[13:24:15] [INFO] [Clap] Clap #2 detected (energy=310, dur=249ms)
+[13:24:15] [INFO] [TTS] "Here."
+[13:24:17] [INFO] [Mic] Heard: "what meetings do I have"
+[13:24:18] [INFO] [TTS] "Today's Calendar (5 events) 01:00 PM Hatchery- ARCA 02:00 PM…"
+[13:24:37] [INFO] [Clap] Clap #1 detected (energy=606, dur=70ms)
+[13:24:38] [INFO] [Mic] Heard: "delete the meeting at"
+[13:24:39] [INFO] [TTS] "No upcoming events found matching 'meeting at'."
+[13:24:48] [INFO] [Mic] Heard: "delete meeting"
+[13:24:49] [INFO] [TTS] "Deleted event: 'Meeting'"
+[13:24:54] [INFO] [Clap] Clap #1 detected (energy=320, dur=50ms)
+[13:24:54] [INFO] [Clap] Clap #2 detected (energy=590, dur=49ms)
+[13:24:54] [INFO] [TTS] "Here."
+[13:24:54] [INFO] [Clap] Clap #1 detected (energy=679, dur=171ms)
+[13:24:56] [INFO] [Mic] Heard: "what's my song"
+[13:24:56] [INFO] [News] BBC: 10 headlines
+[13:24:56] [INFO] [TTS] "BBC News — Top Headlines 1. Iran-US peace talks fail to reac…"
+[13:25:10] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:25:11] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:25:11] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:25:11] [INFO] [TTS] Engine initialised (rate=160)
+[13:25:17] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:25:19] [INFO] Mic calibrated (energy=31)
+[13:25:20] [INFO] [Clap] Detector started — waiting for double-clap.
+[13:25:20] [INFO] [Clap] Audio stream open (threshold=2400)
+[13:25:20] [INFO] [Clap] Clap #1 detected (energy=583, dur=140ms)
+[13:25:20] [INFO] [Clap] Clap #2 detected (energy=481, dur=70ms)
+[13:25:20] [INFO] [TTS] "Session active. Ready for your commands."
+[13:25:22] [INFO] [Mic] Heard: "Alpha"
+[13:25:25] [INFO] [TTS] "Session active. Ready for your commands."
+[13:25:31] [INFO] [Clap] Clap #1 detected (energy=517, dur=280ms)
+[13:25:32] [INFO] [Clap] Clap #2 detected (energy=736, dur=70ms)
+[13:25:32] [INFO] [TTS] "Here."
+[13:25:33] [INFO] [Mic] Heard: "hello alpha"
+[13:25:33] [INFO] [TTS] "Afternoon. Still sharp, still here. What do you need?"
+[13:25:42] [INFO] [Clap] Clap #1 detected (energy=583, dur=40ms)
+[13:25:42] [INFO] [Clap] Clap #2 detected (energy=443, dur=70ms)
+[13:25:42] [INFO] [TTS] "Here."
+[13:25:44] [INFO] [Mic] Heard: "what's my show today"
+[13:25:45] [INFO] [TTS] "Today's Calendar (4 events) 01:00 PM Hatchery- ARCA 02:00 PM…"
+[13:26:01] [INFO] [Clap] Clap #1 detected (energy=936, dur=70ms)
+[13:26:04] [INFO] [Mic] Heard: "what are my free timings today"
+[13:26:05] [INFO] [TTS] "Free slots today 08:00 AM — 01:00 PM (5h 0m free) 04:00 PM —…"
+[13:26:28] [INFO] [Clap] Clap #1 detected (energy=329, dur=70ms)
+[13:26:28] [INFO] [Clap] Clap #2 detected (energy=692, dur=240ms)
+[13:26:28] [INFO] [TTS] "Here."
+[13:26:29] [INFO] [Clap] Clap #1 detected (energy=111, dur=20ms)
+[13:26:29] [INFO] [Clap] Clap #2 detected (energy=890, dur=89ms)
+[13:26:30] [INFO] [Clap] Clap #1 detected (energy=588, dur=50ms)
+[13:26:32] [INFO] [Mic] Heard: "take a note that I have ITI project"
+[13:26:32] [INFO] [TTS] "Note saved: 'that i have iti project'"
+[13:26:45] [INFO] [Mic] Heard: "play mutation"
+[13:26:46] [INFO] [Spotify] Launched: C:\Users\Eshaan Mishra\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+[13:26:56] [INFO] [TTS] "Playing mutation"
+[13:27:02] [INFO] [Clap] Clap #1 detected (energy=730, dur=210ms)
+[13:27:02] [INFO] [Clap] Clap #2 detected (energy=440, dur=100ms)
+[13:27:02] [INFO] [TTS] "Here."
+[13:27:04] [INFO] [Mic] Heard: "goodwill"
+[13:27:05] [INFO] [TTS] "No upcoming events found matching 'goodwill'."
+[13:27:09] [INFO] Listener stopped.
+[13:27:09] [INFO] [Clap] Detector stopped.
+[13:27:09] [INFO] [Clap] Audio stream closed.
+[13:28:45] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:28:45] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:28:45] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:28:45] [INFO] [TTS] Engine initialised (rate=160)
+[13:28:51] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:28:54] [INFO] Mic calibrated (energy=150)
+[13:28:56] [INFO] [Mic] Heard: "Alpha"
+[13:28:56] [INFO] [TTS] "Session active. Ready for your commands."
+[13:29:06] [INFO] [Mic] Heard: "hi Alpha"
+[13:29:07] [INFO] [TTS] "Good afternoon. Ready and waiting. What's next?"
+[13:29:16] [INFO] [Mic] Heard: "search the web for Google"
+[13:29:16] [INFO] [Search+Summarize] Query: google
+[13:29:18] [INFO] [DDG Search] Found 5 URLs for: google
+[13:29:32] [INFO] [Ollama] Summary generated (583 chars)
+[13:29:32] [INFO] [TTS] "Here's a summary: Google is an American technology company t…"
+[13:30:05] [INFO] [Mic] Heard: "write a email for a sick leave as I have fever"
+[13:30:06] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Che…"
+[13:30:36] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:30:36] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:30:36] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:30:36] [INFO] [TTS] Engine initialised (rate=160)
+[13:30:43] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:30:45] [INFO] Mic calibrated (energy=81)
+[13:30:47] [INFO] [Mic] Heard: "Alpha"
+[13:30:47] [INFO] [TTS] "Session active. Ready for your commands."
+[13:30:55] [INFO] [Mic] Heard: "hello alpha"
+[13:30:55] [INFO] [TTS] "Afternoon. Still sharp, still here. What do you need?"
+[13:31:06] [INFO] [Mic] Heard: "what meetings do I have schedule"
+[13:31:07] [INFO] [TTS] "Today's Calendar (4 events) 01:00 PM Hatchery- ARCA 02:00 PM…"
+[13:31:30] [INFO] [Mic] Heard: "write a mail for a sick leave as I have fever and so"
+[13:31:31] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Che…"
+[13:31:55] [INFO] [AIEmail] Response received (759 chars)
+[13:31:55] [INFO] [AIEmail] Subject: Request for Sick Leave due to Illness | Body: 675 chars
+[13:32:00] [INFO] [Mic] Heard: "what's my schedule for today"
+[13:32:00] [INFO] [TTS] "Opened Google Calendar."
+[13:32:03] [INFO] [Email] Sent to eshaanmisra12@gmail.com
+[13:32:21] [INFO] [Mic] Heard: "tell me a joke"
+[13:32:21] [INFO] [TTS] "Why did the developer go broke? Because they used up all the…"
+[13:32:34] [INFO] [Mic] Heard: "alright alright thank you I'll for goodbye"
+[13:32:34] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[13:32:44] [INFO] Listener stopped.
+[13:38:04] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:38:05] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:38:05] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:38:05] [INFO] [TTS] Engine initialised (rate=160)
+[13:38:11] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:38:13] [INFO] Mic calibrated (energy=31)
+[13:38:23] [INFO] [Mic] Heard: "Alpha"
+[13:38:23] [INFO] [TTS] "Session active. Ready for your commands."
+[13:38:35] [INFO] [Mic] Heard: "open Google Chrome"
+[13:38:36] [INFO] [TTS] "Opening your default browser."
+[13:41:56] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:41:56] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:41:56] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:41:56] [INFO] [TTS] Engine initialised (rate=160)
+[13:42:03] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:42:05] [INFO] Mic calibrated (energy=30)
+[13:42:09] [INFO] [Mic] Heard: "Alpha"
+[13:42:09] [INFO] [TTS] "Session active. Ready for your commands."
+[13:42:17] [INFO] [Mic] Heard: "hello alpha"
+[13:42:17] [INFO] [TTS] "Afternoon. Still sharp, still here. What do you need?"
+[13:42:34] [INFO] Listener stopped.
+[13:42:44] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:42:44] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:42:44] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:42:44] [INFO] [TTS] Engine initialised (rate=160)
+[13:42:50] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:42:53] [INFO] Mic calibrated (energy=30)
+[13:42:56] [INFO] [Mic] Heard: "Alpha"
+[13:42:56] [INFO] [TTS] "Session active. Ready for your commands."
+[13:43:04] [INFO] [Mic] Heard: "hello alpha"
+[13:43:04] [INFO] [TTS] "Good afternoon. Ready and waiting. What's next?"
+[13:43:14] [INFO] [Mic] Heard: "what's my schedule for today"
+[13:43:14] [INFO] [TTS] "Opened Google Calendar."
+[13:43:24] [INFO] [Mic] Heard: "what sessions do I have"
+[13:43:25] [INFO] [TTS] "Today's Calendar (4 events) 01:00 PM Hatchery- ARCA 02:00 PM…"
+[13:43:42] [INFO] [Mic] Heard: "write a mail for a sick leave as I have"
+[13:43:43] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Che…"
+[13:44:18] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:44:18] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:44:18] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:44:18] [INFO] [TTS] Engine initialised (rate=160)
+[13:44:25] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:44:27] [INFO] Mic calibrated (energy=30)
+[13:44:31] [INFO] [Mic] Heard: "Alpha"
+[13:44:31] [INFO] [TTS] "Session active. Ready for your commands."
+[13:44:39] [INFO] [Mic] Heard: "hello alpha"
+[13:44:39] [INFO] [TTS] "Good afternoon. What can I do for you?"
+[13:44:47] [INFO] [Mic] Heard: "what's my schedule for today"
+[13:44:47] [INFO] [TTS] "Opened Google Calendar."
+[13:44:59] [INFO] [Mic] Heard: "what are the free schedules timings"
+[13:45:00] [INFO] [TTS] "Free slots today 08:00 AM — 01:00 PM (5h 0m free) 04:00 PM —…"
+[13:45:20] [INFO] [Mic] Heard: "search the web for"
+[13:45:20] [INFO] [Search+Summarize] Query: search the web for
+[13:45:24] [INFO] [DDG Search] Found 5 URLs for: search the web for
+[13:45:36] [INFO] [Ollama] Summary generated (609 chars)
+[13:45:36] [INFO] [TTS] "Here's a summary of what I found: Search engine optimization…"
+[13:46:18] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:46:18] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:46:18] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:46:18] [INFO] [TTS] Engine initialised (rate=160)
+[13:46:24] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:46:26] [INFO] Mic calibrated (energy=30)
+[13:46:30] [INFO] [Mic] Heard: "Alpha"
+[13:46:30] [INFO] [TTS] "Session active. Ready for your commands."
+[13:46:38] [INFO] [Mic] Heard: "hello alpha"
+[13:46:38] [INFO] [TTS] "Good afternoon. Ready and waiting. What's next?"
+[13:46:47] [INFO] [Mic] Heard: "tell me my schedule"
+[13:46:48] [INFO] [TTS] "Opened Google Calendar."
+[13:47:02] [INFO] [Mic] Heard: "draught a meal or write"
+[13:47:02] [INFO] [TTS] "Could not parse the date/time. Try: "add meeting tomorrow at…"
+[13:47:02] [INFO] [Mic] Heard: "for"
+[13:47:13] [INFO] [FileSearch] Searching for: 'for' ext=None
+[13:47:14] [INFO] [TTS] "Found 13 files Guidelines for final video submission.pdf 156…"
+[13:47:16] [INFO] [Mic] Heard: "write a mail"
+[13:47:45] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:47:45] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:47:45] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:47:45] [INFO] [TTS] Engine initialised (rate=160)
+[13:47:52] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:47:54] [INFO] Mic calibrated (energy=31)
+[13:48:28] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:48:28] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:48:28] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:48:28] [INFO] [TTS] Engine initialised (rate=160)
+[13:48:35] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:48:37] [INFO] Mic calibrated (energy=87)
+[13:48:40] [INFO] [Mic] Heard: "Alpha"
+[13:48:40] [INFO] [TTS] "Session active. Ready for your commands."
+[13:48:48] [INFO] [Mic] Heard: "hello alpha"
+[13:48:48] [INFO] [TTS] "Good afternoon. Ready and waiting. What's next?"
+[13:49:00] [INFO] [Mic] Heard: "schedule for today"
+[13:49:01] [INFO] [TTS] "Event created: 'For' Date: Monday, 13 Apr 2026 Time: 12:00 A…"
+[13:49:17] [INFO] Listener stopped.
+[13:49:37] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[13:49:37] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[13:49:37] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[13:49:37] [INFO] [TTS] Engine initialised (rate=160)
+[13:49:44] [INFO] Listener started — waiting for wake word 'alpha'.
+[13:49:46] [INFO] Mic calibrated (energy=91)
+[13:49:48] [INFO] [Mic] Heard: "Alpha"
+[13:49:48] [INFO] [TTS] "Session active. Ready for your commands."
+[13:49:57] [INFO] [Mic] Heard: "hello alpha"
+[13:49:57] [INFO] [TTS] "Good afternoon. Ready and waiting. What's next?"
+[13:50:06] [INFO] [Mic] Heard: "what meetings do I have today"
+[13:50:07] [INFO] [TTS] "Today's Calendar (5 events) 01:00 PM Hatchery- ARCA 02:00 PM…"
+[13:50:27] [INFO] [Mic] Heard: "search the web for Google"
+[13:50:27] [INFO] [Search+Summarize] Query: google
+[13:50:31] [INFO] [DDG Search] Found 5 URLs for: google
+[13:50:39] [INFO] [Ollama] Summary generated (662 chars)
+[13:50:39] [INFO] [TTS] "Here's a summary: Google is an American multinational techno…"
+[13:51:17] [INFO] [Mic] Heard: "write a mail for me for a"
+[13:51:17] [INFO] [TTS] "Email composer opened in the terminal for For Me For A. Chec…"
+[13:51:39] [INFO] [AIEmail] Response received (1060 chars)
+[13:51:39] [INFO] [AIEmail] Subject: Request for Me For A | Body: 1022 chars
+[13:51:46] [INFO] [Email] Sent to eshaanmisra12@gmail.com
+[13:51:50] [INFO] [Mic] Heard: "good work Alpha"
+[13:51:51] [INFO] [TTS] "Afternoon. Still sharp, still here. What do you need?"
+[13:52:01] [INFO] [Mic] Heard: "goodbye"
+[13:52:01] [INFO] [TTS] "Session ended. Say Alpha to reactivate."
+[13:52:09] [INFO] Listener stopped.
+[01:46:20] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[01:46:20] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[01:46:20] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[01:46:20] [INFO] [TTS] Engine initialised (rate=160)
+[01:46:26] [INFO] Listener started — waiting for wake word 'alpha'.
+[01:46:27] [INFO] Mic calibrated (energy=31)
+[01:46:36] [INFO] [Mic] Heard: "hello alpha"
+[01:46:36] [INFO] [TTS] "Session active. Ready for your commands."
+[01:46:46] [INFO] [Mic] Heard: "tell me the weather"
+[01:46:48] [INFO] [TTS] "Current Weather: Dehli, India Condition : Haze Temperature: …"
+[01:47:17] [INFO] [Mic] Heard: "what are the upda"
+[01:47:17] [INFO] [TTS] "Email composer opened in the terminal for the recipient. Che…"
+[01:47:29] [INFO] [Mic] Heard: "today's news"
+[01:47:29] [INFO] [News] BBC: 10 headlines
+[01:47:29] [INFO] [TTS] "BBC News — Top Headlines 1. 'A truly historic moment': BBC r…"
+[14:21:44] [INFO] BiLSTM+Attention classifier loaded — 56 intents
+[14:21:45] [INFO] [TTS] "Alpha 2.0 online. Say Alpha to activate."
+[14:21:45] [INFO] [TTS] Voice: Microsoft Hazel Desktop - English (Great Britain)
+[14:21:45] [INFO] [TTS] Engine initialised (rate=160)
+[14:21:52] [INFO] Listener started — waiting for wake word 'alpha'.
+[14:21:53] [INFO] Mic calibrated (energy=954)
+[14:23:33] [INFO] [Mic] Heard: "chal coffee pienge"
+[14:24:16] [INFO] Listener stopped.
