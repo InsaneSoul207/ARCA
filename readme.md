@@ -666,5 +666,5 @@ MIT — do whatever you want with it.
 
 ---
 
-*ARCA — Built as a DTI project, Bennett University, Year 2 Sem 4.*  
+*ARCA — Built as a project, Bennett University, Year 2 Sem 4.*  
 *Team: Eshaan Mishra · Ahmed Bin Asad · Anubhav Punia · Kunsh Kakkar*
