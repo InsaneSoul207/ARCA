@@ -6,7 +6,7 @@ import pyautogui
 
 def search_web(query=""):
     if not query:
-        query = "Alpha 2.0 AI"
+        query = "ARCA AI"
     url = "https://www.google.com/search?q=" + urllib.parse.quote(query)
     webbrowser.open(url)
     return f'Searching Google for: "{query}"'
