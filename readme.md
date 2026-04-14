@@ -1,8 +1,8 @@
 # ARCA — Intelligent Voice Automation Engine
 
-> Say **"Alpha"** to wake it up. Speak your command. Done.
+> Double-clap or say **"ARCA"** to wake it up. Speak your command. Done.
 
-ARCA is a fully offline-capable, voice-controlled desktop automation assistant for Windows. It listens continuously, understands natural English and Hindi, classifies your intent using a trained LSTM neural network, and executes real system tasks — opening apps, sending emails, scraping live data, controlling WhatsApp, and more.
+ALPHA 2.0 is a fully offline-capable, voice-controlled desktop automation assistant for Windows. It listens continuously, understands natural English and Hindi, classifies your intent using a trained LSTM neural network, and executes real system tasks — opening apps, sending emails, scraping live data, controlling WhatsApp, and more.
 
 ---
 
@@ -13,11 +13,17 @@ ARCA is a fully offline-capable, voice-controlled desktop automation assistant f
 - [File Structure](#file-structure)
 - [Installation](#installation)
 - [Configuration](#configuration)
+- [Google Calendar Setup](#google-calendar-setup)
+- [Email Setup](#email-setup)
+- [WhatsApp Setup](#whatsapp-setup)
+- [Ollama Setup](#ollama-setup)
 - [Voice Commands](#voice-commands)
 - [Hindi / Multilingual Support](#hindi--multilingual-support)
 - [Compact Mode](#compact-mode)
+- [Double-Clap Wake](#double-clap-wake)
 - [Multi-Task Chaining](#multi-task-chaining)
 - [Adding New Commands](#adding-new-commands)
+- [Security — What NOT to commit](#security--what-not-to-commit)
 - [Troubleshooting](#troubleshooting)
 - [Tech Stack](#tech-stack)
 
@@ -26,23 +32,26 @@ ARCA is a fully offline-capable, voice-controlled desktop automation assistant f
 ## Demo Flow
 
 ```
-You say:   "Alpha"
-Alpha:     "Session active. Ready for your commands."
+👏👏  (two claps)
+ARCA:  "Online. What do you need?"
 
-You say:   "Open WhatsApp"
-Alpha:     Opens WhatsApp desktop app
+You say:   "What are my meetings today?"
+ARCA:      Reads your Google Calendar events aloud
 
-You say:   "Send WhatsApp to John hey are you free tonight"
-Alpha:     Navigates WhatsApp Web → opens John's chat → sends message
-
-You say:   "What's trending"
-Alpha:     Scrapes Google Trends → displays top 10 trending topics
+You say:   "Write a professional email for sick leave"
+ARCA:      AI drafts the full email → shows in terminal → press S to send
 
 You say:   "मौसम कैसा है"  (Hindi: how is the weather)
-Alpha:     Detects Hindi → translates → fetches weather → speaks result
+ARCA:      Detects Hindi → translates → fetches weather → speaks result
+
+You say:   "Play some music"
+ARCA:      Launches Spotify
+
+You say:   "Next song"
+ARCA:      Skips track (works even if Spotify is minimised)
 
 You say:   "Goodbye"
-Alpha:     "Session ended. Say Alpha to reactivate."
+ARCA:      "Going to standby. Call me when you need me."
 ```
 
 ---
@@ -52,71 +61,84 @@ Alpha:     "Session ended. Say Alpha to reactivate."
 ### Core
 | Feature | Details |
 |---|---|
-| **Always-on listener** | Runs continuously in the background, no button press needed |
-| **Wake word** | Say `"Alpha"` to activate, `"Goodbye"` to deactivate |
-| **Session mode** | Once activated, every phrase is a command until you say goodbye |
-| **Voice output (TTS)** | Speaks every result aloud using Windows SAPI5 — fully offline |
-| **Hindi support** | Speaks Hindi → auto-detected → translated to English → executed |
-| **Multi-task chaining** | `"Open Chrome and search for Python tutorials"` runs both in sequence |
-| **Compact mode** | 360×170 floating pill that stays on top of all windows while you work |
-| **LSTM classifier** | Trained neural network with 43 intents and 2,100+ training phrases |
+| **Double-clap wake** | Two sharp claps → ARCA activates and brings window to front |
+| **Voice wake word** | Say `"ARCA"` to activate, `"Goodbye"` to end session |
+| **Push-to-activate** | Listens for one phrase at a time — no TTS feedback loop, no earphones needed |
+| **Voice output (TTS)** | Speaks every result aloud via Windows SAPI5 — fully offline |
+| **FRIDAY personality** | Professional, sharp responses — not robotic |
+| **Hindi support** | Auto-detected → translated → executed, no extra setup |
+| **Multi-task chaining** | `"Check CPU and check memory"` runs both in sequence |
+| **Compact mode** | 360×170 always-on-top floating pill while you work |
+| **BiLSTM classifier** | 56 intents, 3,150+ phrases, 93.2% validation accuracy |
+| **Confidence gating** | Below 50% confidence → asks you to rephrase instead of guessing wrong |
 
 ### Automation
-| Category | Commands |
+| Category | What it does |
 |---|---|
 | **System** | Open apps, screenshot, shutdown, restart, lock, sleep, task manager |
-| **Hardware** | CPU usage, RAM, disk space, battery, network status |
-| **Volume** | Up, down, mute/unmute |
-| **Files** | Create, list, open Downloads / Documents / Desktop, empty recycle bin |
-| **Browser** | Search Google, open YouTube / GitHub / Spotify |
-| **Apps** | Open any installed app by name — 60+ known apps + Start Menu fallback |
-| **WhatsApp** | Send messages via WhatsApp Web (Selenium) |
-| **Email** | Draft and send via Gmail SMTP |
-| **Productivity** | Timer, notes (persistent), calendar |
-| **Scraping** | Live news (BBC / TOI / Reuters), Google Trends, detailed weather |
-| **Info** | Time, date, jokes, facts |
+| **Hardware** | CPU, RAM, disk, battery, network — all spoken aloud |
+| **Volume** | Up, down, mute, unmute |
+| **Spotify** | Launch, play/pause, next, previous — global media keys, no window focus needed |
+| **WhatsApp** | Send messages by voice via pywhatkit |
+| **Email** | AI writes the full email via Ollama → SMTP send |
+| **Calendar** | List events, create events, find free slots via Google Calendar API |
+| **Web search** | Search and summarise — scrapes web + Ollama digest |
+| **News** | Live headlines from BBC, Times of India, Reuters |
+| **Weather** | Current, hourly, weekly via wttr.in |
+| **Files** | Find any file by name across your entire drive, open it |
+| **OCR** | Read text off your screen or clipboard image |
+| **Proactive** | Background monitor — alerts for low battery, high RAM, upcoming meetings |
 
 ---
 
 ## File Structure
 
 ```
-alpha2/
+ARCA/
 │
-├── main.py                        # Entry point
-├── config.py                      # All settings, colours, paths, constants
-├── requirements.txt               # pip dependencies
+├── main.py                          # Entry point — auto-trains on stale model
+├── config.py                        # Settings, colours, paths, CONTACTS dict
+├── requirements.txt                 # pip dependencies
+├── .gitignore                       # ← credentials.json and token.json MUST be listed here
 │
 ├── core/
-│   ├── continuous_listener.py     # Always-on mic, wake/sleep state machine
-│   ├── classifier.py              # Loads + runs the LSTM intent classifier
-│   ├── executor.py                # Routes intent → task function
-│   ├── multi_task_parser.py       # Splits "do X and Y" into [X, Y]
-│   ├── translator.py              # Hindi/Hinglish → English translation
-│   ├── speaker.py                 # Text-to-speech (pyttsx3 / SAPI5)
-│   └── logger.py                  # In-memory + file logger
+│   ├── listener.py                  # Push-to-activate session listener
+│   ├── clap_detector.py             # Double-clap wake via PyAudio RMS analysis
+│   ├── classifier.py                # Loads BiLSTM+Attention model, predict()
+│   ├── executor.py                  # Routes 56 intents → task functions
+│   ├── multi_task_parser.py         # Splits "do X and Y" into [X, Y]
+│   ├── translator.py                # langdetect + deep-translator
+│   ├── speaker.py                   # pyttsx3 SAPI5 — persistent daemon thread
+│   └── logger.py                    # Timestamped log
 │
 ├── models/
-│   ├── intents.json               # 43 intents × ~50 phrases = 2,100+ examples
-│   ├── train_classifier.py        # LSTM training script
-│   └── intent_model.pkl           # Saved model (auto-generated on first run)
+│   ├── intents.json                 # 56 intents × 50+ phrases = 3,150+ examples
+│   ├── train_classifier.py          # BiLSTM+Attention, FocalLoss, augmentation
+│   └── intent_model.pkl             # Auto-generated on first run (git-ignored)
 │
 ├── tasks/
-│   ├── app_launcher.py            # Opens any Windows app by name
-│   ├── system_tasks.py            # OS-level: battery, CPU, RAM, power, volume
-│   ├── browser_tasks.py           # Web: search, YouTube, GitHub
-│   ├── file_tasks.py              # File and folder operations
-│   ├── communication_tasks.py     # Clipboard, reminders
-│   ├── productivity_tasks.py      # Timer, notes, calendar
-│   ├── info_tasks.py              # Time, date, jokes, facts, help
-│   ├── email_tasks.py             # Draft + send email via Gmail SMTP
-│   ├── whatsapp_tasks.py          # WhatsApp Web automation via Selenium
-│   ├── scraper_news.py            # Live headlines: BBC, TOI, Reuters
-│   ├── scraper_trends.py          # Google Trends + Twitter/X trending
-│   └── scraper_weather.py         # Detailed weather: current, hourly, weekly
+│   ├── app_launcher.py              # 60+ known apps + Start Menu fallback
+│   ├── system_tasks.py              # battery, CPU, RAM, disk, screenshot, power
+│   ├── browser_tasks.py             # search, YouTube, GitHub
+│   ├── file_tasks.py                # OS file/folder ops
+│   ├── communication_tasks.py       # reminders
+│   ├── productivity_tasks.py        # timer, notes, calendar opener
+│   ├── info_tasks.py                # time, date, jokes, facts, ARCA greetings
+│   ├── friday_personality.py        # FRIDAY-style response wrapping
+│   ├── ai_email.py                  # Ollama drafts full email → SMTP send
+│   ├── whatsapp_tasks.py            # pywhatkit send
+│   ├── spotify_tasks.py             # ctypes VK media keys + PyAutoGUI for search
+│   ├── scraper_news.py              # BBC / TOI / Reuters BeautifulSoup scraper
+│   ├── scraper_trends.py            # Google Trends RSS
+│   ├── scraper_weather.py           # wttr.in JSON (current/hourly/weekly)
+│   ├── calendar_tasks.py            # Google Calendar API (OAuth2)
+│   ├── search_summarize.py          # Google scrape + Ollama summarisation
+│   ├── file_search.py               # os.walk filesystem search, open files
+│   ├── ocr_tasks.py                 # pytesseract screen/clipboard OCR
+│   └── proactive.py                 # background battery/RAM/CPU/calendar monitor
 │
 └── ui/
-    └── app_window.py              # Full (900×700) + Compact (360×170) UI
+    └── app_window.py                # Full (1100×800) + Compact (360×170) Tkinter UI
 ```
 
 ---
@@ -125,11 +147,11 @@ alpha2/
 
 ### 1. Prerequisites
 
-- **Python 3.10 or higher** — [download](https://www.python.org/downloads/)
-- **Google Chrome** — required for WhatsApp Web automation
+- **Python 3.11** — [download](https://www.python.org/downloads/)
+- **Google Chrome** — for WhatsApp Web automation
 - **Internet connection** — for STT (Google Speech API) and web scraping
 
-### 2. Clone / download the project
+### 2. Clone the project
 
 ```bash
 git clone https://github.com/InsaneSoul207/ARCA.git
@@ -142,17 +164,20 @@ cd ARCA
 pip install -r requirements.txt
 ```
 
-> **PyAudio (most common issue):** If `pip install pyaudio` fails on Windows:
+> **PyAudio on Windows (most common issue):**
 > ```bash
 > pip install pipwin
 > pipwin install pyaudio
 > ```
-> Or download the prebuilt wheel from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 
-> **PyTorch (CPU-only, saves ~2 GB):**
+> **PyTorch CPU-only (saves ~2 GB):**
 > ```bash
 > pip install torch --index-url https://download.pytorch.org/whl/cpu
 > ```
+
+> **Tesseract OCR (optional — for read_screen / clipboard OCR):**
+> Download and install from https://github.com/UB-Mannheim/tesseract/wiki
+> Default install path: `C:\Program Files\Tesseract-OCR\`
 
 ### 4. Run
 
@@ -160,33 +185,193 @@ pip install -r requirements.txt
 python main.py
 ```
 
-On **first run**, the LSTM model is trained automatically from `models/intents.json`. This takes about 60 seconds and only happens once. After that, startup is instant.
+On **first run**, the BiLSTM model trains automatically from `models/intents.json`. This takes 1–3 minutes and only happens once. After that, startup is instant.
 
 ---
 
 ## Configuration
 
-All settings live in `config.py`. Key ones to know:
+All core settings are in `config.py`:
 
 ```python
-# Wake word — what you say to activate Alpha
-WAKE_WORD = "alpha"           # change to anything you want
-
-# Microphone sensitivity
-ENERGY_THRESHOLD = 200        # lower = picks up quieter speech
-PAUSE_THRESHOLD  = 0.7        # seconds of silence that ends a phrase
-
-# TTS speech rate
-# (change in code: from core.speaker import set_rate; set_rate(150))
-
-# Default city for weather
-# (in tasks/scraper_weather.py)
-DEFAULT_CITY = "Delhi"
+WAKE_WORD        = "arca"      # what you say to activate
+ENERGY_THRESHOLD = 200         # lower = more sensitive mic
+PAUSE_THRESHOLD  = 0.7         # seconds of silence that ends a phrase
+DEFAULT_CITY     = "Delhi"     # for weather commands
 ```
 
-### Email setup (optional)
+---
 
-To enable actual email sending (not just opening the mail client):
+## Google Calendar Setup
+
+This is a one-time process. Once set up, ARCA can read and create calendar events by voice.
+
+### Step 1 — Create a Google Cloud project
+
+1. Go to [console.cloud.google.com](https://console.cloud.google.com)
+2. Click **Select a project** → **New Project** → name it `ARCA` → click **Create**
+
+### Step 2 — Enable the Google Calendar API
+
+1. In your project, go to **APIs & Services** → **Library**
+2. Search for **Google Calendar API** → click it → click **Enable**
+
+### Step 3 — Create OAuth 2.0 credentials
+
+1. Go to **APIs & Services** → **Credentials**
+2. If prompted to configure the OAuth consent screen:
+   - Click **Configure Consent Screen** → choose **External** → fill in App name (`ARCA`) → **Save and Continue** through all steps
+3. Click **+ Create Credentials** → **OAuth client ID**
+4. Application type: **Desktop app** → name it anything → click **Create**
+5. In the dialog that appears, click **Download JSON**
+6. Rename the downloaded file to exactly **`credentials.json`**
+7. Place it in the **root of your ARCA project folder**, next to `main.py`
+
+```
+ARCA/
+├── main.py
+├── credentials.json    ← place here (NEVER commit to git)
+├── .gitignore          ← must list credentials.json
+└── ...
+```
+
+### Step 4 — Authenticate (first calendar command only)
+
+1. Run ARCA: `python main.py`
+2. Say any calendar command — e.g. **"what are my meetings today"**
+3. A browser tab opens automatically asking you to sign in with Google
+4. Click **Allow** to grant ARCA access to your calendar
+5. The browser tab closes and ARCA reads your events
+6. A `token.json` file is created in the project root — this caches your login so you won't be asked again
+
+```
+ARCA/
+├── main.py
+├── credentials.json    ← your app credentials  ⚠️ never commit
+├── token.json          ← your session token    ⚠️ never commit
+├── .gitignore          ← both files listed here
+└── ...
+```
+
+### Step 5 — Verify
+
+Say: **"What are my meetings today?"**
+ARCA should speak your calendar events. If it says "Google Calendar not configured", make sure `credentials.json` is in the same folder as `main.py`.
+
+### Re-authenticating
+
+If your token expires or you switch Google accounts, delete `token.json` and the browser will open again on the next calendar command:
+
+```bash
+del token.json
+```
+
+---
+
+## ⚠️ Security — What NOT to commit
+
+**Never push `credentials.json` or `token.json` to GitHub.** These contain your private Google OAuth keys. GitHub's push protection will block the push, and the credentials must be revoked immediately if exposed.
+
+Your `.gitignore` file must contain:
+
+```gitignore
+# Google OAuth — NEVER commit these
+credentials.json
+client_secret_*.json
+token.json
+
+# Trained model (large binary, auto-regenerated)
+models/intent_model.pkl
+
+# WhatsApp session (login cookies)
+whatsapp_session/
+
+# Python / editor
+.env
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+```
+
+### If you accidentally committed them
+
+```bash
+# 1. Remove from git tracking
+git rm --cached token.json
+git rm --cached credentials.json
+
+# 2. Scrub from ALL past commits
+git filter-branch --force --index-filter \
+  "git rm --cached --ignore-unmatch token.json credentials.json client_secret_*.json" \
+  --prune-empty --tag-name-filter cat -- --all
+
+# 3. Commit the .gitignore
+git add .gitignore
+git commit -m "Remove OAuth secrets, add to gitignore"
+
+# 4. Force push
+git push origin main --force
+```
+
+Then go to [console.cloud.google.com](https://console.cloud.google.com) → **Credentials** → **delete the exposed OAuth client** → create a new one and download a fresh `credentials.json`.
+
+---
+
+## Email Setup
+
+ARCA uses Gmail SMTP to send AI-drafted emails. Requires a Gmail App Password — not your real Gmail password.
+
+### Step 1 — Create a Gmail App Password
+
+1. Go to [myaccount.google.com](https://myaccount.google.com) → **Security**
+2. Ensure **2-Step Verification** is turned on
+3. Click **App Passwords** (appears at the bottom of the Security page)
+4. Select app: **Mail** → device: **Windows Computer** → click **Generate**
+5. Copy the 16-character password shown
+
+### Step 2 — Set environment variables
+
+```cmd
+setx ALPHA_EMAIL "yourname@gmail.com"
+setx ALPHA_EMAIL_PASSWORD "xxxx xxxx xxxx xxxx"
+```
+
+Restart any open terminals after running `setx`. These are stored in Windows — never in your code.
+
+### Test it
+
+Say: **"Write a professional email for sick leave"**
+ARCA uses Ollama to draft the full email, displays it in the terminal, and prompts: `[S]end  [E]dit  [D]iscard`.
+
+---
+
+## WhatsApp Setup
+
+### Step 1 — Add contacts to `config.py`
+
+```python
+CONTACTS = {
+    "mom":    "+919876543210",   # country code required
+    "mum":    "+919876543210",   # alias — same number
+    "dad":    "+919876543211",
+    "john":   "+919876543212",
+}
+```
+
+### Step 2 — First send (QR scan)
+
+On the first WhatsApp command, Chrome opens WhatsApp Web. Scan the QR code with your phone. The session is saved in `whatsapp_session/` so you only scan once.
+
+### Test it
+
+Say: **"Send a WhatsApp to Mom saying I'll be late"**
+
+---
+
+## Ollama Setup
+
+Ollama powers AI email drafting and web search summarisation — fully local, no API key.
 
 ```bash
 # Windows — set environment variables
@@ -194,77 +379,97 @@ set ALPHA_EMAIL=yourname@gmail.com
 set ALPHA_EMAIL_PASSWORD=xxxx-xxxx-xxxx-xxxx
 ```
 
-Get a Gmail App Password: Google Account → Security → 2-Step Verification → App Passwords → Create one named "ARCA".
+Get a Gmail App Password: Google Account → Security → 2-Step Verification → App Passwords → Create one named "Alpha 2.0".
 
 ---
 
 ## Voice Commands
 
-Say **"Alpha"** first to activate, then any of these:
+Say **"ARCA"** or **double-clap** to activate, then speak naturally:
 
 ### System
 ```
 open browser / calculator / notepad / task manager
 take a screenshot
 check battery / cpu / memory / disk / network
-volume up / volume down / mute
+volume up / volume down / mute / unmute
 lock screen / sleep pc / restart / shutdown
 ```
 
 ### Apps
 ```
-open whatsapp
-open word / excel / powerpoint
-open discord / telegram / slack / zoom
-open vscode / pycharm / android studio
-open spotify / vlc / steam
-open chrome / firefox / edge
+open whatsapp / discord / telegram / word / excel / vscode
+open spotify / vlc / steam / chrome / firefox
 ```
-*Say the app name naturally — Alpha searches your Start Menu if it's not in the known list.*
+*Say any app name — ARCA searches your Start Menu if it's not in the known list.*
+
+### Spotify
+```
+play some music          → launches Spotify
+pause spotify            → pauses (works minimised)
+next song / skip         → next track (works minimised)
+previous song            → previous track (works minimised)
+play despacito           → searches Spotify for the song
+like this song           → hearts the current track
+```
+
+### Calendar
+```
+what are my meetings today
+what is on my calendar this week
+add a meeting tomorrow at 3pm
+schedule a call with John on Friday at 5pm
+when am I free today
+delete the project review meeting
+```
 
 ### Web & Scraping
 ```
-search for <anything>
-what's trending / show google trends
+search and summarise quantum computing
+research climate change and summarise
 bbc news / times of india / reuters headlines
+what is trending / show google trends
 check the weather / hourly forecast / weather this week
-open youtube / github / spotify
-get the news
 ```
 
 ### WhatsApp
 ```
-send whatsapp to John hey are you free
-whatsapp Mom I am on my way
-close whatsapp browser
-whatsapp status
+send a whatsapp to Mom saying I will be late
+whatsapp John hey are you free tonight
 ```
 
 ### Email
 ```
-send email to john@gmail.com about the project
-draft an email to Priya
-compose email
+write a mail for sick leave
+write a professional email to my professor
+draft an email asking for a deadline extension
+compose a formal mail to the client
 ```
-*Fill in recipient, subject, and body in the terminal that opens.*
+
+### Files
+```
+find my resume pdf
+open the project proposal
+find all python files in downloads
+show recent files
+read the screen
+read clipboard image
+```
 
 ### Productivity
 ```
 start a timer for 10 minutes
 stop the timer
 take a note meeting at 3pm
-show my notes
-clear notes
+show my notes / clear notes
 set a reminder to call mom
-open calendar
 ```
 
 ### Info
 ```
 what time is it
 what is today's date
-tell me a joke
-tell me a fact
+tell me a joke / tell me a fact
 hello / good morning
 goodbye   ← ends the session
 help      ← lists all commands
@@ -274,88 +479,99 @@ help      ← lists all commands
 
 ## Hindi / Multilingual Support
 
-Alpha understands Hindi, Hinglish, and 7 other Indian languages. No extra setup required — it works out of the box.
+ARCA understands Hindi, Hinglish, and 7 other Indian languages. No extra setup.
 
 ### How it works
 
 ```
 You speak Hindi
     ↓
-Google STT transcribes with hi-IN language code
+Google STT transcribes with hi-IN locale
     ↓
 langdetect identifies the language
+(phrases < 5 words skip detection to avoid false positives)
     ↓
-deep-translator translates to English (Google Translate, free, no API key)
+deep-translator → Google Translate → English (free, no API key)
     ↓
-LSTM classifier + executor (same as English path)
+BiLSTM classifier + executor (same pipeline as English)
 ```
 
 ### Examples
 
-| You say | Alpha hears | Executes |
-|---|---|---|
-| `"अल्फा"` | "alpha" | Activates session |
-| `"मौसम कैसा है"` | "how is the weather" | Fetches weather |
-| `"स्क्रीनशॉट लो"` | "take a screenshot" | Takes screenshot |
-| `"टाइमर शुरू करो पांच मिनट"` | "start timer five minutes" | Starts 5-min timer |
-| `"whatsapp karo John ko kal milte hain"` | passed through as-is (Hinglish) | Sends WhatsApp |
+| You say | ARCA executes |
+|---|---|
+| `"मौसम कैसा है"` | Fetches weather |
+| `"स्क्रीनशॉट लो"` | Takes screenshot |
+| `"टाइमर शुरू करो पांच मिनट"` | Starts 5-min timer |
+| `"whatsapp karo Mom ko"` | Sends WhatsApp (Hinglish — passed through as-is) |
 
-### Supported languages
-
-Hindi, Marathi, Gujarati, Bengali, Tamil, Telugu, Kannada, Punjabi
-
-The UI shows translations in real time — you'll see `Hindi: "मौसम कैसा है" → "how is the weather"` in the VOICE INPUT panel.
+Supported languages: Hindi, Marathi, Gujarati, Bengali, Tamil, Telugu, Kannada, Punjabi
 
 ---
 
 ## Compact Mode
 
-Press **Ctrl+M** or click the **COMPACT** button to shrink Alpha into a 360×170 floating pill that sits in the top-right corner of your screen — always on top of other windows.
+Press **Ctrl+M** to shrink ARCA into a 360×170 floating pill in the top-right corner — always on top of other windows.
 
 - Drag it anywhere by clicking and dragging
-- Full waveform animation in compact mode too
 - Shows last heard command and last result
-- Click **⊞ EXPAND** to go back to full mode
-- The listener keeps running regardless of which mode you're in
+- Waveform animation still active
+- Press **⊞ EXPAND** or Ctrl+M again to return to full mode
+- Listener and clap detector keep running in both modes
+
+---
+
+## Double-Clap Wake
+
+Clap twice sharply within 1.5 seconds and ARCA wakes up — even if the window is minimised.
+
+- Works from across the room
+- No button or keyboard shortcut needed
+- Window pops to front automatically
+- If a session is already active, ARCA says "Here."
+
+**Adjusting sensitivity** — open `core/clap_detector.py`:
+
+```python
+CLAP_THRESHOLD = 3000   # raise to 5000 if random sounds trigger it
+                        # lower to 1500 if claps aren't detected
+```
 
 ---
 
 ## Multi-Task Chaining
 
-Say multiple commands in one breath, connected by `and`, `then`, `also`, `after that`:
+Say multiple commands in one breath using `and`, `then`, `also`, `after that`:
 
 ```
-"Open Chrome and search for Python tutorials"
 "Check CPU and check memory and check battery"
+"Open Chrome and search for Python tutorials"
 "Take a screenshot then set a timer for 5 minutes"
-"Open notepad and take a note meeting at 3pm"
 ```
 
-Each sub-command is classified and executed independently. Results show as a numbered list. An `⚡ multi-task` badge appears in the UI when chaining is detected.
+Each sub-command is classified and executed independently. An `⚡ multi-task` badge appears in the UI.
 
 ---
 
 ## Adding New Commands
 
-### Step 1 — Add training phrases to `models/intents.json`
+### Step 1 — Add phrases to `models/intents.json`
 
 ```json
 "my_new_intent": [
   "phrase one",
   "phrase two",
-  "another way to say it",
-  ...
+  "another way to say it"
 ]
 ```
 
-Aim for at least 40–50 phrases per intent. Vary the phrasing naturally.
+Aim for 50 phrases per intent using natural speech patterns.
 
 ### Step 2 — Add a task function in `tasks/`
 
 ```python
 # tasks/my_tasks.py
-def my_function() -> str:
-    # do something
+def my_function(raw: str) -> str:
     return "Done."
 ```
 
@@ -364,47 +580,54 @@ def my_function() -> str:
 ```python
 from tasks import my_tasks
 
-# inside _route():
 if intent == "my_new_intent":
-    return my_tasks.my_function()
+    return my_tasks.my_function(raw)
 ```
 
 ### Step 4 — Retrain
 
-Either restart `main.py` (auto-retrains when `intents.json` is newer than the model), or click **RETRAIN** in the UI.
+Delete `models/intent_model.pkl` and restart, or click **RETRAIN** in the UI.
 
 ---
 
 ## Troubleshooting
 
-**`TclError: invalid command name "826"`**
-You're using an older version of `app_window.py`. Update to the latest — this was a Tkinter internal attribute conflict that has been fixed.
+**`AttributeError: 'Alpha2App' object has no attribute '_clap'`**
+Replace `app_window.py` with the latest version — `self._clap = ClapDetector()` was missing from `__init__`.
 
-**`PyEval_RestoreThread: GIL released` crash**
-You're using an older version of `continuous_listener.py`. Update to the latest — all Tkinter calls now happen on the main thread via a queue poller.
+**App closes after ~10 seconds on startup**
+Three PyAudio streams were conflicting. Make sure you have the latest `app_window.py` — the clap detector now starts 3 seconds after the listener.
+
+**ARCA hears its own voice and executes random commands**
+You are using the old `continuous_listener.py`. Switch to `listener.py` (push-to-activate) — it waits 2.5 seconds after speaking before re-opening the mic.
+
+**Google Calendar says "not configured" or "credentials not found"**
+- Confirm `credentials.json` is in the same folder as `main.py`
+- Delete `token.json` and re-authenticate
+- Check that Google Calendar API is enabled in your Google Cloud project
+- Make sure you downloaded the credentials as **OAuth 2.0 Client ID**, not a Service Account key
+
+**Calendar authentication fails or browser doesn't open**
+Make sure the OAuth consent screen is set to **External** and your Google account is added as a test user in Google Cloud Console → **OAuth consent screen** → **Test users**.
+
+**Email JSON error / AI writes only "Hello"**
+Replace `tasks/ai_email.py` with the latest version. The old version requested JSON from Ollama (caused control character errors). The new version uses `SUBJECT:`/`BODY:` plain text format.
+
+**"write a mail" goes to take_note**
+Delete `models/intent_model.pkl` and retrain with the latest `intents.json` — training data was rewritten to fix this conflict.
 
 **PyAudio install fails**
 ```bash
 pip install pipwin && pipwin install pyaudio
 ```
 
-**`recognize_google` fails / no internet**
-Google STT requires internet. Alpha cannot transcribe speech offline (the LSTM classifier runs offline, but the mic-to-text step needs Google's servers).
+**WhatsApp says contact not found**
+Add the contact to `CONTACTS` in `config.py` with full number including country code (`+91...`).
 
-**Model accuracy is poor / wrong intents classified**
-Click **RETRAIN** in the UI, or delete `models/intent_model.pkl` and restart. If a specific command keeps misclassifying, add more training phrases for that intent in `intents.json`.
-
-**WhatsApp asks to scan QR every time**
-Make sure the `whatsapp_session/` folder is not being deleted between runs. This folder stores the Chrome profile that keeps you logged in.
-
-**Hindi not being detected**
-```bash
-pip install langdetect deep-translator
-```
-Both packages are required. Alpha gracefully skips translation if they're missing but will log a warning at startup.
+**Spotify doesn't open**
+ARCA searches for `Spotify.exe` in `%APPDATA%\Spotify\` and `%LOCALAPPDATA%\Microsoft\WindowsApps\`. If installed elsewhere, it falls back to Start Menu search via PyAutoGUI (requires `pip install pyautogui`).
 
 **Volume control fails**
-`pycaw` is Windows-only and requires `comtypes`. Run:
 ```bash
 pip install pycaw comtypes
 ```
@@ -415,20 +638,24 @@ pip install pycaw comtypes
 
 | Component | Technology |
 |---|---|
-| Language | Python 3.10+ |
+| Language | Python 3.11 |
 | GUI | Tkinter (stdlib) |
-| Speech-to-text | Google STT via `SpeechRecognition` + `pyaudio` |
-| Text-to-speech | `pyttsx3` → Windows SAPI5 (offline) |
-| Intent classification | PyTorch LSTM (2-layer, trained on `intents.json`) |
+| Neural Network | PyTorch — BiLSTM + Self-Attention |
+| Speech-to-Text | Google STT via `SpeechRecognition` (en-IN + hi-IN) |
+| Text-to-Speech | `pyttsx3` → Windows SAPI5 (fully offline) |
+| Wake detection | PyAudio — RMS energy clap analysis (`ctypes`) |
 | Language detection | `langdetect` |
 | Translation | `deep-translator` → Google Translate (free, no API key) |
-| Web scraping | `BeautifulSoup4` + `lxml` + `requests` |
-| WhatsApp automation | `selenium` + `webdriver-manager` |
+| AI email + search | Ollama (`llama3`) — runs locally |
+| Web scraping | `BeautifulSoup4` + `requests` |
+| WhatsApp | `pywhatkit` |
 | Email | Python `smtplib` → Gmail SMTP |
+| Calendar | `google-api-python-client` + OAuth2 |
+| Spotify | `ctypes` VK media keys (global, no focus needed) |
 | System stats | `psutil` |
-| Volume control | `pycaw` + `comtypes` (Windows Core Audio) |
-| Screenshots | `Pillow` (ImageGrab) |
-| Clipboard | `pyperclip` |
+| Volume control | `pycaw` + `comtypes` |
+| File search | `pathlib` + `os.walk` (stdlib) |
+| OCR | `pytesseract` + `Pillow` |
 
 ---
 
@@ -438,4 +665,5 @@ MIT — do whatever you want with it.
 
 ---
 
-*Built as an AIML project — Year 2, Sem 4.*
+*ARCA — Built as a project, Bennett University, Year 2 Sem 4.*  
+*Team: Eshaan Mishra · Ahmed Bin Asad · Anubhav Punia · Kunsh Kakkar*

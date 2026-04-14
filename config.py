@@ -1,6 +1,13 @@
+"""
+Alpha 2.0 — Central Configuration
+All paths, model hyper-parameters, speech settings, UI colours and fonts live here.
+Import with:  from config import *   (UI files)
+              from config import X, Y  (specific files)
+"""
 import os
  
-APP_NAME = "ACRA"
+# ── Identity ───────────────────────────────────────────────────────────────────
+APP_NAME = "Alpha 2.0"
 VERSION  = "MVP-1.0  |  Windows"
  
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
@@ -64,4 +71,4 @@ CONTACTS={"eshaan" : "+918920512631", "mom":"+919873007432","mum":"+919873007432
 "mainak":"+918436986507","muditagrawal":"+917267898789","mystery":"+918287319613","omnegi":"+919266148718","ojasvats":"+919311156738","plainaditya":"+918054214889",
 "prachimam":"+917378715067","pratham":"+919310811749","priyanshu":"+918709077479","sahilveergauto":"+919643995769","sanchit":"+919084180090",
 "shreya":"+918144963396","snehasingh":"+919682327558","tanusomani":"+919335308115","tanvigoyal":"+918882214741","timonne":"+918287258567","utkarshhhwaliahos":"+917417393838",
-"vijendra":"+917878086942", "vivek": "+917579281667"}
+"vijendra":"+917878086942", "vivek": "+917579281667"}#insert your contacts here in the format "Name": "Phone Number"

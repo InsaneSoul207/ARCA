@@ -7,8 +7,8 @@ from email.mime.multipart import MIMEMultipart
 from core.logger import log
 
 
-SENDER_EMAIL  = os.getenv("ALPHA_EMAIL", "eshaanmisra14@gmail.com")
-APP_PASSWORD  = os.getenv("ALPHA_EMAIL_PASSWORD", "bmbl xtor yzsw vtwx")
+SENDER_EMAIL  = os.getenv("ALPHA_EMAIL", "YOUR_EMAIL")
+APP_PASSWORD  = os.getenv("ALPHA_EMAIL_PASSWORD", "YOUR_APP_PASS")
 SMTP_HOST     = "smtp.gmail.com"
 SMTP_PORT     = 587
 

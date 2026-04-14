@@ -7,8 +7,8 @@ OLLAMA_URL    = "http://localhost:11434/api/generate"
 OLLAMA_MODEL  = "llama3"
 SMTP_HOST     = "smtp.gmail.com"
 SMTP_PORT     = 587
-SENDER_EMAIL  = os.getenv("ALPHA_EMAIL", "eshaanmisra14@gmail.com")
-APP_PASSWORD  = os.getenv("ALPHA_EMAIL_PASSWORD", "bmbl xtor yzsw vtwx")
+SENDER_EMAIL  = os.getenv("ALPHA_EMAIL", "YOUR_MAIL")
+APP_PASSWORD  = os.getenv("ALPHA_EMAIL_PASSWORD", "YOUR_APP_PASS")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
