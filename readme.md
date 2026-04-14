@@ -1,8 +1,8 @@
-# ALPHA 2.0 — Intelligent Voice Automation Engine
+# ARCA — Intelligent Voice Automation Engine
 
 > Say **"Alpha"** to wake it up. Speak your command. Done.
 
-ALPHA 2.0 is a fully offline-capable, voice-controlled desktop automation assistant for Windows. It listens continuously, understands natural English and Hindi, classifies your intent using a trained LSTM neural network, and executes real system tasks — opening apps, sending emails, scraping live data, controlling WhatsApp, and more.
+ARCA is a fully offline-capable, voice-controlled desktop automation assistant for Windows. It listens continuously, understands natural English and Hindi, classifies your intent using a trained LSTM neural network, and executes real system tasks — opening apps, sending emails, scraping live data, controlling WhatsApp, and more.
 
 ---
 
@@ -194,7 +194,7 @@ set ALPHA_EMAIL=yourname@gmail.com
 set ALPHA_EMAIL_PASSWORD=xxxx-xxxx-xxxx-xxxx
 ```
 
-Get a Gmail App Password: Google Account → Security → 2-Step Verification → App Passwords → Create one named "Alpha 2.0".
+Get a Gmail App Password: Google Account → Security → 2-Step Verification → App Passwords → Create one named "ARCA".
 
 ---
 

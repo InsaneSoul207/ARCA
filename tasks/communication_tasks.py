@@ -7,7 +7,7 @@ _reminders = []
 
 def draft_email(recipient="", subject="", body=""):
     recipient = recipient or "example@email.com"
-    subject   = subject or "Message from Alpha 2.0"
+    subject   = subject or "Message from ARCA"
     body      = body or "Hello,"
     url = (f"mailto:{recipient}?subject={urllib.parse.quote(subject)}"
            f"&body={urllib.parse.quote(body)}")
@@ -15,7 +15,7 @@ def draft_email(recipient="", subject="", body=""):
     return f"Email draft opened for: {recipient}"
 
 def copy_to_clipboard(text=""):
-    text = text or "Alpha 2.0 — Clipboard test"
+    text = text or "ARCA — Clipboard test"
     try:
         pyperclip.copy(text)
         return f'Copied to clipboard: "{text[:40]}..."'

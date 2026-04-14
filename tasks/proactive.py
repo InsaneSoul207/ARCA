@@ -90,7 +90,7 @@ class ProactiveMonitor:
             f'$xml.GetElementsByTagName("text")[0].AppendChild($xml.CreateTextNode("{safe_msg}")); '
             f'$toast = [Windows.UI.Notifications.ToastNotification]::new($xml); '
             f'[Windows.UI.Notifications.ToastNotificationManager]::'
-            f'CreateToastNotifier("Alpha 2.0").Show($toast)'
+            f'CreateToastNotifier("ARCA").Show($toast)'
         )
         try:
             subprocess.Popen(

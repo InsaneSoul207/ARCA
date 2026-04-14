@@ -18,8 +18,8 @@ def _model_is_stale() -> bool:
 
 if _model_is_stale():
     reason = "first run" if not os.path.exists(MODEL_PATH) else "intents.json was updated"
-    print(f"[Alpha 2.0] Training model ({reason}) — this takes ~60 seconds…")
-    print(f"[Alpha 2.0] Progress will print every 10 epochs.\n")
+    print(f"[ARCA] Training model ({reason}) — this takes ~60 seconds…")
+    print(f"[ARCA] Progress will print every 10 epochs.\n")
     from models.train_classifier import train
     train()
     print()

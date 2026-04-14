@@ -205,7 +205,7 @@ def draft_and_send_email(raw: str) -> str:
     def _flow():
         W = 62
         print("\n" + "═" * W)
-        print("  ALPHA 2.0  ·  AI Email Composer  (FRIDAY)")
+        print("  ARCA  ·  AI Email Composer")
         print("═" * W)
 
         # Gather recipient

@@ -28,7 +28,7 @@ FACTS = [
   "WiFi actually stands for nothing. The term 'Wireless Fidelity' was invented after the fact as a backronym.",
 ]
 
-HELP_TEXT = """ALPHA 2.0 — Command Reference
+HELP_TEXT = """ARCA — Command Reference
 ════════════════════════════════
 SYSTEM
 open browser / calculator / notepad / task manager

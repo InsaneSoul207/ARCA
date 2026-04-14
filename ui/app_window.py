@@ -152,7 +152,7 @@ class Alpha2App:
 
     # ── Window setup ──────────────────────────────────────────────────────────
     def _setup_window(self):
-        self.root.title("Alpha 2.0")
+        self.root.title("ARCA")
         self.root.configure(bg=BG_BASE)
         self.root.resizable(False, False)
         self.root.protocol("WM_DELETE_WINDOW", self._on_close)
@@ -289,7 +289,7 @@ class Alpha2App:
     def _build_compact(self):
         self._cwin = tk.Toplevel(self.root)
         self._cwin.withdraw()
-        self._cwin.title("Alpha 2.0")
+        self._cwin.title("ARCA")
         self._cwin.geometry(f"{self.COMPACT_W}x{self.COMPACT_H}")
         self._cwin.resizable(False, False)
         self._cwin.configure(bg=BG_DEEP)
@@ -310,7 +310,7 @@ class Alpha2App:
         top.pack(fill="x", padx=8, pady=(5, 0))
         top.pack_propagate(False)
 
-        tk.Label(top, text="ALPHA 2.0", font=("Consolas", 10, "bold"),
+        tk.Label(top, text="ARCA", font=("Consolas", 10, "bold"),
                  fg=ACCENT, bg=BG_DEEP).pack(side="left")
         self._pulse_cv_compact = tk.Canvas(top, width=12, height=12,
                                            bg=BG_DEEP, highlightthickness=0)
@@ -521,11 +521,11 @@ class Alpha2App:
         n = len(self.classifier.le.classes_)
         self._set_state("IDLE", "idle")
         self._show_banner(True)
-        self._log(f"[System] Alpha 2.0 online — {n} intents loaded.", GREEN)
+        self._log(f"[System] ARCA online — {n} intents loaded.", GREEN)
         self._log('[System] Say  "ALPHA"  to activate the session.', ACCENT2)
         from core.translator import status as translator_status
         self._log(f"[System] {translator_status()}", TEXT_DIM)
-        speak("Alpha 2.0 online. Say Alpha to activate.")
+        speak("ARCA online. Say Alpha to activate.")
         self._wave_full.set_active(False)
         self._wave_compact.set_active(False)
         self._listener.start()
@@ -640,7 +640,7 @@ class Alpha2App:
         
         for r in results:
             if r["result"] == "__SHUTDOWN__":
-                self._log("[System] Shutdown command — closing Alpha 2.0.", RED)
+                self._log("[System] Shutdown command — closing ARCA.", RED)
                 self.root.after(800, self._on_close)
                 return
             self._log(f"[Exec]  [{r['intent']}] {r['result']}", GREEN)

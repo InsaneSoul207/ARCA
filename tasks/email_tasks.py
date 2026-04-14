@@ -95,7 +95,7 @@ def draft_and_send_email(raw: str) -> str:
 
     def _interactive():
         print("\n" + "─" * 56)
-        print("  ALPHA 2.0  —  Email Composer")
+        print("  ARCA  —  Email Composer")
         print("─" * 56)
 
         to = recipient_email

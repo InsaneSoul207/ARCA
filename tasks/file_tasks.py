@@ -5,7 +5,7 @@ def create_file():
     path = os.path.join(os.path.expanduser("~"), "Desktop",
                         f"alpha_note_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
     with open(path, "w") as f:
-        f.write(f"Created by Alpha 2.0 at {datetime.datetime.now()}\n")
+        f.write(f"Created by ARCA at {datetime.datetime.now()}\n")
     return f"File created on Desktop: {os.path.basename(path)}"
 
 def list_files():
