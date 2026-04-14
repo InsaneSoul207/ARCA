@@ -1,13 +1,7 @@
-"""
-Alpha 2.0 — Central Configuration
-All paths, model hyper-parameters, speech settings, UI colours and fonts live here.
-Import with:  from config import *   (UI files)
-              from config import X, Y  (specific files)
-"""
 import os
  
 # ── Identity ───────────────────────────────────────────────────────────────────
-APP_NAME = "Alpha 2.0"
+APP_NAME = "ARCA"
 VERSION  = "MVP-1.0  |  Windows"
  
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
